@@ -1,0 +1,2993 @@
+{
+  "schemaVersion": 1,
+  "packId": "math_core_v2",
+  "title": "Math Core",
+  "kind": "core",
+  "language": "en",
+  "version": 1,
+  "author": "Solve & Evolve",
+  "stages": [
+    {
+      "mode": "math",
+      "stage": 1,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 2,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 3,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 4,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 5,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 6,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 7,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 8,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 9,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 10,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 11,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 12,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 13,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 14,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 15,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 16,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 17,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 18,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 19,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "math",
+      "stage": 20,
+      "questionsRequired": 4
+    }
+  ],
+  "challenges": [
+    {
+      "id": "math_001_01",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "52 + 5 = ?"
+      },
+      "answer": "57",
+      "distractors": [
+        "47",
+        "56",
+        "59"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_001_02",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "73 + 4 = ?"
+      },
+      "answer": "77",
+      "distractors": [
+        "79",
+        "67",
+        "76"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_001_03",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "60 + 3 = ?"
+      },
+      "answer": "63",
+      "distractors": [
+        "53",
+        "62",
+        "73"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_001_04",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "21 + 5 = ?"
+      },
+      "answer": "26",
+      "distractors": [
+        "24",
+        "28",
+        "25"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_001_05",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "74 + 4 = ?"
+      },
+      "answer": "78",
+      "distractors": [
+        "77",
+        "68",
+        "88"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_001_06",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "71 + 3 = ?"
+      },
+      "answer": "74",
+      "distractors": [
+        "71",
+        "76",
+        "73"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_001_07",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "81 + 7 = ?"
+      },
+      "answer": "88",
+      "distractors": [
+        "85",
+        "90",
+        "87"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_001_08",
+      "mode": "math",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "54 + 2 = ?"
+      },
+      "answer": "56",
+      "distractors": [
+        "46",
+        "54",
+        "55"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_01",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "72 + 6 = ?"
+      },
+      "answer": "78",
+      "distractors": [
+        "81",
+        "77",
+        "68"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_02",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "73 + 6 = ?"
+      },
+      "answer": "79",
+      "distractors": [
+        "82",
+        "77",
+        "78"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_03",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "43 + 4 = ?"
+      },
+      "answer": "47",
+      "distractors": [
+        "50",
+        "46",
+        "45"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_04",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "64 + 5 = ?"
+      },
+      "answer": "69",
+      "distractors": [
+        "59",
+        "71",
+        "68"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_05",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "70 + 7 = ?"
+      },
+      "answer": "77",
+      "distractors": [
+        "76",
+        "80",
+        "67"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_06",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "41 + 5 = ?"
+      },
+      "answer": "46",
+      "distractors": [
+        "45",
+        "56",
+        "48"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_07",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "30 + 5 = ?"
+      },
+      "answer": "35",
+      "distractors": [
+        "34",
+        "37",
+        "38"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_002_08",
+      "mode": "math",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "22 + 5 = ?"
+      },
+      "answer": "27",
+      "distractors": [
+        "24",
+        "30",
+        "26"
+      ],
+      "tags": [
+        "two_digit_plus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_01",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "92 - 2 = ?"
+      },
+      "answer": "90",
+      "distractors": [
+        "89",
+        "88",
+        "87"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_02",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "46 - 6 = ?"
+      },
+      "answer": "40",
+      "distractors": [
+        "42",
+        "39",
+        "37"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_03",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "39 - 5 = ?"
+      },
+      "answer": "34",
+      "distractors": [
+        "24",
+        "44",
+        "33"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_04",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "25 - 3 = ?"
+      },
+      "answer": "22",
+      "distractors": [
+        "21",
+        "19",
+        "32"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_05",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "15 - 2 = ?"
+      },
+      "answer": "13",
+      "distractors": [
+        "11",
+        "16",
+        "12"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_06",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "29 - 7 = ?"
+      },
+      "answer": "22",
+      "distractors": [
+        "19",
+        "21",
+        "24"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_07",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "89 - 7 = ?"
+      },
+      "answer": "82",
+      "distractors": [
+        "72",
+        "81",
+        "80"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_003_08",
+      "mode": "math",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "43 - 3 = ?"
+      },
+      "answer": "40",
+      "distractors": [
+        "43",
+        "39",
+        "37"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_01",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "49 - 2 = ?"
+      },
+      "answer": "47",
+      "distractors": [
+        "46",
+        "37",
+        "44"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_02",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "88 - 2 = ?"
+      },
+      "answer": "86",
+      "distractors": [
+        "76",
+        "84",
+        "85"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_03",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "85 - 2 = ?"
+      },
+      "answer": "83",
+      "distractors": [
+        "93",
+        "82",
+        "73"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_04",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "59 - 3 = ?"
+      },
+      "answer": "56",
+      "distractors": [
+        "58",
+        "55",
+        "54"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_05",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "86 - 5 = ?"
+      },
+      "answer": "81",
+      "distractors": [
+        "80",
+        "71",
+        "84"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_06",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "29 - 6 = ?"
+      },
+      "answer": "23",
+      "distractors": [
+        "13",
+        "20",
+        "22"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_07",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "67 - 3 = ?"
+      },
+      "answer": "64",
+      "distractors": [
+        "63",
+        "66",
+        "62"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_004_08",
+      "mode": "math",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "67 - 2 = ?"
+      },
+      "answer": "65",
+      "distractors": [
+        "68",
+        "63",
+        "64"
+      ],
+      "tags": [
+        "two_digit_minus_one_digit"
+      ]
+    },
+    {
+      "id": "math_005_01",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "6 × 5 = ?"
+      },
+      "answer": "30",
+      "distractors": [
+        "35",
+        "25",
+        "31"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_005_02",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "8 × 10 = ?"
+      },
+      "answer": "80",
+      "distractors": [
+        "90",
+        "70",
+        "81"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_005_03",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "3 × 10 = ?"
+      },
+      "answer": "30",
+      "distractors": [
+        "40",
+        "20",
+        "31"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_005_04",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "4 × 5 = ?"
+      },
+      "answer": "20",
+      "distractors": [
+        "25",
+        "15",
+        "21"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_005_05",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "10 × 8 = ?"
+      },
+      "answer": "80",
+      "distractors": [
+        "90",
+        "70",
+        "81"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_005_06",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "2 × 7 = ?"
+      },
+      "answer": "14",
+      "distractors": [
+        "16",
+        "12",
+        "15"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_005_07",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "8 × 2 = ?"
+      },
+      "answer": "16",
+      "distractors": [
+        "18",
+        "14",
+        "17"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_005_08",
+      "mode": "math",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "2 × 4 = ?"
+      },
+      "answer": "8",
+      "distractors": [
+        "10",
+        "6",
+        "9"
+      ],
+      "tags": [
+        "times_2_5_10"
+      ]
+    },
+    {
+      "id": "math_006_01",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "28 + 7 = ?"
+      },
+      "answer": "35",
+      "distractors": [
+        "34",
+        "32",
+        "33"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_006_02",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "45 + 5 = ?"
+      },
+      "answer": "50",
+      "distractors": [
+        "49",
+        "48",
+        "60"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_006_03",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "87 + 3 = ?"
+      },
+      "answer": "90",
+      "distractors": [
+        "87",
+        "89",
+        "88"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_006_04",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "75 + 9 = ?"
+      },
+      "answer": "84",
+      "distractors": [
+        "83",
+        "74",
+        "82"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_006_05",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "46 + 8 = ?"
+      },
+      "answer": "54",
+      "distractors": [
+        "64",
+        "57",
+        "53"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_006_06",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "53 + 8 = ?"
+      },
+      "answer": "61",
+      "distractors": [
+        "71",
+        "59",
+        "60"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_006_07",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "17 + 9 = ?"
+      },
+      "answer": "26",
+      "distractors": [
+        "25",
+        "29",
+        "24"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_006_08",
+      "mode": "math",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "41 + 9 = ?"
+      },
+      "answer": "50",
+      "distractors": [
+        "48",
+        "40",
+        "49"
+      ],
+      "tags": [
+        "adding_with_carry"
+      ]
+    },
+    {
+      "id": "math_007_01",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "23 - 6 = ?"
+      },
+      "answer": "17",
+      "distractors": [
+        "16",
+        "19",
+        "14"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_007_02",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "63 - 9 = ?"
+      },
+      "answer": "54",
+      "distractors": [
+        "52",
+        "53",
+        "51"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_007_03",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "53 - 4 = ?"
+      },
+      "answer": "49",
+      "distractors": [
+        "51",
+        "48",
+        "46"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_007_04",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "71 - 6 = ?"
+      },
+      "answer": "65",
+      "distractors": [
+        "67",
+        "64",
+        "68"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_007_05",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "94 - 7 = ?"
+      },
+      "answer": "87",
+      "distractors": [
+        "86",
+        "77",
+        "85"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_007_06",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "51 - 9 = ?"
+      },
+      "answer": "42",
+      "distractors": [
+        "52",
+        "41",
+        "45"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_007_07",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "53 - 7 = ?"
+      },
+      "answer": "46",
+      "distractors": [
+        "49",
+        "56",
+        "45"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_007_08",
+      "mode": "math",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "93 - 6 = ?"
+      },
+      "answer": "87",
+      "distractors": [
+        "86",
+        "90",
+        "77"
+      ],
+      "tags": [
+        "subtracting_with_borrow"
+      ]
+    },
+    {
+      "id": "math_008_01",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "6 × 4 = ?"
+      },
+      "answer": "24",
+      "distractors": [
+        "28",
+        "20",
+        "25"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_008_02",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "2 × 2 = ?"
+      },
+      "answer": "4",
+      "distractors": [
+        "6",
+        "2",
+        "5"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_008_03",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "4 × 2 = ?"
+      },
+      "answer": "8",
+      "distractors": [
+        "10",
+        "6",
+        "9"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_008_04",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "5 × 7 = ?"
+      },
+      "answer": "35",
+      "distractors": [
+        "40",
+        "30",
+        "36"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_008_05",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "2 × 10 = ?"
+      },
+      "answer": "20",
+      "distractors": [
+        "22",
+        "18",
+        "21"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_008_06",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "5 × 4 = ?"
+      },
+      "answer": "20",
+      "distractors": [
+        "24",
+        "16",
+        "21"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_008_07",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "7 × 2 = ?"
+      },
+      "answer": "14",
+      "distractors": [
+        "16",
+        "12",
+        "15"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_008_08",
+      "mode": "math",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "3 × 2 = ?"
+      },
+      "answer": "6",
+      "distractors": [
+        "8",
+        "4",
+        "7"
+      ],
+      "tags": [
+        "times_tables_2_to_5"
+      ]
+    },
+    {
+      "id": "math_009_01",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "32 + 52 = ?"
+      },
+      "answer": "84",
+      "distractors": [
+        "82",
+        "74",
+        "83"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_009_02",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "44 + 15 = ?"
+      },
+      "answer": "59",
+      "distractors": [
+        "57",
+        "58",
+        "56"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_009_03",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "40 + 27 = ?"
+      },
+      "answer": "67",
+      "distractors": [
+        "69",
+        "64",
+        "66"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_009_04",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "36 + 22 = ?"
+      },
+      "answer": "58",
+      "distractors": [
+        "57",
+        "61",
+        "55"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_009_05",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "41 + 33 = ?"
+      },
+      "answer": "74",
+      "distractors": [
+        "71",
+        "73",
+        "84"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_009_06",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "11 + 55 = ?"
+      },
+      "answer": "66",
+      "distractors": [
+        "69",
+        "63",
+        "65"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_009_07",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "11 + 20 = ?"
+      },
+      "answer": "31",
+      "distractors": [
+        "30",
+        "41",
+        "28"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_009_08",
+      "mode": "math",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "24 + 62 = ?"
+      },
+      "answer": "86",
+      "distractors": [
+        "85",
+        "84",
+        "88"
+      ],
+      "tags": [
+        "two_digit_plus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_01",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "88 - 20 = ?"
+      },
+      "answer": "68",
+      "distractors": [
+        "78",
+        "58",
+        "67"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_02",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "71 - 61 = ?"
+      },
+      "answer": "10",
+      "distractors": [
+        "13",
+        "9",
+        "7"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_03",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "84 - 30 = ?"
+      },
+      "answer": "54",
+      "distractors": [
+        "57",
+        "53",
+        "44"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_04",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "89 - 79 = ?"
+      },
+      "answer": "10",
+      "distractors": [
+        "13",
+        "7",
+        "9"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_05",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "58 - 13 = ?"
+      },
+      "answer": "45",
+      "distractors": [
+        "48",
+        "43",
+        "44"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_06",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "96 - 40 = ?"
+      },
+      "answer": "56",
+      "distractors": [
+        "55",
+        "66",
+        "46"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_07",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "89 - 17 = ?"
+      },
+      "answer": "72",
+      "distractors": [
+        "71",
+        "70",
+        "74"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_010_08",
+      "mode": "math",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "98 - 33 = ?"
+      },
+      "answer": "65",
+      "distractors": [
+        "68",
+        "64",
+        "55"
+      ],
+      "tags": [
+        "two_digit_minus_two_digit"
+      ]
+    },
+    {
+      "id": "math_011_01",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "3 × 6 = ?"
+      },
+      "answer": "18",
+      "distractors": [
+        "21",
+        "15",
+        "19"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_011_02",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "9 × 4 = ?"
+      },
+      "answer": "36",
+      "distractors": [
+        "40",
+        "32",
+        "37"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_011_03",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "10 × 4 = ?"
+      },
+      "answer": "40",
+      "distractors": [
+        "44",
+        "36",
+        "41"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_011_04",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "6 × 10 = ?"
+      },
+      "answer": "60",
+      "distractors": [
+        "66",
+        "54",
+        "61"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_011_05",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "6 × 9 = ?"
+      },
+      "answer": "54",
+      "distractors": [
+        "60",
+        "48",
+        "55"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_011_06",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "10 × 3 = ?"
+      },
+      "answer": "30",
+      "distractors": [
+        "33",
+        "27",
+        "31"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_011_07",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "6 × 7 = ?"
+      },
+      "answer": "42",
+      "distractors": [
+        "48",
+        "36",
+        "43"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_011_08",
+      "mode": "math",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "5 × 6 = ?"
+      },
+      "answer": "30",
+      "distractors": [
+        "36",
+        "24",
+        "31"
+      ],
+      "tags": [
+        "times_tables_to_6"
+      ]
+    },
+    {
+      "id": "math_012_01",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "37 + 29 = ?"
+      },
+      "answer": "66",
+      "distractors": [
+        "65",
+        "63",
+        "76"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_012_02",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "12 + 68 = ?"
+      },
+      "answer": "80",
+      "distractors": [
+        "70",
+        "90",
+        "79"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_012_03",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "16 + 75 = ?"
+      },
+      "answer": "91",
+      "distractors": [
+        "88",
+        "90",
+        "81"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_012_04",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "28 + 37 = ?"
+      },
+      "answer": "65",
+      "distractors": [
+        "64",
+        "62",
+        "68"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_012_05",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "34 + 58 = ?"
+      },
+      "answer": "92",
+      "distractors": [
+        "91",
+        "90",
+        "95"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_012_06",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "28 + 59 = ?"
+      },
+      "answer": "87",
+      "distractors": [
+        "86",
+        "85",
+        "77"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_012_07",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "17 + 73 = ?"
+      },
+      "answer": "90",
+      "distractors": [
+        "87",
+        "92",
+        "89"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_012_08",
+      "mode": "math",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "14 + 16 = ?"
+      },
+      "answer": "30",
+      "distractors": [
+        "29",
+        "33",
+        "27"
+      ],
+      "tags": [
+        "two_digit_addition_with_carry"
+      ]
+    },
+    {
+      "id": "math_013_01",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "84 - 48 = ?"
+      },
+      "answer": "36",
+      "distractors": [
+        "35",
+        "39",
+        "46"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_013_02",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "60 - 33 = ?"
+      },
+      "answer": "27",
+      "distractors": [
+        "24",
+        "30",
+        "26"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_013_03",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "95 - 37 = ?"
+      },
+      "answer": "58",
+      "distractors": [
+        "57",
+        "61",
+        "48"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_013_04",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "97 - 69 = ?"
+      },
+      "answer": "28",
+      "distractors": [
+        "30",
+        "27",
+        "18"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_013_05",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "85 - 48 = ?"
+      },
+      "answer": "37",
+      "distractors": [
+        "36",
+        "34",
+        "27"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_013_06",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "34 - 15 = ?"
+      },
+      "answer": "19",
+      "distractors": [
+        "18",
+        "22",
+        "21"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_013_07",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "64 - 48 = ?"
+      },
+      "answer": "16",
+      "distractors": [
+        "18",
+        "19",
+        "15"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_013_08",
+      "mode": "math",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "83 - 14 = ?"
+      },
+      "answer": "69",
+      "distractors": [
+        "67",
+        "68",
+        "59"
+      ],
+      "tags": [
+        "two_digit_subtraction_with_borrow"
+      ]
+    },
+    {
+      "id": "math_014_01",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "9 × 10 = ?"
+      },
+      "answer": "90",
+      "distractors": [
+        "99",
+        "81",
+        "91"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_014_02",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "7 × 7 = ?"
+      },
+      "answer": "49",
+      "distractors": [
+        "56",
+        "42",
+        "50"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_014_03",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "3 × 8 = ?"
+      },
+      "answer": "24",
+      "distractors": [
+        "32",
+        "16",
+        "25"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_014_04",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "4 × 6 = ?"
+      },
+      "answer": "24",
+      "distractors": [
+        "30",
+        "18",
+        "25"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_014_05",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "8 × 7 = ?"
+      },
+      "answer": "56",
+      "distractors": [
+        "63",
+        "49",
+        "57"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_014_06",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "6 × 3 = ?"
+      },
+      "answer": "18",
+      "distractors": [
+        "24",
+        "12",
+        "19"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_014_07",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "7 × 3 = ?"
+      },
+      "answer": "21",
+      "distractors": [
+        "28",
+        "14",
+        "22"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_014_08",
+      "mode": "math",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "8 × 8 = ?"
+      },
+      "answer": "64",
+      "distractors": [
+        "72",
+        "56",
+        "65"
+      ],
+      "tags": [
+        "times_tables_to_10"
+      ]
+    },
+    {
+      "id": "math_015_01",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "63 + 27 = ?"
+      },
+      "answer": "90",
+      "distractors": [
+        "89",
+        "88",
+        "100"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_015_02",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "71 - 41 = ?"
+      },
+      "answer": "30",
+      "distractors": [
+        "28",
+        "29",
+        "32"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_015_03",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "97 - 51 = ?"
+      },
+      "answer": "46",
+      "distractors": [
+        "45",
+        "48",
+        "44"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_015_04",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "61 + 35 = ?"
+      },
+      "answer": "96",
+      "distractors": [
+        "99",
+        "95",
+        "98"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_015_05",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "67 - 16 = ?"
+      },
+      "answer": "51",
+      "distractors": [
+        "50",
+        "48",
+        "61"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_015_06",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "64 - 37 = ?"
+      },
+      "answer": "27",
+      "distractors": [
+        "24",
+        "25",
+        "26"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_015_07",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "78 - 18 = ?"
+      },
+      "answer": "60",
+      "distractors": [
+        "50",
+        "59",
+        "70"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_015_08",
+      "mode": "math",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "92 - 35 = ?"
+      },
+      "answer": "57",
+      "distractors": [
+        "54",
+        "56",
+        "55"
+      ],
+      "tags": [
+        "mixed_plus_and_minus"
+      ]
+    },
+    {
+      "id": "math_016_01",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 33 = 40"
+      },
+      "answer": "7",
+      "distractors": [
+        "6",
+        "4",
+        "5"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_016_02",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 43 = 60"
+      },
+      "answer": "17",
+      "distractors": [
+        "19",
+        "16",
+        "14"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_016_03",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 23 = 90"
+      },
+      "answer": "67",
+      "distractors": [
+        "66",
+        "57",
+        "69"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_016_04",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 46 = 90"
+      },
+      "answer": "44",
+      "distractors": [
+        "43",
+        "46",
+        "34"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_016_05",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 15 = 50"
+      },
+      "answer": "35",
+      "distractors": [
+        "38",
+        "33",
+        "34"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_016_06",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 15 = 60"
+      },
+      "answer": "45",
+      "distractors": [
+        "43",
+        "44",
+        "35"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_016_07",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 20 = 70"
+      },
+      "answer": "50",
+      "distractors": [
+        "53",
+        "52",
+        "49"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_016_08",
+      "mode": "math",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "? + 38 = 90"
+      },
+      "answer": "52",
+      "distractors": [
+        "55",
+        "62",
+        "51"
+      ],
+      "tags": [
+        "missing_number"
+      ]
+    },
+    {
+      "id": "math_017_01",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "24 ÷ 6 = ?"
+      },
+      "answer": "4",
+      "distractors": [
+        "1",
+        "3",
+        "7"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_017_02",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "54 ÷ 9 = ?"
+      },
+      "answer": "6",
+      "distractors": [
+        "4",
+        "5",
+        "8"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_017_03",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "45 ÷ 5 = ?"
+      },
+      "answer": "9",
+      "distractors": [
+        "6",
+        "12",
+        "8"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_017_04",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "32 ÷ 8 = ?"
+      },
+      "answer": "4",
+      "distractors": [
+        "3",
+        "7",
+        "6"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_017_05",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "18 ÷ 2 = ?"
+      },
+      "answer": "9",
+      "distractors": [
+        "12",
+        "7",
+        "8"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_017_06",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "56 ÷ 7 = ?"
+      },
+      "answer": "8",
+      "distractors": [
+        "10",
+        "7",
+        "11"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_017_07",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "16 ÷ 8 = ?"
+      },
+      "answer": "2",
+      "distractors": [
+        "1",
+        "4",
+        "5"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_017_08",
+      "mode": "math",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "45 ÷ 9 = ?"
+      },
+      "answer": "5",
+      "distractors": [
+        "3",
+        "4",
+        "8"
+      ],
+      "tags": [
+        "division_facts"
+      ]
+    },
+    {
+      "id": "math_018_01",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "13 × 5 = ?"
+      },
+      "answer": "65",
+      "distractors": [
+        "70",
+        "60",
+        "75"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_018_02",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "14 × 5 = ?"
+      },
+      "answer": "70",
+      "distractors": [
+        "75",
+        "65",
+        "80"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_018_03",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "22 × 3 = ?"
+      },
+      "answer": "66",
+      "distractors": [
+        "69",
+        "63",
+        "76"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_018_04",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "18 × 3 = ?"
+      },
+      "answer": "54",
+      "distractors": [
+        "57",
+        "51",
+        "64"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_018_05",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "16 × 4 = ?"
+      },
+      "answer": "64",
+      "distractors": [
+        "68",
+        "60",
+        "74"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_018_06",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "15 × 3 = ?"
+      },
+      "answer": "45",
+      "distractors": [
+        "48",
+        "42",
+        "55"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_018_07",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "17 × 2 = ?"
+      },
+      "answer": "34",
+      "distractors": [
+        "36",
+        "32",
+        "44"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_018_08",
+      "mode": "math",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "21 × 2 = ?"
+      },
+      "answer": "42",
+      "distractors": [
+        "44",
+        "40",
+        "52"
+      ],
+      "tags": [
+        "two_digit_times_one_digit"
+      ]
+    },
+    {
+      "id": "math_019_01",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "20 + 14 - 3 = ?"
+      },
+      "answer": "31",
+      "distractors": [
+        "30",
+        "29",
+        "34"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_019_02",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "30 + 14 - 3 = ?"
+      },
+      "answer": "41",
+      "distractors": [
+        "43",
+        "31",
+        "40"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_019_03",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "35 + 20 - 2 = ?"
+      },
+      "answer": "53",
+      "distractors": [
+        "50",
+        "52",
+        "56"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_019_04",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "45 + 14 - 3 = ?"
+      },
+      "answer": "56",
+      "distractors": [
+        "53",
+        "59",
+        "55"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_019_05",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "35 + 17 - 4 = ?"
+      },
+      "answer": "48",
+      "distractors": [
+        "50",
+        "51",
+        "47"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_019_06",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "30 + 11 - 2 = ?"
+      },
+      "answer": "39",
+      "distractors": [
+        "38",
+        "36",
+        "49"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_019_07",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "15 + 29 - 2 = ?"
+      },
+      "answer": "42",
+      "distractors": [
+        "32",
+        "39",
+        "41"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_019_08",
+      "mode": "math",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "15 + 5 - 7 = ?"
+      },
+      "answer": "13",
+      "distractors": [
+        "12",
+        "16",
+        "10"
+      ],
+      "tags": [
+        "three_step"
+      ]
+    },
+    {
+      "id": "math_020_01",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "29 + 54 = ?"
+      },
+      "answer": "83",
+      "distractors": [
+        "81",
+        "82",
+        "93"
+      ],
+      "tags": [
+        "everything"
+      ]
+    },
+    {
+      "id": "math_020_02",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "51 + 19 = ?"
+      },
+      "answer": "70",
+      "distractors": [
+        "69",
+        "73",
+        "72"
+      ],
+      "tags": [
+        "everything"
+      ]
+    },
+    {
+      "id": "math_020_03",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "3 × 7 = ?"
+      },
+      "answer": "21",
+      "distractors": [
+        "28",
+        "14",
+        "22"
+      ],
+      "tags": [
+        "everything"
+      ]
+    },
+    {
+      "id": "math_020_04",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "18 + 23 = ?"
+      },
+      "answer": "41",
+      "distractors": [
+        "39",
+        "40",
+        "43"
+      ],
+      "tags": [
+        "everything"
+      ]
+    },
+    {
+      "id": "math_020_05",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "73 - 14 = ?"
+      },
+      "answer": "59",
+      "distractors": [
+        "61",
+        "58",
+        "49"
+      ],
+      "tags": [
+        "everything"
+      ]
+    },
+    {
+      "id": "math_020_06",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "47 + 48 = ?"
+      },
+      "answer": "95",
+      "distractors": [
+        "98",
+        "94",
+        "92"
+      ],
+      "tags": [
+        "everything"
+      ]
+    },
+    {
+      "id": "math_020_07",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "82 - 16 = ?"
+      },
+      "answer": "66",
+      "distractors": [
+        "68",
+        "65",
+        "69"
+      ],
+      "tags": [
+        "everything"
+      ]
+    },
+    {
+      "id": "math_020_08",
+      "mode": "math",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "79 + 15 = ?"
+      },
+      "answer": "94",
+      "distractors": [
+        "91",
+        "93",
+        "84"
+      ],
+      "tags": [
+        "everything"
+      ]
+    }
+  ]
+}

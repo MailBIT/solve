@@ -1,0 +1,3403 @@
+{
+  "schemaVersion": 1,
+  "packId": "bible_core_v1",
+  "title": "Tanakh",
+  "kind": "core",
+  "language": "en",
+  "version": 1,
+  "author": "Solve & Evolve",
+  "stages": [
+    {
+      "mode": "bible",
+      "stage": 1,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 2,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 3,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 4,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 5,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 6,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 7,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 8,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 9,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 10,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 11,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 12,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 13,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 14,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 15,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 16,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 17,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 18,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 19,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 20,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 21,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 22,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 23,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 24,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 25,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 26,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 27,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 28,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 29,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "bible",
+      "stage": 30,
+      "questionsRequired": 4
+    }
+  ],
+  "challenges": [
+    {
+      "id": "tnk_001_01",
+      "mode": "bible",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did God create on the first day?"
+      },
+      "answer": "Light",
+      "distractors": [
+        "Animals",
+        "People",
+        "The Moon"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_001_02",
+      "mode": "bible",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "On which day did God rest?"
+      },
+      "answer": "The seventh day",
+      "distractors": [
+        "The first day",
+        "The third day",
+        "The sixth day"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_001_03",
+      "mode": "bible",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who were the first man and woman?"
+      },
+      "answer": "Adam and Eve (Chava)",
+      "distractors": [
+        "Abraham and Sarah",
+        "Isaac and Rebecca",
+        "Jacob and Rachel"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_001_04",
+      "mode": "bible",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who built the ark?"
+      },
+      "answer": "Noah (Noach)",
+      "distractors": [
+        "Moses (Moshe)",
+        "Abraham (Avraham)",
+        "David"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_001_05",
+      "mode": "bible",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What sign did God show after the flood?"
+      },
+      "answer": "A rainbow",
+      "distractors": [
+        "A star",
+        "A burning bush",
+        "A cloud of fire"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_001_06",
+      "mode": "bible",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which bird brought an olive leaf back to the ark?"
+      },
+      "answer": "A dove",
+      "distractors": [
+        "A raven",
+        "An eagle",
+        "A sparrow"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_002_01",
+      "mode": "bible",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first of the Avot (the fathers)?"
+      },
+      "answer": "Abraham (Avraham)",
+      "distractors": [
+        "Isaac (Yitzchak)",
+        "Jacob (Yaakov)",
+        "Moses (Moshe)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_002_02",
+      "mode": "bible",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the name of Abraham's wife?"
+      },
+      "answer": "Sarah",
+      "distractors": [
+        "Rebecca (Rivka)",
+        "Rachel",
+        "Leah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_002_03",
+      "mode": "bible",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the son of Abraham and Sarah?"
+      },
+      "answer": "Isaac (Yitzchak)",
+      "distractors": [
+        "Jacob (Yaakov)",
+        "Esau (Esav)",
+        "Joseph (Yosef)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_002_04",
+      "mode": "bible",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who were Isaac's twin sons?"
+      },
+      "answer": "Jacob and Esau",
+      "distractors": [
+        "Cain and Abel",
+        "Moses and Aaron",
+        "Joseph and Benjamin"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_002_05",
+      "mode": "bible",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Jacob's name was changed to..."
+      },
+      "answer": "Israel",
+      "distractors": [
+        "Abraham",
+        "Judah",
+        "Levi"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_002_06",
+      "mode": "bible",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many sons did Jacob have?"
+      },
+      "answer": "12",
+      "distractors": [
+        "10",
+        "7",
+        "3"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_003_01",
+      "mode": "bible",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What special gift did Jacob give Joseph?"
+      },
+      "answer": "A colorful coat",
+      "distractors": [
+        "A golden crown",
+        "A sword",
+        "A harp"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_003_02",
+      "mode": "bible",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where was Joseph taken after his brothers sold him?"
+      },
+      "answer": "Egypt",
+      "distractors": [
+        "Babylon",
+        "Persia",
+        "Rome"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_003_03",
+      "mode": "bible",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Pharaoh dreamed of seven fat and seven thin..."
+      },
+      "answer": "Cows",
+      "distractors": [
+        "Horses",
+        "Sheep",
+        "Camels"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_003_04",
+      "mode": "bible",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Joseph's youngest brother?"
+      },
+      "answer": "Benjamin (Binyamin)",
+      "distractors": [
+        "Reuben (Reuven)",
+        "Judah (Yehuda)",
+        "Levi"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_003_05",
+      "mode": "bible",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Joseph's mother?"
+      },
+      "answer": "Rachel",
+      "distractors": [
+        "Leah",
+        "Sarah",
+        "Rebecca (Rivka)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_003_06",
+      "mode": "bible",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Jacob's oldest son?"
+      },
+      "answer": "Reuben (Reuven)",
+      "distractors": [
+        "Joseph (Yosef)",
+        "Judah (Yehuda)",
+        "Benjamin (Binyamin)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_004_01",
+      "mode": "bible",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who found baby Moses in a basket on the Nile?"
+      },
+      "answer": "Pharaoh's daughter",
+      "distractors": [
+        "Miriam",
+        "Sarah",
+        "Deborah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_004_02",
+      "mode": "bible",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How did God speak to Moses in the desert?"
+      },
+      "answer": "From a burning bush",
+      "distractors": [
+        "From a rainbow",
+        "From a tall tower",
+        "From a big fish"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_004_03",
+      "mode": "bible",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many plagues did God bring on Egypt?"
+      },
+      "answer": "10",
+      "distractors": [
+        "7",
+        "12",
+        "3"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_004_04",
+      "mode": "bible",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Moses' brother?"
+      },
+      "answer": "Aaron (Aharon)",
+      "distractors": [
+        "Joshua (Yehoshua)",
+        "Caleb",
+        "Joseph (Yosef)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_004_05",
+      "mode": "bible",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Moses' sister?"
+      },
+      "answer": "Miriam",
+      "distractors": [
+        "Sarah",
+        "Deborah",
+        "Esther"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_004_06",
+      "mode": "bible",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which sea split so the Israelites could cross?"
+      },
+      "answer": "The Red Sea (Yam Suf)",
+      "distractors": [
+        "The Dead Sea",
+        "The Sea of Galilee",
+        "The Mediterranean Sea"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_005_01",
+      "mode": "bible",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What food fell from the sky in the desert?"
+      },
+      "answer": "Manna (Man)",
+      "distractors": [
+        "Bread rolls",
+        "Honey",
+        "Rice"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_005_02",
+      "mode": "bible",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "On which mountain did Moses receive the Ten Commandments?"
+      },
+      "answer": "Mount Sinai",
+      "distractors": [
+        "Mount Moriah",
+        "Mount Carmel",
+        "Mount Hermon"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_005_03",
+      "mode": "bible",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many commandments were on the two tablets?"
+      },
+      "answer": "10",
+      "distractors": [
+        "12",
+        "7",
+        "5"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_005_04",
+      "mode": "bible",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which holiday remembers leaving Egypt?"
+      },
+      "answer": "Passover (Pesach)",
+      "distractors": [
+        "Sukkot",
+        "Purim",
+        "Chanukah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_005_05",
+      "mode": "bible",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many years did the Israelites wander in the desert?"
+      },
+      "answer": "40",
+      "distractors": [
+        "7",
+        "12",
+        "100"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_005_06",
+      "mode": "bible",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led the Israelites into the Land of Israel after Moses?"
+      },
+      "answer": "Joshua (Yehoshua)",
+      "distractors": [
+        "Aaron (Aharon)",
+        "Caleb",
+        "Samuel (Shmuel)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_006_01",
+      "mode": "bible",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which city's walls fell when the shofars were blown?"
+      },
+      "answer": "Jericho (Yericho)",
+      "distractors": [
+        "Jerusalem",
+        "Hebron",
+        "Beersheba"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_006_02",
+      "mode": "bible",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which judge was strong because of his long hair?"
+      },
+      "answer": "Samson (Shimshon)",
+      "distractors": [
+        "Gideon",
+        "Samuel (Shmuel)",
+        "Ehud"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_006_03",
+      "mode": "bible",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which woman was a judge and prophet who led Israel?"
+      },
+      "answer": "Deborah (Devorah)",
+      "distractors": [
+        "Miriam",
+        "Ruth",
+        "Esther"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_006_04",
+      "mode": "bible",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who said to Naomi, \"Where you go, I will go\"?"
+      },
+      "answer": "Ruth",
+      "distractors": [
+        "Esther",
+        "Deborah (Devorah)",
+        "Hannah (Chana)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_006_05",
+      "mode": "bible",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who prayed for a son and became Samuel's mother?"
+      },
+      "answer": "Hannah (Chana)",
+      "distractors": [
+        "Sarah",
+        "Rachel",
+        "Ruth"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_006_06",
+      "mode": "bible",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet anointed Saul and David as kings?"
+      },
+      "answer": "Samuel (Shmuel)",
+      "distractors": [
+        "Elijah (Eliyahu)",
+        "Isaiah (Yeshayahu)",
+        "Jonah (Yonah)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_007_01",
+      "mode": "bible",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first king of Israel?"
+      },
+      "answer": "Saul (Shaul)",
+      "distractors": [
+        "David",
+        "Solomon (Shlomo)",
+        "Samuel (Shmuel)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_007_02",
+      "mode": "bible",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who defeated Goliath with a sling?"
+      },
+      "answer": "David",
+      "distractors": [
+        "Saul (Shaul)",
+        "Samson (Shimshon)",
+        "Jonathan (Yehonatan)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_007_03",
+      "mode": "bible",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What instrument did young David play?"
+      },
+      "answer": "The harp (kinor)",
+      "distractors": [
+        "The drum",
+        "The trumpet",
+        "The flute"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_007_04",
+      "mode": "bible",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was David's best friend, the son of Saul?"
+      },
+      "answer": "Jonathan (Yehonatan)",
+      "distractors": [
+        "Absalom (Avshalom)",
+        "Solomon (Shlomo)",
+        "Samuel (Shmuel)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_007_05",
+      "mode": "bible",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king built the First Temple in Jerusalem?"
+      },
+      "answer": "Solomon (Shlomo)",
+      "distractors": [
+        "David",
+        "Saul (Shaul)",
+        "Hezekiah (Chizkiyahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_007_06",
+      "mode": "bible",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "King Solomon was famous for being very..."
+      },
+      "answer": "Wise",
+      "distractors": [
+        "Tall",
+        "Fast",
+        "Loud"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_008_01",
+      "mode": "bible",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet was swallowed by a big fish?"
+      },
+      "answer": "Jonah (Yonah)",
+      "distractors": [
+        "Elijah (Eliyahu)",
+        "Daniel",
+        "Isaiah (Yeshayahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_008_02",
+      "mode": "bible",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "To which city did God send Jonah?"
+      },
+      "answer": "Nineveh",
+      "distractors": [
+        "Babylon",
+        "Jerusalem",
+        "Jericho"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_008_03",
+      "mode": "bible",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet went up to heaven in a fiery chariot?"
+      },
+      "answer": "Elijah (Eliyahu)",
+      "distractors": [
+        "Elisha",
+        "Moses (Moshe)",
+        "Jonah (Yonah)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_008_04",
+      "mode": "bible",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "On which mountain did Elijah face the prophets of Baal?"
+      },
+      "answer": "Mount Carmel",
+      "distractors": [
+        "Mount Sinai",
+        "Mount Moriah",
+        "Mount Nebo"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_008_05",
+      "mode": "bible",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was thrown into a den of lions and was not hurt?"
+      },
+      "answer": "Daniel",
+      "distractors": [
+        "David",
+        "Samson (Shimshon)",
+        "Jonah (Yonah)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_008_06",
+      "mode": "bible",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet received Elijah's cloak?"
+      },
+      "answer": "Elisha",
+      "distractors": [
+        "Isaiah (Yeshayahu)",
+        "Jeremiah (Yirmiyahu)",
+        "Jonah (Yonah)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_009_01",
+      "mode": "bible",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which holiday tells the story of Queen Esther?"
+      },
+      "answer": "Purim",
+      "distractors": [
+        "Passover (Pesach)",
+        "Chanukah",
+        "Sukkot"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_009_02",
+      "mode": "bible",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Esther's cousin who raised her?"
+      },
+      "answer": "Mordechai",
+      "distractors": [
+        "Haman",
+        "Ahasuerus (Achashverosh)",
+        "Daniel"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_009_03",
+      "mode": "bible",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the villain in the Purim story?"
+      },
+      "answer": "Haman",
+      "distractors": [
+        "Mordechai",
+        "Pharaoh",
+        "Goliath"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_009_04",
+      "mode": "bible",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king made Esther queen?"
+      },
+      "answer": "Ahasuerus (Achashverosh)",
+      "distractors": [
+        "Nebuchadnezzar",
+        "Cyrus (Koresh)",
+        "David"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_009_05",
+      "mode": "bible",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Babylonian king destroyed the First Temple?"
+      },
+      "answer": "Nebuchadnezzar",
+      "distractors": [
+        "Cyrus (Koresh)",
+        "Ahasuerus (Achashverosh)",
+        "Pharaoh"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_009_06",
+      "mode": "bible",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Persian king let the Jews return and rebuild the Temple?"
+      },
+      "answer": "Cyrus (Koresh)",
+      "distractors": [
+        "Nebuchadnezzar",
+        "Ahasuerus (Achashverosh)",
+        "Haman"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_010_01",
+      "mode": "bible",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Abraham's nephew who lived in Sodom?"
+      },
+      "answer": "Lot",
+      "distractors": [
+        "Isaac (Yitzchak)",
+        "Laban (Lavan)",
+        "Esau (Esav)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_010_02",
+      "mode": "bible",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Rebecca's brother, who tricked Jacob?"
+      },
+      "answer": "Laban (Lavan)",
+      "distractors": [
+        "Lot",
+        "Esau (Esav)",
+        "Isaac (Yitzchak)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_010_03",
+      "mode": "bible",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Esau sell to Jacob for a bowl of stew?"
+      },
+      "answer": "His birthright",
+      "distractors": [
+        "His coat",
+        "His sheep",
+        "His sword"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_010_04",
+      "mode": "bible",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "From which tribe did the Kohanim (priests) come?"
+      },
+      "answer": "Levi",
+      "distractors": [
+        "Judah (Yehuda)",
+        "Benjamin (Binyamin)",
+        "Reuben (Reuven)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_010_05",
+      "mode": "bible",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the mother of Moses?"
+      },
+      "answer": "Yocheved",
+      "distractors": [
+        "Miriam",
+        "Sarah",
+        "Tzipporah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_010_06",
+      "mode": "bible",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the first book of the Torah?"
+      },
+      "answer": "Genesis (Bereishit)",
+      "distractors": [
+        "Exodus (Shemot)",
+        "Leviticus (Vayikra)",
+        "Numbers (Bamidbar)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_011_01",
+      "mode": "bible",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did God create on the fourth day?"
+      },
+      "answer": "The sun, moon and stars",
+      "distractors": [
+        "Fish and birds",
+        "Plants",
+        "People"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_011_02",
+      "mode": "bible",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "On which day did God create fish and birds?"
+      },
+      "answer": "The fifth day",
+      "distractors": [
+        "The first day",
+        "The third day",
+        "The seventh day"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_011_03",
+      "mode": "bible",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was Adam made from?"
+      },
+      "answer": "Dust of the ground",
+      "distractors": [
+        "Water",
+        "Fire",
+        "Gold"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_011_04",
+      "mode": "bible",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the garden where Adam and Eve lived?"
+      },
+      "answer": "The Garden of Eden",
+      "distractors": [
+        "The Garden of Babylon",
+        "Mount Sinai",
+        "Goshen"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_011_05",
+      "mode": "bible",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who were Adam and Eve's first two sons?"
+      },
+      "answer": "Cain and Abel",
+      "distractors": [
+        "Jacob and Esau",
+        "Moses and Aaron",
+        "Isaac and Ishmael"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_011_06",
+      "mode": "bible",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which tree were Adam and Eve told not to eat from?"
+      },
+      "answer": "The Tree of Knowledge",
+      "distractors": [
+        "The olive tree",
+        "The fig tree",
+        "The palm tree"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_012_01",
+      "mode": "bible",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "For how many days and nights did it rain in the flood?"
+      },
+      "answer": "40",
+      "distractors": [
+        "7",
+        "12",
+        "100"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_012_02",
+      "mode": "bible",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where did Noah's ark come to rest?"
+      },
+      "answer": "The mountains of Ararat",
+      "distractors": [
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount Zion"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_012_03",
+      "mode": "bible",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What were the names of Noah's three sons?"
+      },
+      "answer": "Shem, Ham and Japheth",
+      "distractors": [
+        "Cain, Abel and Seth",
+        "Jacob, Esau and Lot",
+        "Moses, Aaron and Joshua"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_012_04",
+      "mode": "bible",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which tower did people build to reach the sky?"
+      },
+      "answer": "The Tower of Babel",
+      "distractors": [
+        "The Tower of David",
+        "The Tower of Jericho",
+        "The Tower of Egypt"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_012_05",
+      "mode": "bible",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What happened to the people who built the Tower of Babel?"
+      },
+      "answer": "They spoke different languages",
+      "distractors": [
+        "They became giants",
+        "They flew away",
+        "They turned to salt"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_012_06",
+      "mode": "bible",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which bird did Noah send out first?"
+      },
+      "answer": "A raven",
+      "distractors": [
+        "A dove",
+        "An eagle",
+        "A sparrow"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_013_01",
+      "mode": "bible",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which city did Abraham come from?"
+      },
+      "answer": "Ur of the Chaldees",
+      "distractors": [
+        "Egypt",
+        "Jericho",
+        "Nineveh"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_013_02",
+      "mode": "bible",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was Abraham's name before God changed it?"
+      },
+      "answer": "Abram",
+      "distractors": [
+        "Abner",
+        "Aaron",
+        "Abel"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_013_03",
+      "mode": "bible",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was Sarah's name before God changed it?"
+      },
+      "answer": "Sarai",
+      "distractors": [
+        "Rachel",
+        "Rivka",
+        "Miriam"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_013_04",
+      "mode": "bible",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How old was Abraham when Isaac was born?"
+      },
+      "answer": "100",
+      "distractors": [
+        "50",
+        "70",
+        "120"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_013_05",
+      "mode": "bible",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the mother of Ishmael?"
+      },
+      "answer": "Hagar",
+      "distractors": [
+        "Sarah",
+        "Leah",
+        "Bilhah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_013_06",
+      "mode": "bible",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What happened to Lot's wife when she looked back?"
+      },
+      "answer": "She became a pillar of salt",
+      "distractors": [
+        "She fell asleep",
+        "She became a tree",
+        "She flew away"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_014_01",
+      "mode": "bible",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whom did Isaac marry?"
+      },
+      "answer": "Rebecca (Rivka)",
+      "distractors": [
+        "Rachel",
+        "Leah",
+        "Sarah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_014_02",
+      "mode": "bible",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who went to find a wife for Isaac and met Rebecca at the well?"
+      },
+      "answer": "Abraham's servant (Eliezer)",
+      "distractors": [
+        "Jacob (Yaakov)",
+        "Isaac (Yitzchak)",
+        "Laban (Lavan)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_014_03",
+      "mode": "bible",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Jacob dream about at Bethel?"
+      },
+      "answer": "A ladder with angels",
+      "distractors": [
+        "Seven cows",
+        "A burning bush",
+        "A great flood"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_014_04",
+      "mode": "bible",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many years did Jacob work so he could marry Rachel?"
+      },
+      "answer": "14",
+      "distractors": [
+        "7",
+        "3",
+        "40"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_014_05",
+      "mode": "bible",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Jacob's first wife?"
+      },
+      "answer": "Leah",
+      "distractors": [
+        "Rachel",
+        "Rebecca (Rivka)",
+        "Dinah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_014_06",
+      "mode": "bible",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "With whom did Jacob wrestle during the night?"
+      },
+      "answer": "An angel",
+      "distractors": [
+        "Esau (Esav)",
+        "Laban (Lavan)",
+        "A lion"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_015_01",
+      "mode": "bible",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Joseph's brothers dip his coat in?"
+      },
+      "answer": "Goat's blood",
+      "distractors": [
+        "Honey",
+        "Wine",
+        "Oil"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_015_02",
+      "mode": "bible",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What job did Pharaoh give Joseph?"
+      },
+      "answer": "Ruler over all Egypt",
+      "distractors": [
+        "Baker",
+        "Shepherd",
+        "Soldier"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_015_03",
+      "mode": "bible",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whose dreams did Joseph explain in prison?"
+      },
+      "answer": "The butler and the baker",
+      "distractors": [
+        "Pharaoh's sons",
+        "Two soldiers",
+        "Two priests"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_015_04",
+      "mode": "bible",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Joseph hide in Benjamin's sack?"
+      },
+      "answer": "A silver cup",
+      "distractors": [
+        "A gold coin",
+        "A sword",
+        "A coat"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_015_05",
+      "mode": "bible",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which part of Egypt did Jacob's family live?"
+      },
+      "answer": "Goshen",
+      "distractors": [
+        "Canaan",
+        "Sinai",
+        "Babylon"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_015_06",
+      "mode": "bible",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many years of hunger (famine) did Joseph predict?"
+      },
+      "answer": "7",
+      "distractors": [
+        "3",
+        "10",
+        "40"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_016_01",
+      "mode": "bible",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the first plague?"
+      },
+      "answer": "Water turned to blood",
+      "distractors": [
+        "Frogs",
+        "Darkness",
+        "Locusts"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_016_02",
+      "mode": "bible",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the last plague?"
+      },
+      "answer": "The death of the firstborn",
+      "distractors": [
+        "Frogs",
+        "Hail",
+        "Lice"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_016_03",
+      "mode": "bible",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did the Israelites put on their doorposts on the first Passover?"
+      },
+      "answer": "Lamb's blood",
+      "distractors": [
+        "Oil",
+        "Flowers",
+        "Honey"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_016_04",
+      "mode": "bible",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What bread did the Israelites bake when they left Egypt in a hurry?"
+      },
+      "answer": "Matzah",
+      "distractors": [
+        "Challah",
+        "Pita",
+        "Bagels"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_016_05",
+      "mode": "bible",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led the women in song and dance after crossing the sea?"
+      },
+      "answer": "Miriam",
+      "distractors": [
+        "Deborah (Devorah)",
+        "Sarah",
+        "Esther"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_016_06",
+      "mode": "bible",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the name of Moses' wife?"
+      },
+      "answer": "Tzipporah",
+      "distractors": [
+        "Miriam",
+        "Yocheved",
+        "Leah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_017_01",
+      "mode": "bible",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did the people make while Moses was up on the mountain?"
+      },
+      "answer": "A golden calf",
+      "distractors": [
+        "A silver lion",
+        "A tower",
+        "A boat"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_017_02",
+      "mode": "bible",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the special box that held the tablets called?"
+      },
+      "answer": "The Ark of the Covenant",
+      "distractors": [
+        "The Menorah",
+        "The Altar",
+        "The Laver"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_017_03",
+      "mode": "bible",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the traveling Temple in the desert called?"
+      },
+      "answer": "The Mishkan (Tabernacle)",
+      "distractors": [
+        "The Kotel",
+        "The Beit Midrash",
+        "The Sukkah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_017_04",
+      "mode": "bible",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many spies did Moses send into the Land of Israel?"
+      },
+      "answer": "12",
+      "distractors": [
+        "2",
+        "7",
+        "40"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_017_05",
+      "mode": "bible",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which two spies brought back a good report?"
+      },
+      "answer": "Joshua and Caleb",
+      "distractors": [
+        "Moses and Aaron",
+        "Korach and Datan",
+        "Eldad and Medad"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_017_06",
+      "mode": "bible",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What huge fruit did the spies carry back?"
+      },
+      "answer": "A cluster of grapes",
+      "distractors": [
+        "A watermelon",
+        "A pineapple",
+        "A coconut"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_018_01",
+      "mode": "bible",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whose donkey spoke to him?"
+      },
+      "answer": "Balaam (Bilaam)",
+      "distractors": [
+        "Balak",
+        "Moses (Moshe)",
+        "Joshua (Yehoshua)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_018_02",
+      "mode": "bible",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who rebelled against Moses and was swallowed by the earth?"
+      },
+      "answer": "Korach",
+      "distractors": [
+        "Aaron (Aharon)",
+        "Caleb",
+        "Pinchas"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_018_03",
+      "mode": "bible",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Moses hit to get water, instead of speaking to it?"
+      },
+      "answer": "A rock",
+      "distractors": [
+        "A tree",
+        "The sea",
+        "A wall"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_018_04",
+      "mode": "bible",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "From which mountain did Moses see the Promised Land?"
+      },
+      "answer": "Mount Nebo",
+      "distractors": [
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount Hermon"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_018_05",
+      "mode": "bible",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How old was Moses when he died?"
+      },
+      "answer": "120",
+      "distractors": [
+        "100",
+        "80",
+        "70"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_018_06",
+      "mode": "bible",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the last book of the Torah?"
+      },
+      "answer": "Deuteronomy (Devarim)",
+      "distractors": [
+        "Numbers (Bamidbar)",
+        "Genesis (Bereishit)",
+        "Joshua (Yehoshua)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_019_01",
+      "mode": "bible",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which river did the Israelites cross into the Land of Israel?"
+      },
+      "answer": "The Jordan",
+      "distractors": [
+        "The Nile",
+        "The Euphrates",
+        "The Tigris"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_019_02",
+      "mode": "bible",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who hid the two spies in Jericho?"
+      },
+      "answer": "Rahab",
+      "distractors": [
+        "Ruth",
+        "Deborah (Devorah)",
+        "Yael"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_019_03",
+      "mode": "bible",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which woman defeated the enemy general Sisera?"
+      },
+      "answer": "Yael",
+      "distractors": [
+        "Deborah (Devorah)",
+        "Rahab",
+        "Ruth"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_019_04",
+      "mode": "bible",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which judge asked God for a sign with a wool fleece?"
+      },
+      "answer": "Gideon",
+      "distractors": [
+        "Samson (Shimshon)",
+        "Ehud",
+        "Samuel (Shmuel)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_019_05",
+      "mode": "bible",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many soldiers did Gideon take into battle?"
+      },
+      "answer": "300",
+      "distractors": [
+        "3,000",
+        "30",
+        "10,000"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_019_06",
+      "mode": "bible",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where did Samson find honey?"
+      },
+      "answer": "Inside a lion",
+      "distractors": [
+        "In a tree",
+        "In a cave",
+        "In a jar"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_020_01",
+      "mode": "bible",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Ruth's mother-in-law?"
+      },
+      "answer": "Naomi",
+      "distractors": [
+        "Hannah (Chana)",
+        "Orpah",
+        "Sarah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_020_02",
+      "mode": "bible",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whom did Ruth marry in Bethlehem?"
+      },
+      "answer": "Boaz",
+      "distractors": [
+        "David",
+        "Elimelech",
+        "Samuel (Shmuel)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_020_03",
+      "mode": "bible",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Ruth was the great-grandmother of which king?"
+      },
+      "answer": "King David",
+      "distractors": [
+        "King Saul",
+        "King Solomon",
+        "King Hezekiah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_020_04",
+      "mode": "bible",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which priest raised young Samuel in Shiloh?"
+      },
+      "answer": "Eli",
+      "distractors": [
+        "Aaron (Aharon)",
+        "Elijah (Eliyahu)",
+        "Elisha"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_020_05",
+      "mode": "bible",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "When God called young Samuel at night, what did he answer?"
+      },
+      "answer": "Here I am",
+      "distractors": [
+        "Good night",
+        "Not now",
+        "Who are you?"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_020_06",
+      "mode": "bible",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "From which tribe was King Saul?"
+      },
+      "answer": "Benjamin (Binyamin)",
+      "distractors": [
+        "Judah (Yehuda)",
+        "Levi",
+        "Dan"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_021_01",
+      "mode": "bible",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was David's father?"
+      },
+      "answer": "Jesse (Yishai)",
+      "distractors": [
+        "Saul (Shaul)",
+        "Samuel (Shmuel)",
+        "Boaz"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_021_02",
+      "mode": "bible",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was David's job when he was a boy?"
+      },
+      "answer": "Shepherd",
+      "distractors": [
+        "Farmer",
+        "Fisherman",
+        "Baker"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_021_03",
+      "mode": "bible",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "From which town did David come?"
+      },
+      "answer": "Bethlehem",
+      "distractors": [
+        "Jericho",
+        "Hebron",
+        "Shiloh"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_021_04",
+      "mode": "bible",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which city did David make his capital?"
+      },
+      "answer": "Jerusalem",
+      "distractors": [
+        "Hebron",
+        "Shechem",
+        "Jericho"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_021_05",
+      "mode": "bible",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many stones did David take to fight Goliath?"
+      },
+      "answer": "5",
+      "distractors": [
+        "1",
+        "3",
+        "10"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_021_06",
+      "mode": "bible",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which book of the Tanakh has many of David's songs?"
+      },
+      "answer": "Psalms (Tehillim)",
+      "distractors": [
+        "Proverbs (Mishlei)",
+        "Job (Iyov)",
+        "Esther"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_022_01",
+      "mode": "bible",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which queen visited King Solomon to test his wisdom?"
+      },
+      "answer": "The Queen of Sheba",
+      "distractors": [
+        "Queen Esther",
+        "Queen Jezebel",
+        "Queen Vashti"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_022_02",
+      "mode": "bible",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which book of wise sayings is linked to King Solomon?"
+      },
+      "answer": "Proverbs (Mishlei)",
+      "distractors": [
+        "Psalms (Tehillim)",
+        "Ruth",
+        "Judges (Shoftim)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_022_03",
+      "mode": "bible",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Two women argued over a baby. Which king solved it wisely?"
+      },
+      "answer": "Solomon (Shlomo)",
+      "distractors": [
+        "David",
+        "Saul (Shaul)",
+        "Hezekiah (Chizkiyahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_022_04",
+      "mode": "bible",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "After Solomon, the kingdom split into Israel and..."
+      },
+      "answer": "Judah",
+      "distractors": [
+        "Egypt",
+        "Moab",
+        "Edom"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_022_05",
+      "mode": "bible",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first king of the northern kingdom of Israel?"
+      },
+      "answer": "Jeroboam",
+      "distractors": [
+        "Rehoboam",
+        "Ahab",
+        "Jehu"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_022_06",
+      "mode": "bible",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which son of Solomon became king of Judah?"
+      },
+      "answer": "Rehoboam",
+      "distractors": [
+        "Jeroboam",
+        "Absalom (Avshalom)",
+        "Josiah (Yoshiyahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_023_01",
+      "mode": "bible",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king was married to the wicked queen Jezebel?"
+      },
+      "answer": "Ahab",
+      "distractors": [
+        "David",
+        "Hezekiah (Chizkiyahu)",
+        "Josiah (Yoshiyahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_023_02",
+      "mode": "bible",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which birds brought food to Elijah?"
+      },
+      "answer": "Ravens",
+      "distractors": [
+        "Doves",
+        "Eagles",
+        "Sparrows"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_023_03",
+      "mode": "bible",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet made an iron axe head float?"
+      },
+      "answer": "Elisha",
+      "distractors": [
+        "Elijah (Eliyahu)",
+        "Jonah (Yonah)",
+        "Daniel"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_023_04",
+      "mode": "bible",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which general was healed by dipping in the Jordan seven times?"
+      },
+      "answer": "Naaman",
+      "distractors": [
+        "Goliath",
+        "Sisera",
+        "Joab"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_023_05",
+      "mode": "bible",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king became king at age 8 and found a Torah scroll in the Temple?"
+      },
+      "answer": "Josiah (Yoshiyahu)",
+      "distractors": [
+        "Hezekiah (Chizkiyahu)",
+        "David",
+        "Solomon (Shlomo)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_023_06",
+      "mode": "bible",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which empire conquered the northern kingdom of Israel?"
+      },
+      "answer": "Assyria",
+      "distractors": [
+        "Babylon",
+        "Persia",
+        "Rome"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_024_01",
+      "mode": "bible",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet saw dry bones come back to life?"
+      },
+      "answer": "Ezekiel (Yechezkel)",
+      "distractors": [
+        "Isaiah (Yeshayahu)",
+        "Jeremiah (Yirmiyahu)",
+        "Amos"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_024_02",
+      "mode": "bible",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet wept over Jerusalem and wrote Lamentations (Eichah)?"
+      },
+      "answer": "Jeremiah (Yirmiyahu)",
+      "distractors": [
+        "Isaiah (Yeshayahu)",
+        "Ezekiel (Yechezkel)",
+        "Jonah (Yonah)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_024_03",
+      "mode": "bible",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet said nations will beat their swords into plowshares?"
+      },
+      "answer": "Isaiah (Yeshayahu)",
+      "distractors": [
+        "Jeremiah (Yirmiyahu)",
+        "Jonah (Yonah)",
+        "Elijah (Eliyahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_024_04",
+      "mode": "bible",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet was a shepherd from Tekoa?"
+      },
+      "answer": "Amos",
+      "distractors": [
+        "Hosea",
+        "Jonah (Yonah)",
+        "Isaiah (Yeshayahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_024_05",
+      "mode": "bible",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What shaded Jonah outside Nineveh?"
+      },
+      "answer": "A plant (kikayon)",
+      "distractors": [
+        "A tent",
+        "A rock",
+        "A tower"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_024_06",
+      "mode": "bible",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many days was Jonah inside the big fish?"
+      },
+      "answer": "3",
+      "distractors": [
+        "7",
+        "1",
+        "40"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_025_01",
+      "mode": "bible",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Daniel's three friends survive?"
+      },
+      "answer": "A fiery furnace",
+      "distractors": [
+        "A lions' den",
+        "A flood",
+        "A pit of snakes"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_025_02",
+      "mode": "bible",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who read the writing on the wall for King Belshazzar?"
+      },
+      "answer": "Daniel",
+      "distractors": [
+        "Mordechai",
+        "Ezra",
+        "Nehemiah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_025_03",
+      "mode": "bible",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Haman want everyone to do for him?"
+      },
+      "answer": "Bow down",
+      "distractors": [
+        "Give him gold",
+        "Sing to him",
+        "Build him a tower"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_025_04",
+      "mode": "bible",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How did Haman choose the day to attack the Jews?"
+      },
+      "answer": "By drawing lots (purim)",
+      "distractors": [
+        "By asking a prophet",
+        "By a dream",
+        "By counting stars"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_025_05",
+      "mode": "bible",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the queen before Esther?"
+      },
+      "answer": "Vashti",
+      "distractors": [
+        "Zeresh",
+        "Jezebel",
+        "Sheba"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_025_06",
+      "mode": "bible",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which city does the Purim story happen?"
+      },
+      "answer": "Shushan",
+      "distractors": [
+        "Jerusalem",
+        "Babylon",
+        "Nineveh"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_026_01",
+      "mode": "bible",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led the rebuilding of the walls of Jerusalem?"
+      },
+      "answer": "Nehemiah",
+      "distractors": [
+        "Ezra",
+        "Daniel",
+        "Mordechai"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_026_02",
+      "mode": "bible",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which scribe read the Torah to all the people after the return?"
+      },
+      "answer": "Ezra",
+      "distractors": [
+        "Nehemiah",
+        "Jeremiah (Yirmiyahu)",
+        "Baruch"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_026_03",
+      "mode": "bible",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Jeremiah said the exile in Babylon would last how many years?"
+      },
+      "answer": "70",
+      "distractors": [
+        "40",
+        "7",
+        "100"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_026_04",
+      "mode": "bible",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which leader from King David's family led the first return to Zion?"
+      },
+      "answer": "Zerubbabel",
+      "distractors": [
+        "Ezra",
+        "Nehemiah",
+        "Mordechai"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_026_05",
+      "mode": "bible",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was Nehemiah's job for the king of Persia?"
+      },
+      "answer": "Cupbearer",
+      "distractors": [
+        "Baker",
+        "General",
+        "Gardener"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_026_06",
+      "mode": "bible",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which festival did the returning Jews celebrate by building booths?"
+      },
+      "answer": "Sukkot",
+      "distractors": [
+        "Purim",
+        "Chanukah",
+        "Passover (Pesach)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_027_01",
+      "mode": "bible",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What are the three parts of the Tanakh?"
+      },
+      "answer": "Torah, Prophets, Writings",
+      "distractors": [
+        "Torah, Mishnah, Talmud",
+        "Genesis, Exodus, Leviticus",
+        "Kings, Judges, Prophets"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_027_02",
+      "mode": "bible",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many books are in the Torah?"
+      },
+      "answer": "5",
+      "distractors": [
+        "10",
+        "7",
+        "12"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_027_03",
+      "mode": "bible",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which book tells of a good man who lost everything and stayed faithful?"
+      },
+      "answer": "Job (Iyov)",
+      "distractors": [
+        "Ruth",
+        "Jonah (Yonah)",
+        "Esther"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_027_04",
+      "mode": "bible",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which book is read on Shavuot?"
+      },
+      "answer": "Ruth",
+      "distractors": [
+        "Esther",
+        "Jonah (Yonah)",
+        "Lamentations (Eichah)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_027_05",
+      "mode": "bible",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which book is read on the afternoon of Yom Kippur?"
+      },
+      "answer": "Jonah (Yonah)",
+      "distractors": [
+        "Ruth",
+        "Esther",
+        "Job (Iyov)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_027_06",
+      "mode": "bible",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which book is read on Tisha B'Av?"
+      },
+      "answer": "Lamentations (Eichah)",
+      "distractors": [
+        "Ruth",
+        "Esther",
+        "Song of Songs"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_028_01",
+      "mode": "bible",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whose staff grew almonds overnight?"
+      },
+      "answer": "Aaron (Aharon)",
+      "distractors": [
+        "Moses (Moshe)",
+        "Korach",
+        "Joshua (Yehoshua)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_028_02",
+      "mode": "bible",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Joseph's Egyptian master?"
+      },
+      "answer": "Potiphar",
+      "distractors": [
+        "Pharaoh",
+        "Laban (Lavan)",
+        "Balak"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_028_03",
+      "mode": "bible",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king of Moab hired Balaam to curse Israel?"
+      },
+      "answer": "Balak",
+      "distractors": [
+        "Pharaoh",
+        "Og",
+        "Sihon"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_028_04",
+      "mode": "bible",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the general of King David's army?"
+      },
+      "answer": "Joab (Yoav)",
+      "distractors": [
+        "Abner",
+        "Uriah",
+        "Absalom (Avshalom)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_028_05",
+      "mode": "bible",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which son of David rebelled against him and had very long hair?"
+      },
+      "answer": "Absalom (Avshalom)",
+      "distractors": [
+        "Solomon (Shlomo)",
+        "Amnon",
+        "Adonijah"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_028_06",
+      "mode": "bible",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophet told King David the story of the poor man's lamb?"
+      },
+      "answer": "Nathan",
+      "distractors": [
+        "Samuel (Shmuel)",
+        "Gad",
+        "Elijah (Eliyahu)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_029_01",
+      "mode": "bible",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where were Abraham and Sarah buried?"
+      },
+      "answer": "The Cave of Machpelah in Hebron",
+      "distractors": [
+        "Jerusalem",
+        "Bethlehem",
+        "Mount Sinai"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_029_02",
+      "mode": "bible",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where is Rachel buried?"
+      },
+      "answer": "On the way to Bethlehem",
+      "distractors": [
+        "In Hebron",
+        "In Egypt",
+        "In Shiloh"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_029_03",
+      "mode": "bible",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "On which mountain was Isaac almost sacrificed?"
+      },
+      "answer": "Mount Moriah",
+      "distractors": [
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount Nebo"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_029_04",
+      "mode": "bible",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where did the Mishkan stand in the days of Eli and Samuel?"
+      },
+      "answer": "Shiloh",
+      "distractors": [
+        "Jerusalem",
+        "Jericho",
+        "Beersheba"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_029_05",
+      "mode": "bible",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which city was destroyed together with Sodom?"
+      },
+      "answer": "Gomorrah",
+      "distractors": [
+        "Jericho",
+        "Nineveh",
+        "Babylon"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_029_06",
+      "mode": "bible",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which land did Moses take care of Jethro's sheep?"
+      },
+      "answer": "Midian",
+      "distractors": [
+        "Egypt",
+        "Canaan",
+        "Moab"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_030_01",
+      "mode": "bible",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Moses' father-in-law?"
+      },
+      "answer": "Jethro (Yitro)",
+      "distractors": [
+        "Laban (Lavan)",
+        "Lot",
+        "Balak"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_030_02",
+      "mode": "bible",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many tribes of Israel were there?"
+      },
+      "answer": "12",
+      "distractors": [
+        "10",
+        "7",
+        "13"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_030_03",
+      "mode": "bible",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which tribe did not get its own land portion?"
+      },
+      "answer": "Levi",
+      "distractors": [
+        "Judah (Yehuda)",
+        "Dan",
+        "Reuben (Reuven)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_030_04",
+      "mode": "bible",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did the High Priest wear in his breastplate to ask God questions?"
+      },
+      "answer": "The Urim and Tumim",
+      "distractors": [
+        "A golden bell",
+        "A silver cup",
+        "A shofar"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_030_05",
+      "mode": "bible",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who lived the longest in the Torah?"
+      },
+      "answer": "Methuselah",
+      "distractors": [
+        "Noah (Noach)",
+        "Adam",
+        "Abraham (Avraham)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    },
+    {
+      "id": "tnk_030_06",
+      "mode": "bible",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which prophetess and judge was the wife of Lappidoth?"
+      },
+      "answer": "Deborah (Devorah)",
+      "distractors": [
+        "Miriam",
+        "Huldah",
+        "Hannah (Chana)"
+      ],
+      "tags": [
+        "tanakh"
+      ]
+    }
+  ]
+}

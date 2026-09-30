@@ -1,0 +1,86 @@
+{
+  "items": [
+    { "id": "map",         "name": "Map",         "icon": "item_map",         "kind": "tool",       "description": "Shows the way to every land." },
+    { "id": "crystal_key", "name": "Crystal Key", "icon": "item_crystal_key", "kind": "key",        "description": "Opens the gate to the Crystal Bridge." },
+    { "id": "rope",        "name": "Rope",        "icon": "item_rope",        "kind": "key",        "description": "Climb down into the Forest of Fractions." },
+    { "id": "lantern",     "name": "Lantern",     "icon": "item_lantern",     "kind": "key",        "description": "Lights the dark path to Emberstone Canyon." },
+    { "id": "telescope",   "name": "Telescope",   "icon": "item_telescope",   "kind": "key",        "description": "Spots the hidden Starfall Sanctum." },
+    { "id": "magic_book",  "name": "Magic Book",  "icon": "item_magic_book",  "kind": "key",        "description": "Opens the Sky Library." },
+    { "id": "scissors",    "name": "Scissors",    "icon": "item_scissors",    "kind": "tool",       "description": "Cuts the vines around hidden treasure." },
+    { "id": "sword",       "name": "Sword",       "icon": "item_sword",       "kind": "cosmetic",   "description": "A shiny sword for a brave hero." },
+    { "id": "crystal",     "name": "Crystal",     "icon": "item_crystal",     "kind": "material",   "description": "Collect 5 to open a legendary chest." },
+    { "id": "backpack",    "name": "Backpack",    "icon": "item_backpack",    "kind": "cosmetic",   "description": "A real explorer's backpack." },
+    { "id": "potion",      "name": "Potion",      "icon": "item_potion",      "kind": "consumable", "description": "Double XP for the next stage." },
+    { "id": "crown",       "name": "Crown",       "icon": "item_crown",       "kind": "key",        "description": "Opens Champion Castle." }
+  ],
+
+  "rewards": [
+    { "id": "start_map",        "when": "start",             "item": "map" },
+    { "id": "math5_key",        "when": "stage_clear", "mode": "math",    "stage": 5,  "item": "crystal_key" },
+    { "id": "english5_rope",    "when": "stage_clear", "mode": "english", "stage": 5,  "item": "rope" },
+    { "id": "math10_lantern",   "when": "stage_clear", "mode": "science", "stage": 5,  "item": "lantern" },
+    { "id": "english10_scope",  "when": "stage_clear", "mode": "puzzle",  "stage": 10, "item": "telescope" },
+    { "id": "hebrew10_book",    "when": "stage_clear", "mode": "hebrew",  "stage": 10, "item": "magic_book" },
+    { "id": "homework_potion",  "when": "homework_finished", "item": "potion", "repeat": true },
+    { "id": "stars100_backpack","when": "stars", "stars": 100, "item": "backpack" },
+    { "id": "level25_crown",    "when": "level", "level": 25,  "item": "crown" },
+    { "id": "area_crystals",    "when": "area_cleared",      "item": "crystal", "count": 3, "repeat": true }
+  ],
+
+  "chests": {
+    "everyStageClears": 5,
+    "coinsMin": 25,
+    "coinsMax": 75,
+    "items": ["scissors", "sword"],
+    "legendaryCrystals": 5,
+    "legendaryCoins": 200,
+    "legendaryItems": ["sword", "backpack", "scissors"]
+  },
+
+  "areas": [
+    {
+      "id": "meadowfoot", "name": "Meadowfoot Valley", "icon": "area_meadowfoot", "theme": "meadow",
+      "mapX": 0.21, "mapY": 0.36,
+      "nodes": [
+        { "id": "meadow_1", "mode": "math" }, { "id": "meadow_2", "mode": "english" }, { "id": "meadow_3", "mode": "hebrew" },
+        { "id": "meadow_4", "mode": "puzzle" }, { "id": "meadow_5", "mode": "math" }
+      ]
+    },
+    {
+      "id": "crystal_bridge", "name": "Crystal Bridge", "icon": "area_crystal_bridge", "theme": "crystal",
+      "requiresItem": "crystal_key", "requiresStars": 20, "hiddenChest": true,
+      "mapX": 0.455, "mapY": 0.4,
+      "nodes": [
+        { "id": "bridge_1", "mode": "science" }, { "id": "bridge_2", "mode": "math" }, { "id": "bridge_3", "mode": "flags" },
+        { "id": "bridge_4", "mode": "english" }, { "id": "bridge_5", "mode": "puzzle" }
+      ]
+    },
+    {
+      "id": "forest", "name": "Forest of Fractions", "icon": "area_forest", "theme": "forest",
+      "requiresItem": "rope", "requiresStars": 60, "hiddenChest": true,
+      "mapX": 0.47, "mapY": 0.7,
+      "nodes": [
+        { "id": "forest_1", "mode": "bible" }, { "id": "forest_2", "mode": "math" }, { "id": "forest_3", "mode": "science" },
+        { "id": "forest_4", "mode": "hebrew" }, { "id": "forest_5", "mode": "flags" }
+      ]
+    },
+    {
+      "id": "emberstone", "name": "Emberstone Canyon", "icon": "area_emberstone", "theme": "ember",
+      "requiresItem": "lantern", "requiresStars": 120, "hiddenChest": true,
+      "mapX": 0.8, "mapY": 0.43,
+      "nodes": [
+        { "id": "ember_1", "mode": "math" }, { "id": "ember_2", "mode": "leaders" }, { "id": "ember_3", "mode": "puzzle" },
+        { "id": "ember_4", "mode": "scientists" }, { "id": "ember_5", "mode": "english" }
+      ]
+    },
+    {
+      "id": "starfall", "name": "Starfall Sanctum", "icon": "area_starfall", "theme": "star",
+      "requiresItem": "telescope", "requiresStars": 200, "hiddenChest": true,
+      "mapX": 0.82, "mapY": 0.74,
+      "nodes": [
+        { "id": "star_1", "mode": "bible" }, { "id": "star_2", "mode": "flags" }, { "id": "star_3", "mode": "science" },
+        { "id": "star_4", "mode": "hebrew" }, { "id": "star_5", "mode": "math" }
+      ]
+    }
+  ]
+}

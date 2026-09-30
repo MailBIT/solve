@@ -1,0 +1,3403 @@
+{
+  "schemaVersion": 1,
+  "packId": "science_core_v1",
+  "title": "Science",
+  "kind": "core",
+  "language": "en",
+  "version": 1,
+  "author": "Solve & Evolve",
+  "stages": [
+    {
+      "mode": "science",
+      "stage": 1,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 2,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 3,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 4,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 5,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 6,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 7,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 8,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 9,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 10,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 11,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 12,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 13,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 14,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 15,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 16,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 17,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 18,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 19,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 20,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 21,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 22,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 23,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 24,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 25,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 26,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 27,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 28,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 29,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "science",
+      "stage": 30,
+      "questionsRequired": 4
+    }
+  ],
+  "challenges": [
+    {
+      "id": "sci_001_01",
+      "mode": "science",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal lays eggs?"
+      },
+      "answer": "Chicken",
+      "distractors": [
+        "Dog",
+        "Cat",
+        "Horse"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_001_02",
+      "mode": "science",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal lives in the ocean?"
+      },
+      "answer": "Whale",
+      "distractors": [
+        "Lion",
+        "Camel",
+        "Horse"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_001_03",
+      "mode": "science",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal can fly?"
+      },
+      "answer": "Eagle",
+      "distractors": [
+        "Penguin",
+        "Elephant",
+        "Frog"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_001_04",
+      "mode": "science",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does a caterpillar turn into?"
+      },
+      "answer": "Butterfly",
+      "distractors": [
+        "Bee",
+        "Spider",
+        "Worm"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_001_05",
+      "mode": "science",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A baby frog is called a..."
+      },
+      "answer": "Tadpole",
+      "distractors": [
+        "Puppy",
+        "Chick",
+        "Calf"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_001_06",
+      "mode": "science",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal has a trunk?"
+      },
+      "answer": "Elephant",
+      "distractors": [
+        "Giraffe",
+        "Rhino",
+        "Hippo"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_002_01",
+      "mode": "science",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which organ pumps blood around your body?"
+      },
+      "answer": "Heart",
+      "distractors": [
+        "Lungs",
+        "Stomach",
+        "Brain"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_002_02",
+      "mode": "science",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do we use to breathe?"
+      },
+      "answer": "Lungs",
+      "distractors": [
+        "Heart",
+        "Liver",
+        "Kidneys"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_002_03",
+      "mode": "science",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many legs does a spider have?"
+      },
+      "answer": "8",
+      "distractors": [
+        "6",
+        "4",
+        "10"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_002_04",
+      "mode": "science",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which part of the body do you think with?"
+      },
+      "answer": "Brain",
+      "distractors": [
+        "Heart",
+        "Stomach",
+        "Bones"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_002_05",
+      "mode": "science",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many bones does an adult have?"
+      },
+      "answer": "206",
+      "distractors": [
+        "100",
+        "52",
+        "300"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_002_06",
+      "mode": "science",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do we use our nose for?"
+      },
+      "answer": "Smell",
+      "distractors": [
+        "Taste",
+        "Hearing",
+        "Touch"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_003_01",
+      "mode": "science",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do plants need to make their food?"
+      },
+      "answer": "Sunlight",
+      "distractors": [
+        "Darkness",
+        "Sand",
+        "Salt"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_003_02",
+      "mode": "science",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which part of a plant drinks water from the soil?"
+      },
+      "answer": "Roots",
+      "distractors": [
+        "Leaves",
+        "Flowers",
+        "Fruit"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_003_03",
+      "mode": "science",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which gas do plants give off that we breathe?"
+      },
+      "answer": "Oxygen",
+      "distractors": [
+        "Carbon dioxide",
+        "Helium",
+        "Smoke"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_003_04",
+      "mode": "science",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Seeds usually grow inside the..."
+      },
+      "answer": "Fruit",
+      "distractors": [
+        "Roots",
+        "Stem",
+        "Soil"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_003_05",
+      "mode": "science",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which one is a plant?"
+      },
+      "answer": "Cactus",
+      "distractors": [
+        "Coral",
+        "Mushroom",
+        "Sponge"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_003_06",
+      "mode": "science",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What makes leaves green?"
+      },
+      "answer": "Chlorophyll",
+      "distractors": [
+        "Chlorine",
+        "Salt water",
+        "Paint"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_004_01",
+      "mode": "science",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which planet do we live on?"
+      },
+      "answer": "Earth",
+      "distractors": [
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_004_02",
+      "mode": "science",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the closest star to Earth?"
+      },
+      "answer": "The Sun",
+      "distractors": [
+        "The Moon",
+        "Mars",
+        "The North Star"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_004_03",
+      "mode": "science",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the biggest planet?"
+      },
+      "answer": "Jupiter",
+      "distractors": [
+        "Earth",
+        "Mars",
+        "Mercury"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_004_04",
+      "mode": "science",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which planet is called the Red Planet?"
+      },
+      "answer": "Mars",
+      "distractors": [
+        "Venus",
+        "Saturn",
+        "Neptune"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_004_05",
+      "mode": "science",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which planet has big rings?"
+      },
+      "answer": "Saturn",
+      "distractors": [
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_004_06",
+      "mode": "science",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many planets are in our solar system?"
+      },
+      "answer": "8",
+      "distractors": [
+        "9",
+        "7",
+        "10"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_005_01",
+      "mode": "science",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "When water freezes it becomes..."
+      },
+      "answer": "Ice",
+      "distractors": [
+        "Steam",
+        "Sand",
+        "Salt"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_005_02",
+      "mode": "science",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "When water boils it turns into..."
+      },
+      "answer": "Steam",
+      "distractors": [
+        "Ice",
+        "Milk",
+        "Rock"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_005_03",
+      "mode": "science",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which one is a liquid?"
+      },
+      "answer": "Juice",
+      "distractors": [
+        "Stone",
+        "Wood",
+        "Air"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_005_04",
+      "mode": "science",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which one is a gas?"
+      },
+      "answer": "Air",
+      "distractors": [
+        "Water",
+        "Iron",
+        "Butter"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_005_05",
+      "mode": "science",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "At how many degrees Celsius does water freeze?"
+      },
+      "answer": "0",
+      "distractors": [
+        "100",
+        "10",
+        "50"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_005_06",
+      "mode": "science",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which one melts in your hand on a hot day?"
+      },
+      "answer": "Chocolate",
+      "distractors": [
+        "Stone",
+        "Paper",
+        "Wood"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_006_01",
+      "mode": "science",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do we call water falling from clouds?"
+      },
+      "answer": "Rain",
+      "distractors": [
+        "Wind",
+        "Fog",
+        "Lightning"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_006_02",
+      "mode": "science",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In a storm, what do we see before we hear thunder?"
+      },
+      "answer": "Lightning",
+      "distractors": [
+        "Rain",
+        "Wind",
+        "Snow"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_006_03",
+      "mode": "science",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What makes a rainbow?"
+      },
+      "answer": "Sunlight and rain",
+      "distractors": [
+        "Wind and snow",
+        "Clouds and moon",
+        "Fire and ice"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_006_04",
+      "mode": "science",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the largest ocean?"
+      },
+      "answer": "Pacific",
+      "distractors": [
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_006_05",
+      "mode": "science",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Hot melted rock from a volcano is called..."
+      },
+      "answer": "Lava",
+      "distractors": [
+        "Sand",
+        "Clay",
+        "Ice"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_006_06",
+      "mode": "science",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which season is the coldest?"
+      },
+      "answer": "Winter",
+      "distractors": [
+        "Summer",
+        "Spring",
+        "Autumn"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_007_01",
+      "mode": "science",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What pulls things down to the ground?"
+      },
+      "answer": "Gravity",
+      "distractors": [
+        "Magnetism",
+        "Wind",
+        "Light"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_007_02",
+      "mode": "science",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A magnet sticks to..."
+      },
+      "answer": "Iron",
+      "distractors": [
+        "Wood",
+        "Plastic",
+        "Glass"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_007_03",
+      "mode": "science",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which gives us light and heat?"
+      },
+      "answer": "The Sun",
+      "distractors": [
+        "The Moon",
+        "Clouds",
+        "Rain"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_007_04",
+      "mode": "science",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which travels fastest?"
+      },
+      "answer": "Light",
+      "distractors": [
+        "Sound",
+        "A car",
+        "A plane"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_007_05",
+      "mode": "science",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Energy from the Sun is called..."
+      },
+      "answer": "Solar energy",
+      "distractors": [
+        "Wind energy",
+        "Coal energy",
+        "Water energy"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_007_06",
+      "mode": "science",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does a thermometer measure?"
+      },
+      "answer": "Temperature",
+      "distractors": [
+        "Weight",
+        "Time",
+        "Length"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_008_01",
+      "mode": "science",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal is a mammal?"
+      },
+      "answer": "Dolphin",
+      "distractors": [
+        "Shark",
+        "Salmon",
+        "Octopus"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_008_02",
+      "mode": "science",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal is a reptile?"
+      },
+      "answer": "Crocodile",
+      "distractors": [
+        "Frog",
+        "Salmon",
+        "Whale"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_008_03",
+      "mode": "science",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal is an insect?"
+      },
+      "answer": "Ant",
+      "distractors": [
+        "Spider",
+        "Snail",
+        "Worm"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_008_04",
+      "mode": "science",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do bees make?"
+      },
+      "answer": "Honey",
+      "distractors": [
+        "Milk",
+        "Silk",
+        "Cheese"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_008_05",
+      "mode": "science",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the fastest land animal?"
+      },
+      "answer": "Cheetah",
+      "distractors": [
+        "Lion",
+        "Horse",
+        "Elephant"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_008_06",
+      "mode": "science",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal sleeps through the winter?"
+      },
+      "answer": "Bear",
+      "distractors": [
+        "Horse",
+        "Chicken",
+        "Cow"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_009_01",
+      "mode": "science",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which part of the blood carries oxygen?"
+      },
+      "answer": "Red blood cells",
+      "distractors": [
+        "White blood cells",
+        "Bones",
+        "Hair"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_009_02",
+      "mode": "science",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where does food go after you swallow it?"
+      },
+      "answer": "Stomach",
+      "distractors": [
+        "Lungs",
+        "Heart",
+        "Brain"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_009_03",
+      "mode": "science",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many teeth does an adult usually have?"
+      },
+      "answer": "32",
+      "distractors": [
+        "20",
+        "42",
+        "12"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_009_04",
+      "mode": "science",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the largest organ of the body?"
+      },
+      "answer": "Skin",
+      "distractors": [
+        "Heart",
+        "Brain",
+        "Liver"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_009_05",
+      "mode": "science",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which bones protect your brain?"
+      },
+      "answer": "Skull",
+      "distractors": [
+        "Ribs",
+        "Knee",
+        "Toes"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_009_06",
+      "mode": "science",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Living things are made of tiny..."
+      },
+      "answer": "Cells",
+      "distractors": [
+        "Bricks",
+        "Seeds",
+        "Drops"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_010_01",
+      "mode": "science",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is H2O?"
+      },
+      "answer": "Water",
+      "distractors": [
+        "Salt",
+        "Air",
+        "Gold"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_010_02",
+      "mode": "science",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which metal is liquid at room temperature?"
+      },
+      "answer": "Mercury",
+      "distractors": [
+        "Iron",
+        "Gold",
+        "Copper"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_010_03",
+      "mode": "science",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A scientist who studies stars and planets is an..."
+      },
+      "answer": "Astronomer",
+      "distractors": [
+        "Biologist",
+        "Geologist",
+        "Chemist"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_010_04",
+      "mode": "science",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which gas do we breathe out?"
+      },
+      "answer": "Carbon dioxide",
+      "distractors": [
+        "Oxygen",
+        "Helium",
+        "Hydrogen"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_010_05",
+      "mode": "science",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The center of an atom is called the..."
+      },
+      "answer": "Nucleus",
+      "distractors": [
+        "Electron",
+        "Shell",
+        "Crust"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_010_06",
+      "mode": "science",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which tool makes tiny things look bigger?"
+      },
+      "answer": "Microscope",
+      "distractors": [
+        "Stethoscope",
+        "Thermometer",
+        "Compass"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_011_01",
+      "mode": "science",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where does a polar bear live?"
+      },
+      "answer": "The Arctic",
+      "distractors": [
+        "The desert",
+        "The jungle",
+        "The savanna"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_011_02",
+      "mode": "science",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal lives in the desert?"
+      },
+      "answer": "Camel",
+      "distractors": [
+        "Penguin",
+        "Polar bear",
+        "Seal"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_011_03",
+      "mode": "science",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which bird cannot fly?"
+      },
+      "answer": "Penguin",
+      "distractors": [
+        "Eagle",
+        "Parrot",
+        "Owl"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_011_04",
+      "mode": "science",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do caterpillars eat?"
+      },
+      "answer": "Leaves",
+      "distractors": [
+        "Meat",
+        "Rocks",
+        "Fish"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_011_05",
+      "mode": "science",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do fish use to breathe?"
+      },
+      "answer": "Gills",
+      "distractors": [
+        "Lungs",
+        "Fins",
+        "Scales"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_011_06",
+      "mode": "science",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal carries its baby in a pouch?"
+      },
+      "answer": "Kangaroo",
+      "distractors": [
+        "Zebra",
+        "Lion",
+        "Giraffe"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_012_01",
+      "mode": "science",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which part of a plant makes seeds?"
+      },
+      "answer": "Flower",
+      "distractors": [
+        "Root",
+        "Stem",
+        "Leaf"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_012_02",
+      "mode": "science",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these grows under the ground?"
+      },
+      "answer": "Carrot",
+      "distractors": [
+        "Apple",
+        "Banana",
+        "Cherry"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_012_03",
+      "mode": "science",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do bees collect from flowers?"
+      },
+      "answer": "Nectar",
+      "distractors": [
+        "Water",
+        "Sand",
+        "Leaves"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_012_04",
+      "mode": "science",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which tree gives us acorns?"
+      },
+      "answer": "Oak",
+      "distractors": [
+        "Palm",
+        "Pine",
+        "Apple"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_012_05",
+      "mode": "science",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does a seed need to sprout?"
+      },
+      "answer": "Water",
+      "distractors": [
+        "Salt",
+        "Sugar",
+        "Oil"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_012_06",
+      "mode": "science",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these is a fruit?"
+      },
+      "answer": "Tomato",
+      "distractors": [
+        "Potato",
+        "Carrot",
+        "Onion"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_013_01",
+      "mode": "science",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many senses do we have?"
+      },
+      "answer": "5",
+      "distractors": [
+        "3",
+        "7",
+        "10"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_013_02",
+      "mode": "science",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the hardest part of your body?"
+      },
+      "answer": "Tooth enamel",
+      "distractors": [
+        "Hair",
+        "Skin",
+        "Nails"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_013_03",
+      "mode": "science",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which part of the eye lets light in?"
+      },
+      "answer": "Pupil",
+      "distractors": [
+        "Eyelash",
+        "Eyebrow",
+        "Eyelid"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_013_04",
+      "mode": "science",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do muscles pull on to move you?"
+      },
+      "answer": "Bones",
+      "distractors": [
+        "Blood",
+        "Skin",
+        "Hair"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_013_05",
+      "mode": "science",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which organs clean your blood?"
+      },
+      "answer": "Kidneys",
+      "distractors": [
+        "Lungs",
+        "Stomach",
+        "Brain"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_013_06",
+      "mode": "science",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What carries blood away from the heart?"
+      },
+      "answer": "Arteries",
+      "distractors": [
+        "Veins",
+        "Nerves",
+        "Bones"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_014_01",
+      "mode": "science",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does the Moon go around?"
+      },
+      "answer": "The Earth",
+      "distractors": [
+        "Mars",
+        "Jupiter",
+        "Venus"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_014_02",
+      "mode": "science",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which planet is closest to the Sun?"
+      },
+      "answer": "Mercury",
+      "distractors": [
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_014_03",
+      "mode": "science",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the hottest planet?"
+      },
+      "answer": "Venus",
+      "distractors": [
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_014_04",
+      "mode": "science",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How long does the Earth take to go around the Sun?"
+      },
+      "answer": "One year",
+      "distractors": [
+        "One day",
+        "One month",
+        "One week"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_014_05",
+      "mode": "science",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How long does the Earth take to spin around once?"
+      },
+      "answer": "One day",
+      "distractors": [
+        "One year",
+        "One month",
+        "One hour"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_014_06",
+      "mode": "science",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A group of stars that makes a picture is called a..."
+      },
+      "answer": "Constellation",
+      "distractors": [
+        "Galaxy",
+        "Comet",
+        "Planet"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_015_01",
+      "mode": "science",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Balls of ice falling from the sky are called..."
+      },
+      "answer": "Hail",
+      "distractors": [
+        "Fog",
+        "Dew",
+        "Mist"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_015_02",
+      "mode": "science",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is a very strong spinning wind called?"
+      },
+      "answer": "Tornado",
+      "distractors": [
+        "Breeze",
+        "Rainbow",
+        "Drizzle"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_015_03",
+      "mode": "science",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the largest continent?"
+      },
+      "answer": "Asia",
+      "distractors": [
+        "Africa",
+        "Europe",
+        "Australia"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_015_04",
+      "mode": "science",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the longest river in Africa?"
+      },
+      "answer": "The Nile",
+      "distractors": [
+        "The Amazon",
+        "The Jordan",
+        "The Thames"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_015_05",
+      "mode": "science",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What covers most of the Earth?"
+      },
+      "answer": "Water",
+      "distractors": [
+        "Sand",
+        "Ice",
+        "Forest"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_015_06",
+      "mode": "science",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the tallest mountain on Earth?"
+      },
+      "answer": "Mount Everest",
+      "distractors": [
+        "Mount Sinai",
+        "Mount Hermon",
+        "Mount Fuji"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_016_01",
+      "mode": "science",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which material can you see through?"
+      },
+      "answer": "Glass",
+      "distractors": [
+        "Wood",
+        "Brick",
+        "Metal"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_016_02",
+      "mode": "science",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these floats on water?"
+      },
+      "answer": "Wood",
+      "distractors": [
+        "A stone",
+        "A coin",
+        "A nail"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_016_03",
+      "mode": "science",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What happens to butter in a hot pan?"
+      },
+      "answer": "It melts",
+      "distractors": [
+        "It freezes",
+        "It grows",
+        "It turns to stone"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_016_04",
+      "mode": "science",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Salt dissolves in..."
+      },
+      "answer": "Water",
+      "distractors": [
+        "Oil",
+        "Air",
+        "Sand"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_016_05",
+      "mode": "science",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these is a solid?"
+      },
+      "answer": "Rock",
+      "distractors": [
+        "Milk",
+        "Steam",
+        "Juice"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_016_06",
+      "mode": "science",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is steam?"
+      },
+      "answer": "Water as a gas",
+      "distractors": [
+        "Frozen water",
+        "Smoke",
+        "Dust"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_017_01",
+      "mode": "science",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do we call a push or a pull?"
+      },
+      "answer": "A force",
+      "distractors": [
+        "A liquid",
+        "A sound",
+        "A color"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_017_02",
+      "mode": "science",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these makes electricity from wind?"
+      },
+      "answer": "A wind turbine",
+      "distractors": [
+        "A candle",
+        "A kite",
+        "An umbrella"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_017_03",
+      "mode": "science",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How is a shadow made?"
+      },
+      "answer": "Something blocks the light",
+      "distractors": [
+        "Wind blows",
+        "Water flows",
+        "Sound is loud"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_017_04",
+      "mode": "science",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Sound travels as..."
+      },
+      "answer": "Vibrations",
+      "distractors": [
+        "Sparks",
+        "Smoke",
+        "Drops"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_017_05",
+      "mode": "science",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these gives off its own light?"
+      },
+      "answer": "A lamp",
+      "distractors": [
+        "A mirror",
+        "A window",
+        "A spoon"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_017_06",
+      "mode": "science",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What slows down a box sliding on the floor?"
+      },
+      "answer": "Friction",
+      "distractors": [
+        "Gravity",
+        "Magnetism",
+        "Light"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_018_01",
+      "mode": "science",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which animal is an amphibian?"
+      },
+      "answer": "Frog",
+      "distractors": [
+        "Snake",
+        "Lizard",
+        "Turtle"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_018_02",
+      "mode": "science",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many legs does an insect have?"
+      },
+      "answer": "6",
+      "distractors": [
+        "8",
+        "4",
+        "10"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_018_03",
+      "mode": "science",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which mammal can fly?"
+      },
+      "answer": "Bat",
+      "distractors": [
+        "Eagle",
+        "Butterfly",
+        "Penguin"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_018_04",
+      "mode": "science",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Animals that eat only plants are called..."
+      },
+      "answer": "Herbivores",
+      "distractors": [
+        "Carnivores",
+        "Omnivores",
+        "Predators"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_018_05",
+      "mode": "science",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Animals that eat only meat are called..."
+      },
+      "answer": "Carnivores",
+      "distractors": [
+        "Herbivores",
+        "Omnivores",
+        "Vegetarians"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_018_06",
+      "mode": "science",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Animals that eat both plants and meat are called..."
+      },
+      "answer": "Omnivores",
+      "distractors": [
+        "Herbivores",
+        "Carnivores",
+        "Reptiles"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_019_01",
+      "mode": "science",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How do plants make food from sunlight?"
+      },
+      "answer": "Photosynthesis",
+      "distractors": [
+        "Evaporation",
+        "Digestion",
+        "Erosion"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_019_02",
+      "mode": "science",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do we call a baby plant?"
+      },
+      "answer": "A seedling",
+      "distractors": [
+        "Pollen",
+        "A petal",
+        "A thorn"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_019_03",
+      "mode": "science",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which insects carry pollen from flower to flower?"
+      },
+      "answer": "Bees",
+      "distractors": [
+        "Ants",
+        "Mosquitoes",
+        "Fleas"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_019_04",
+      "mode": "science",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which gas do plants take in from the air to make food?"
+      },
+      "answer": "Carbon dioxide",
+      "distractors": [
+        "Oxygen",
+        "Helium",
+        "Nitrogen"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_019_05",
+      "mode": "science",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which part of a plant catches most of the sunlight?"
+      },
+      "answer": "The leaves",
+      "distractors": [
+        "The roots",
+        "The seeds",
+        "The bark"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_019_06",
+      "mode": "science",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "You can tell a tree's age by counting its..."
+      },
+      "answer": "Rings",
+      "distractors": [
+        "Leaves",
+        "Branches",
+        "Roots"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_020_01",
+      "mode": "science",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does the heart pump?"
+      },
+      "answer": "Blood",
+      "distractors": [
+        "Air",
+        "Food",
+        "Water"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_020_02",
+      "mode": "science",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which part of the body helps you keep your balance?"
+      },
+      "answer": "The inner ear",
+      "distractors": [
+        "The nose",
+        "The tongue",
+        "The knee"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_020_03",
+      "mode": "science",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The tubes that carry blood are called..."
+      },
+      "answer": "Blood vessels",
+      "distractors": [
+        "Nerves",
+        "Muscles",
+        "Tendons"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_020_04",
+      "mode": "science",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which vitamin does your skin make from sunlight?"
+      },
+      "answer": "Vitamin D",
+      "distractors": [
+        "Vitamin C",
+        "Vitamin A",
+        "Vitamin B"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_020_05",
+      "mode": "science",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where does digestion begin?"
+      },
+      "answer": "In the mouth",
+      "distractors": [
+        "In the stomach",
+        "In the heart",
+        "In the lungs"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_020_06",
+      "mode": "science",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where is the smallest bone in your body?"
+      },
+      "answer": "In the ear",
+      "distractors": [
+        "In the finger",
+        "In the toe",
+        "In the nose"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_021_01",
+      "mode": "science",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the name of our galaxy?"
+      },
+      "answer": "The Milky Way",
+      "distractors": [
+        "Andromeda",
+        "The Big Dipper",
+        "Orion"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_021_02",
+      "mode": "science",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What causes day and night?"
+      },
+      "answer": "The Earth spinning",
+      "distractors": [
+        "The Moon moving",
+        "Clouds",
+        "The Sun switching off"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_021_03",
+      "mode": "science",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What causes the seasons?"
+      },
+      "answer": "The tilt of the Earth",
+      "distractors": [
+        "The Moon's shadow",
+        "Clouds",
+        "Wind"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_021_04",
+      "mode": "science",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which planet has a giant storm called the Great Red Spot?"
+      },
+      "answer": "Jupiter",
+      "distractors": [
+        "Mars",
+        "Saturn",
+        "Venus"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_021_05",
+      "mode": "science",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is a shooting star really?"
+      },
+      "answer": "A meteor",
+      "distractors": [
+        "A falling star",
+        "A planet",
+        "A satellite"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_021_06",
+      "mode": "science",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which planet is farthest from the Sun?"
+      },
+      "answer": "Neptune",
+      "distractors": [
+        "Uranus",
+        "Saturn",
+        "Jupiter"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_022_01",
+      "mode": "science",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Rock made from cooled lava is called..."
+      },
+      "answer": "Igneous rock",
+      "distractors": [
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Chalk"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_022_02",
+      "mode": "science",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What pulls the ocean tides in and out?"
+      },
+      "answer": "The Moon",
+      "distractors": [
+        "The wind",
+        "Fish",
+        "Earthquakes"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_022_03",
+      "mode": "science",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the center of the Earth called?"
+      },
+      "answer": "The core",
+      "distractors": [
+        "The crust",
+        "The mantle",
+        "The shell"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_022_04",
+      "mode": "science",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the outer layer of the Earth called?"
+      },
+      "answer": "The crust",
+      "distractors": [
+        "The core",
+        "The mantle",
+        "The yolk"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_022_05",
+      "mode": "science",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "When the ground shakes, it is called..."
+      },
+      "answer": "An earthquake",
+      "distractors": [
+        "A tornado",
+        "A drought",
+        "A rainbow"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_022_06",
+      "mode": "science",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A long time with no rain is called..."
+      },
+      "answer": "A drought",
+      "distractors": [
+        "A flood",
+        "A storm",
+        "A monsoon"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_023_01",
+      "mode": "science",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which gas makes up most of the air?"
+      },
+      "answer": "Nitrogen",
+      "distractors": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Helium"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_023_02",
+      "mode": "science",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Rust forms on which metal?"
+      },
+      "answer": "Iron",
+      "distractors": [
+        "Gold",
+        "Aluminium",
+        "Silver"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_023_03",
+      "mode": "science",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which gas makes party balloons float up?"
+      },
+      "answer": "Helium",
+      "distractors": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Steam"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_023_04",
+      "mode": "science",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Salt mixed into water makes a..."
+      },
+      "answer": "Solution",
+      "distractors": [
+        "Solid",
+        "Magnet",
+        "Metal"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_023_05",
+      "mode": "science",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these is an acid?"
+      },
+      "answer": "Lemon juice",
+      "distractors": [
+        "Water",
+        "Soap",
+        "Baking soda"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_023_06",
+      "mode": "science",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Water is made of hydrogen and..."
+      },
+      "answer": "Oxygen",
+      "distractors": [
+        "Nitrogen",
+        "Carbon",
+        "Helium"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_024_01",
+      "mode": "science",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Why do we see lightning before we hear thunder?"
+      },
+      "answer": "Light is faster than sound",
+      "distractors": [
+        "Sound is faster than light",
+        "Thunder happens later",
+        "Our ears are slow"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_024_02",
+      "mode": "science",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "When light bounces off a mirror it is called..."
+      },
+      "answer": "Reflection",
+      "distractors": [
+        "Refraction",
+        "Gravity",
+        "Friction"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_024_03",
+      "mode": "science",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A prism splits white light into..."
+      },
+      "answer": "A rainbow of colors",
+      "distractors": [
+        "Darkness",
+        "Only heat",
+        "Sound"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_024_04",
+      "mode": "science",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these is a simple machine?"
+      },
+      "answer": "A lever",
+      "distractors": [
+        "A computer",
+        "A phone",
+        "A television"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_024_05",
+      "mode": "science",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which unit do scientists use to measure force?"
+      },
+      "answer": "Newton",
+      "distractors": [
+        "Meter",
+        "Liter",
+        "Gram"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_024_06",
+      "mode": "science",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The energy of something moving is called..."
+      },
+      "answer": "Kinetic energy",
+      "distractors": [
+        "Sound energy",
+        "Light energy",
+        "Nuclear energy"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_025_01",
+      "mode": "science",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In a food chain, what usually comes first?"
+      },
+      "answer": "A plant",
+      "distractors": [
+        "A lion",
+        "A hawk",
+        "A shark"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_025_02",
+      "mode": "science",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Animals that hunt other animals are called..."
+      },
+      "answer": "Predators",
+      "distractors": [
+        "Prey",
+        "Herbivores",
+        "Producers"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_025_03",
+      "mode": "science",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Cutting down large forests is called..."
+      },
+      "answer": "Deforestation",
+      "distractors": [
+        "Recycling",
+        "Pollination",
+        "Evaporation"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_025_04",
+      "mode": "science",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which of these is good for the planet?"
+      },
+      "answer": "Recycling",
+      "distractors": [
+        "Littering",
+        "Wasting water",
+        "Burning trash"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_025_05",
+      "mode": "science",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which place has the most kinds of plants and animals?"
+      },
+      "answer": "The rainforest",
+      "distractors": [
+        "The desert",
+        "Antarctica",
+        "A glacier"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_025_06",
+      "mode": "science",
+      "stage": 25,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Animals that are awake at night are called..."
+      },
+      "answer": "Nocturnal",
+      "distractors": [
+        "Herbivores",
+        "Marine",
+        "Extinct"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_026_01",
+      "mode": "science",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "An old bone that has turned to stone is a..."
+      },
+      "answer": "Fossil",
+      "distractors": [
+        "Crystal",
+        "Meteor",
+        "Pearl"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_026_02",
+      "mode": "science",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which dinosaur had three horns?"
+      },
+      "answer": "Triceratops",
+      "distractors": [
+        "T-Rex",
+        "Stegosaurus",
+        "Velociraptor"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_026_03",
+      "mode": "science",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which dinosaur had big plates along its back?"
+      },
+      "answer": "Stegosaurus",
+      "distractors": [
+        "Triceratops",
+        "T-Rex",
+        "Brachiosaurus"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_026_04",
+      "mode": "science",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which dinosaur had a very long neck?"
+      },
+      "answer": "Brachiosaurus",
+      "distractors": [
+        "T-Rex",
+        "Triceratops",
+        "Velociraptor"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_026_05",
+      "mode": "science",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "An animal that no longer exists anywhere is..."
+      },
+      "answer": "Extinct",
+      "distractors": [
+        "Asleep",
+        "Hidden",
+        "Hibernating"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_026_06",
+      "mode": "science",
+      "stage": 26,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Scientists who study fossils are called..."
+      },
+      "answer": "Paleontologists",
+      "distractors": [
+        "Astronomers",
+        "Chemists",
+        "Dentists"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_027_01",
+      "mode": "science",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the biggest animal that ever lived?"
+      },
+      "answer": "The blue whale",
+      "distractors": [
+        "The elephant",
+        "T-Rex",
+        "The great white shark"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_027_02",
+      "mode": "science",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many arms does an octopus have?"
+      },
+      "answer": "8",
+      "distractors": [
+        "6",
+        "10",
+        "4"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_027_03",
+      "mode": "science",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which sea animal walks sideways?"
+      },
+      "answer": "Crab",
+      "distractors": [
+        "Jellyfish",
+        "Dolphin",
+        "Starfish"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_027_04",
+      "mode": "science",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which is the saltiest body of water in Israel?"
+      },
+      "answer": "The Dead Sea",
+      "distractors": [
+        "The Sea of Galilee",
+        "The Red Sea",
+        "The Jordan River"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_027_05",
+      "mode": "science",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Dolphins breathe through a..."
+      },
+      "answer": "Blowhole",
+      "distractors": [
+        "Gills",
+        "Fins",
+        "Tail"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_027_06",
+      "mode": "science",
+      "stage": 27,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Coral reefs are built by tiny..."
+      },
+      "answer": "Animals",
+      "distractors": [
+        "Rocks",
+        "Plants",
+        "Fish eggs"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_028_01",
+      "mode": "science",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does a battery store?"
+      },
+      "answer": "Energy",
+      "distractors": [
+        "Water",
+        "Air",
+        "Light"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_028_02",
+      "mode": "science",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which way does a compass needle point?"
+      },
+      "answer": "North",
+      "distractors": [
+        "South",
+        "East",
+        "Up"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_028_03",
+      "mode": "science",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do solar panels use to make electricity?"
+      },
+      "answer": "Sunlight",
+      "distractors": [
+        "Wind",
+        "Water",
+        "Sand"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_028_04",
+      "mode": "science",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does a seismograph measure?"
+      },
+      "answer": "Earthquakes",
+      "distractors": [
+        "Rain",
+        "Wind speed",
+        "Temperature"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_028_05",
+      "mode": "science",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A careful test that a scientist does is called..."
+      },
+      "answer": "An experiment",
+      "distractors": [
+        "A story",
+        "A guess",
+        "A game"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_028_06",
+      "mode": "science",
+      "stage": 28,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which tool makes small things look bigger, like a big lens?"
+      },
+      "answer": "A magnifying glass",
+      "distractors": [
+        "A compass",
+        "A ruler",
+        "A scale"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_029_01",
+      "mode": "science",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "When water turns into vapor, it..."
+      },
+      "answer": "Evaporates",
+      "distractors": [
+        "Freezes",
+        "Melts",
+        "Condenses"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_029_02",
+      "mode": "science",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Clouds form when water vapor..."
+      },
+      "answer": "Condenses",
+      "distractors": [
+        "Evaporates",
+        "Burns",
+        "Melts"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_029_03",
+      "mode": "science",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Rain, snow and hail are all kinds of..."
+      },
+      "answer": "Precipitation",
+      "distractors": [
+        "Evaporation",
+        "Erosion",
+        "Pollution"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_029_04",
+      "mode": "science",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which tool measures how much rain fell?"
+      },
+      "answer": "A rain gauge",
+      "distractors": [
+        "A thermometer",
+        "A compass",
+        "A clock"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_029_05",
+      "mode": "science",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What does a barometer measure?"
+      },
+      "answer": "Air pressure",
+      "distractors": [
+        "Rain",
+        "Earthquakes",
+        "Distance"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_029_06",
+      "mode": "science",
+      "stage": 29,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which season comes after winter?"
+      },
+      "answer": "Spring",
+      "distractors": [
+        "Autumn",
+        "Summer",
+        "Monsoon"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_030_01",
+      "mode": "science",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the chemical symbol for gold?"
+      },
+      "answer": "Au",
+      "distractors": [
+        "Go",
+        "Gd",
+        "Ag"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_030_02",
+      "mode": "science",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the chemical symbol for oxygen?"
+      },
+      "answer": "O",
+      "distractors": [
+        "Ox",
+        "Og",
+        "H"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_030_03",
+      "mode": "science",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many chambers does the human heart have?"
+      },
+      "answer": "4",
+      "distractors": [
+        "2",
+        "3",
+        "6"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_030_04",
+      "mode": "science",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "At how many degrees Fahrenheit does water freeze?"
+      },
+      "answer": "32",
+      "distractors": [
+        "0",
+        "100",
+        "212"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_030_05",
+      "mode": "science",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which planet is called the Morning Star?"
+      },
+      "answer": "Venus",
+      "distractors": [
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "tags": [
+        "science"
+      ]
+    },
+    {
+      "id": "sci_030_06",
+      "mode": "science",
+      "stage": 30,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In a cell, DNA is kept in the..."
+      },
+      "answer": "Nucleus",
+      "distractors": [
+        "Skin",
+        "Wall",
+        "Shell"
+      ],
+      "tags": [
+        "science"
+      ]
+    }
+  ]
+}

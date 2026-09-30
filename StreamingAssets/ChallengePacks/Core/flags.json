@@ -1,0 +1,4013 @@
+{
+  "schemaVersion": 1,
+  "packId": "flags_core_v1",
+  "title": "Flags of the World",
+  "kind": "core",
+  "language": "en",
+  "version": 1,
+  "author": "Solve & Evolve",
+  "stages": [
+    {
+      "mode": "flags",
+      "stage": 1,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 2,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 3,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 4,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 5,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 6,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 7,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 8,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 9,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 10,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 11,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 12,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 13,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 14,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 15,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 16,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 17,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 18,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 19,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 20,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 21,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 22,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 23,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 24,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 25,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 26,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 27,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 28,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 29,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 30,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 31,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "flags",
+      "stage": 32,
+      "questionsRequired": 4
+    }
+  ],
+  "challenges": [
+    {
+      "id": "flag_001_01",
+      "mode": "flags",
+      "stage": 1,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/il.png"
+      },
+      "answer": "Israel",
+      "distractors": [
+        "Germany",
+        "Egypt",
+        "South Korea"
+      ],
+      "tags": [
+        "flag",
+        "il"
+      ]
+    },
+    {
+      "id": "flag_001_02",
+      "mode": "flags",
+      "stage": 1,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/us.png"
+      },
+      "answer": "United States",
+      "distractors": [
+        "Greece",
+        "Mexico",
+        "United Kingdom"
+      ],
+      "tags": [
+        "flag",
+        "us"
+      ]
+    },
+    {
+      "id": "flag_001_03",
+      "mode": "flags",
+      "stage": 1,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gb.png"
+      },
+      "answer": "United Kingdom",
+      "distractors": [
+        "China",
+        "Netherlands",
+        "South Korea"
+      ],
+      "tags": [
+        "flag",
+        "gb"
+      ]
+    },
+    {
+      "id": "flag_001_04",
+      "mode": "flags",
+      "stage": 1,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/fr.png"
+      },
+      "answer": "France",
+      "distractors": [
+        "United States",
+        "India",
+        "Japan"
+      ],
+      "tags": [
+        "flag",
+        "fr"
+      ]
+    },
+    {
+      "id": "flag_001_05",
+      "mode": "flags",
+      "stage": 1,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/jp.png"
+      },
+      "answer": "Japan",
+      "distractors": [
+        "China",
+        "Canada",
+        "South Korea"
+      ],
+      "tags": [
+        "flag",
+        "jp"
+      ]
+    },
+    {
+      "id": "flag_001_06",
+      "mode": "flags",
+      "stage": 1,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ca.png"
+      },
+      "answer": "Canada",
+      "distractors": [
+        "Greece",
+        "South Korea",
+        "Australia"
+      ],
+      "tags": [
+        "flag",
+        "ca"
+      ]
+    },
+    {
+      "id": "flag_002_01",
+      "mode": "flags",
+      "stage": 2,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/de.png"
+      },
+      "answer": "Germany",
+      "distractors": [
+        "Australia",
+        "France",
+        "Canada"
+      ],
+      "tags": [
+        "flag",
+        "de"
+      ]
+    },
+    {
+      "id": "flag_002_02",
+      "mode": "flags",
+      "stage": 2,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/it.png"
+      },
+      "answer": "Italy",
+      "distractors": [
+        "Spain",
+        "Australia",
+        "Japan"
+      ],
+      "tags": [
+        "flag",
+        "it"
+      ]
+    },
+    {
+      "id": "flag_002_03",
+      "mode": "flags",
+      "stage": 2,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/br.png"
+      },
+      "answer": "Brazil",
+      "distractors": [
+        "Israel",
+        "Turkey",
+        "Netherlands"
+      ],
+      "tags": [
+        "flag",
+        "br"
+      ]
+    },
+    {
+      "id": "flag_002_04",
+      "mode": "flags",
+      "stage": 2,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cn.png"
+      },
+      "answer": "China",
+      "distractors": [
+        "Netherlands",
+        "Israel",
+        "India"
+      ],
+      "tags": [
+        "flag",
+        "cn"
+      ]
+    },
+    {
+      "id": "flag_002_05",
+      "mode": "flags",
+      "stage": 2,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/in.png"
+      },
+      "answer": "India",
+      "distractors": [
+        "South Korea",
+        "Mexico",
+        "Australia"
+      ],
+      "tags": [
+        "flag",
+        "in"
+      ]
+    },
+    {
+      "id": "flag_002_06",
+      "mode": "flags",
+      "stage": 2,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/es.png"
+      },
+      "answer": "Spain",
+      "distractors": [
+        "Norway",
+        "Switzerland",
+        "Mexico"
+      ],
+      "tags": [
+        "flag",
+        "es"
+      ]
+    },
+    {
+      "id": "flag_003_01",
+      "mode": "flags",
+      "stage": 3,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/au.png"
+      },
+      "answer": "Australia",
+      "distractors": [
+        "South Korea",
+        "United States",
+        "Egypt"
+      ],
+      "tags": [
+        "flag",
+        "au"
+      ]
+    },
+    {
+      "id": "flag_003_02",
+      "mode": "flags",
+      "stage": 3,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mx.png"
+      },
+      "answer": "Mexico",
+      "distractors": [
+        "Egypt",
+        "Sweden",
+        "Switzerland"
+      ],
+      "tags": [
+        "flag",
+        "mx"
+      ]
+    },
+    {
+      "id": "flag_003_03",
+      "mode": "flags",
+      "stage": 3,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ru.png"
+      },
+      "answer": "Russia",
+      "distractors": [
+        "India",
+        "Germany",
+        "Italy"
+      ],
+      "tags": [
+        "flag",
+        "ru"
+      ]
+    },
+    {
+      "id": "flag_003_04",
+      "mode": "flags",
+      "stage": 3,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/kr.png"
+      },
+      "answer": "South Korea",
+      "distractors": [
+        "Sweden",
+        "Italy",
+        "Mexico"
+      ],
+      "tags": [
+        "flag",
+        "kr"
+      ]
+    },
+    {
+      "id": "flag_003_05",
+      "mode": "flags",
+      "stage": 3,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gr.png"
+      },
+      "answer": "Greece",
+      "distractors": [
+        "United States",
+        "Japan",
+        "China"
+      ],
+      "tags": [
+        "flag",
+        "gr"
+      ]
+    },
+    {
+      "id": "flag_003_06",
+      "mode": "flags",
+      "stage": 3,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ch.png"
+      },
+      "answer": "Switzerland",
+      "distractors": [
+        "Italy",
+        "Canada",
+        "Australia"
+      ],
+      "tags": [
+        "flag",
+        "ch"
+      ]
+    },
+    {
+      "id": "flag_004_01",
+      "mode": "flags",
+      "stage": 4,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/se.png"
+      },
+      "answer": "Sweden",
+      "distractors": [
+        "Denmark",
+        "Norway",
+        "Switzerland"
+      ],
+      "tags": [
+        "flag",
+        "se"
+      ]
+    },
+    {
+      "id": "flag_004_02",
+      "mode": "flags",
+      "stage": 4,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/no.png"
+      },
+      "answer": "Norway",
+      "distractors": [
+        "Russia",
+        "Ireland",
+        "Switzerland"
+      ],
+      "tags": [
+        "flag",
+        "no"
+      ]
+    },
+    {
+      "id": "flag_004_03",
+      "mode": "flags",
+      "stage": 4,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/nl.png"
+      },
+      "answer": "Netherlands",
+      "distractors": [
+        "Denmark",
+        "Argentina",
+        "Australia"
+      ],
+      "tags": [
+        "flag",
+        "nl"
+      ]
+    },
+    {
+      "id": "flag_004_04",
+      "mode": "flags",
+      "stage": 4,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ar.png"
+      },
+      "answer": "Argentina",
+      "distractors": [
+        "Greece",
+        "South Korea",
+        "Poland"
+      ],
+      "tags": [
+        "flag",
+        "ar"
+      ]
+    },
+    {
+      "id": "flag_004_05",
+      "mode": "flags",
+      "stage": 4,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/eg.png"
+      },
+      "answer": "Egypt",
+      "distractors": [
+        "Greece",
+        "Australia",
+        "Poland"
+      ],
+      "tags": [
+        "flag",
+        "eg"
+      ]
+    },
+    {
+      "id": "flag_004_06",
+      "mode": "flags",
+      "stage": 4,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tr.png"
+      },
+      "answer": "Turkey",
+      "distractors": [
+        "Poland",
+        "Denmark",
+        "Portugal"
+      ],
+      "tags": [
+        "flag",
+        "tr"
+      ]
+    },
+    {
+      "id": "flag_005_01",
+      "mode": "flags",
+      "stage": 5,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ie.png"
+      },
+      "answer": "Ireland",
+      "distractors": [
+        "Jamaica",
+        "Poland",
+        "Austria"
+      ],
+      "tags": [
+        "flag",
+        "ie"
+      ]
+    },
+    {
+      "id": "flag_005_02",
+      "mode": "flags",
+      "stage": 5,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/pt.png"
+      },
+      "answer": "Portugal",
+      "distractors": [
+        "Argentina",
+        "Belgium",
+        "Turkey"
+      ],
+      "tags": [
+        "flag",
+        "pt"
+      ]
+    },
+    {
+      "id": "flag_005_03",
+      "mode": "flags",
+      "stage": 5,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/pl.png"
+      },
+      "answer": "Poland",
+      "distractors": [
+        "Belgium",
+        "Norway",
+        "Denmark"
+      ],
+      "tags": [
+        "flag",
+        "pl"
+      ]
+    },
+    {
+      "id": "flag_005_04",
+      "mode": "flags",
+      "stage": 5,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/dk.png"
+      },
+      "answer": "Denmark",
+      "distractors": [
+        "Poland",
+        "Finland",
+        "Norway"
+      ],
+      "tags": [
+        "flag",
+        "dk"
+      ]
+    },
+    {
+      "id": "flag_005_05",
+      "mode": "flags",
+      "stage": 5,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/fi.png"
+      },
+      "answer": "Finland",
+      "distractors": [
+        "Sweden",
+        "Egypt",
+        "Poland"
+      ],
+      "tags": [
+        "flag",
+        "fi"
+      ]
+    },
+    {
+      "id": "flag_005_06",
+      "mode": "flags",
+      "stage": 5,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/za.png"
+      },
+      "answer": "South Africa",
+      "distractors": [
+        "Ireland",
+        "Turkey",
+        "Belgium"
+      ],
+      "tags": [
+        "flag",
+        "za"
+      ]
+    },
+    {
+      "id": "flag_006_01",
+      "mode": "flags",
+      "stage": 6,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/be.png"
+      },
+      "answer": "Belgium",
+      "distractors": [
+        "Ireland",
+        "Finland",
+        "Kenya"
+      ],
+      "tags": [
+        "flag",
+        "be"
+      ]
+    },
+    {
+      "id": "flag_006_02",
+      "mode": "flags",
+      "stage": 6,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/at.png"
+      },
+      "answer": "Austria",
+      "distractors": [
+        "Belgium",
+        "South Africa",
+        "Portugal"
+      ],
+      "tags": [
+        "flag",
+        "at"
+      ]
+    },
+    {
+      "id": "flag_006_03",
+      "mode": "flags",
+      "stage": 6,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/nz.png"
+      },
+      "answer": "New Zealand",
+      "distractors": [
+        "Denmark",
+        "Czechia",
+        "Hungary"
+      ],
+      "tags": [
+        "flag",
+        "nz"
+      ]
+    },
+    {
+      "id": "flag_006_04",
+      "mode": "flags",
+      "stage": 6,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/jm.png"
+      },
+      "answer": "Jamaica",
+      "distractors": [
+        "Colombia",
+        "Poland",
+        "Czechia"
+      ],
+      "tags": [
+        "flag",
+        "jm"
+      ]
+    },
+    {
+      "id": "flag_006_05",
+      "mode": "flags",
+      "stage": 6,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ke.png"
+      },
+      "answer": "Kenya",
+      "distractors": [
+        "South Africa",
+        "Peru",
+        "Thailand"
+      ],
+      "tags": [
+        "flag",
+        "ke"
+      ]
+    },
+    {
+      "id": "flag_006_06",
+      "mode": "flags",
+      "stage": 6,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/th.png"
+      },
+      "answer": "Thailand",
+      "distractors": [
+        "New Zealand",
+        "Peru",
+        "Jamaica"
+      ],
+      "tags": [
+        "flag",
+        "th"
+      ]
+    },
+    {
+      "id": "flag_007_01",
+      "mode": "flags",
+      "stage": 7,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ua.png"
+      },
+      "answer": "Ukraine",
+      "distractors": [
+        "Nigeria",
+        "Peru",
+        "Philippines"
+      ],
+      "tags": [
+        "flag",
+        "ua"
+      ]
+    },
+    {
+      "id": "flag_007_02",
+      "mode": "flags",
+      "stage": 7,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cz.png"
+      },
+      "answer": "Czechia",
+      "distractors": [
+        "Philippines",
+        "Kenya",
+        "Morocco"
+      ],
+      "tags": [
+        "flag",
+        "cz"
+      ]
+    },
+    {
+      "id": "flag_007_03",
+      "mode": "flags",
+      "stage": 7,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/hu.png"
+      },
+      "answer": "Hungary",
+      "distractors": [
+        "Czechia",
+        "Ukraine",
+        "Peru"
+      ],
+      "tags": [
+        "flag",
+        "hu"
+      ]
+    },
+    {
+      "id": "flag_007_04",
+      "mode": "flags",
+      "stage": 7,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cl.png"
+      },
+      "answer": "Chile",
+      "distractors": [
+        "Nigeria",
+        "Thailand",
+        "Saudi Arabia"
+      ],
+      "tags": [
+        "flag",
+        "cl"
+      ]
+    },
+    {
+      "id": "flag_007_05",
+      "mode": "flags",
+      "stage": 7,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/co.png"
+      },
+      "answer": "Colombia",
+      "distractors": [
+        "Hungary",
+        "Philippines",
+        "Belgium"
+      ],
+      "tags": [
+        "flag",
+        "co"
+      ]
+    },
+    {
+      "id": "flag_007_06",
+      "mode": "flags",
+      "stage": 7,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/pe.png"
+      },
+      "answer": "Peru",
+      "distractors": [
+        "Saudi Arabia",
+        "Morocco",
+        "New Zealand"
+      ],
+      "tags": [
+        "flag",
+        "pe"
+      ]
+    },
+    {
+      "id": "flag_008_01",
+      "mode": "flags",
+      "stage": 8,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sa.png"
+      },
+      "answer": "Saudi Arabia",
+      "distractors": [
+        "Peru",
+        "Colombia",
+        "Morocco"
+      ],
+      "tags": [
+        "flag",
+        "sa"
+      ]
+    },
+    {
+      "id": "flag_008_02",
+      "mode": "flags",
+      "stage": 8,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ma.png"
+      },
+      "answer": "Morocco",
+      "distractors": [
+        "Philippines",
+        "Saudi Arabia",
+        "Hungary"
+      ],
+      "tags": [
+        "flag",
+        "ma"
+      ]
+    },
+    {
+      "id": "flag_008_03",
+      "mode": "flags",
+      "stage": 8,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ng.png"
+      },
+      "answer": "Nigeria",
+      "distractors": [
+        "Czechia",
+        "Iceland",
+        "Romania"
+      ],
+      "tags": [
+        "flag",
+        "ng"
+      ]
+    },
+    {
+      "id": "flag_008_04",
+      "mode": "flags",
+      "stage": 8,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/vn.png"
+      },
+      "answer": "Vietnam",
+      "distractors": [
+        "Chile",
+        "Iceland",
+        "Czechia"
+      ],
+      "tags": [
+        "flag",
+        "vn"
+      ]
+    },
+    {
+      "id": "flag_008_05",
+      "mode": "flags",
+      "stage": 8,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ph.png"
+      },
+      "answer": "Philippines",
+      "distractors": [
+        "Chile",
+        "Vietnam",
+        "Indonesia"
+      ],
+      "tags": [
+        "flag",
+        "ph"
+      ]
+    },
+    {
+      "id": "flag_008_06",
+      "mode": "flags",
+      "stage": 8,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/id.png"
+      },
+      "answer": "Indonesia",
+      "distractors": [
+        "Saudi Arabia",
+        "Morocco",
+        "Czechia"
+      ],
+      "tags": [
+        "flag",
+        "id"
+      ]
+    },
+    {
+      "id": "flag_009_01",
+      "mode": "flags",
+      "stage": 9,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/is.png"
+      },
+      "answer": "Iceland",
+      "distractors": [
+        "Morocco",
+        "Bhutan",
+        "Cyprus"
+      ],
+      "tags": [
+        "flag",
+        "is"
+      ]
+    },
+    {
+      "id": "flag_009_02",
+      "mode": "flags",
+      "stage": 9,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/hr.png"
+      },
+      "answer": "Croatia",
+      "distractors": [
+        "Morocco",
+        "Philippines",
+        "Iceland"
+      ],
+      "tags": [
+        "flag",
+        "hr"
+      ]
+    },
+    {
+      "id": "flag_009_03",
+      "mode": "flags",
+      "stage": 9,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ro.png"
+      },
+      "answer": "Romania",
+      "distractors": [
+        "Malaysia",
+        "Bhutan",
+        "Nigeria"
+      ],
+      "tags": [
+        "flag",
+        "ro"
+      ]
+    },
+    {
+      "id": "flag_009_04",
+      "mode": "flags",
+      "stage": 9,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cu.png"
+      },
+      "answer": "Cuba",
+      "distractors": [
+        "Croatia",
+        "Cyprus",
+        "Lebanon"
+      ],
+      "tags": [
+        "flag",
+        "cu"
+      ]
+    },
+    {
+      "id": "flag_009_05",
+      "mode": "flags",
+      "stage": 9,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ve.png"
+      },
+      "answer": "Venezuela",
+      "distractors": [
+        "Bhutan",
+        "Pakistan",
+        "Saudi Arabia"
+      ],
+      "tags": [
+        "flag",
+        "ve"
+      ]
+    },
+    {
+      "id": "flag_009_06",
+      "mode": "flags",
+      "stage": 9,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/pk.png"
+      },
+      "answer": "Pakistan",
+      "distractors": [
+        "Bhutan",
+        "Singapore",
+        "Morocco"
+      ],
+      "tags": [
+        "flag",
+        "pk"
+      ]
+    },
+    {
+      "id": "flag_010_01",
+      "mode": "flags",
+      "stage": 10,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sg.png"
+      },
+      "answer": "Singapore",
+      "distractors": [
+        "Cyprus",
+        "Qatar",
+        "Malaysia"
+      ],
+      "tags": [
+        "flag",
+        "sg"
+      ]
+    },
+    {
+      "id": "flag_010_02",
+      "mode": "flags",
+      "stage": 10,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/my.png"
+      },
+      "answer": "Malaysia",
+      "distractors": [
+        "Jordan",
+        "United Arab Emirates",
+        "Iceland"
+      ],
+      "tags": [
+        "flag",
+        "my"
+      ]
+    },
+    {
+      "id": "flag_010_03",
+      "mode": "flags",
+      "stage": 10,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/np.png"
+      },
+      "answer": "Nepal",
+      "distractors": [
+        "Venezuela",
+        "Iraq",
+        "Bhutan"
+      ],
+      "tags": [
+        "flag",
+        "np"
+      ]
+    },
+    {
+      "id": "flag_010_04",
+      "mode": "flags",
+      "stage": 10,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bt.png"
+      },
+      "answer": "Bhutan",
+      "distractors": [
+        "Cyprus",
+        "Jordan",
+        "Iran"
+      ],
+      "tags": [
+        "flag",
+        "bt"
+      ]
+    },
+    {
+      "id": "flag_010_05",
+      "mode": "flags",
+      "stage": 10,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cy.png"
+      },
+      "answer": "Cyprus",
+      "distractors": [
+        "Qatar",
+        "Romania",
+        "Malaysia"
+      ],
+      "tags": [
+        "flag",
+        "cy"
+      ]
+    },
+    {
+      "id": "flag_010_06",
+      "mode": "flags",
+      "stage": 10,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/lb.png"
+      },
+      "answer": "Lebanon",
+      "distractors": [
+        "United Arab Emirates",
+        "Singapore",
+        "Nepal"
+      ],
+      "tags": [
+        "flag",
+        "lb"
+      ]
+    },
+    {
+      "id": "flag_011_01",
+      "mode": "flags",
+      "stage": 11,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/jo.png"
+      },
+      "answer": "Jordan",
+      "distractors": [
+        "Ethiopia",
+        "Malaysia",
+        "Iraq"
+      ],
+      "tags": [
+        "flag",
+        "jo"
+      ]
+    },
+    {
+      "id": "flag_011_02",
+      "mode": "flags",
+      "stage": 11,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ae.png"
+      },
+      "answer": "United Arab Emirates",
+      "distractors": [
+        "Jordan",
+        "Cyprus",
+        "Tanzania"
+      ],
+      "tags": [
+        "flag",
+        "ae"
+      ]
+    },
+    {
+      "id": "flag_011_03",
+      "mode": "flags",
+      "stage": 11,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/qa.png"
+      },
+      "answer": "Qatar",
+      "distractors": [
+        "Senegal",
+        "Bhutan",
+        "Ghana"
+      ],
+      "tags": [
+        "flag",
+        "qa"
+      ]
+    },
+    {
+      "id": "flag_011_04",
+      "mode": "flags",
+      "stage": 11,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/kw.png"
+      },
+      "answer": "Kuwait",
+      "distractors": [
+        "Nepal",
+        "Iran",
+        "United Arab Emirates"
+      ],
+      "tags": [
+        "flag",
+        "kw"
+      ]
+    },
+    {
+      "id": "flag_011_05",
+      "mode": "flags",
+      "stage": 11,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ir.png"
+      },
+      "answer": "Iran",
+      "distractors": [
+        "Uganda",
+        "Jordan",
+        "Ghana"
+      ],
+      "tags": [
+        "flag",
+        "ir"
+      ]
+    },
+    {
+      "id": "flag_011_06",
+      "mode": "flags",
+      "stage": 11,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/iq.png"
+      },
+      "answer": "Iraq",
+      "distractors": [
+        "Jordan",
+        "Ethiopia",
+        "Singapore"
+      ],
+      "tags": [
+        "flag",
+        "iq"
+      ]
+    },
+    {
+      "id": "flag_012_01",
+      "mode": "flags",
+      "stage": 12,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/et.png"
+      },
+      "answer": "Ethiopia",
+      "distractors": [
+        "Uruguay",
+        "Iraq",
+        "Senegal"
+      ],
+      "tags": [
+        "flag",
+        "et"
+      ]
+    },
+    {
+      "id": "flag_012_02",
+      "mode": "flags",
+      "stage": 12,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gh.png"
+      },
+      "answer": "Ghana",
+      "distractors": [
+        "United Arab Emirates",
+        "Iran",
+        "Costa Rica"
+      ],
+      "tags": [
+        "flag",
+        "gh"
+      ]
+    },
+    {
+      "id": "flag_012_03",
+      "mode": "flags",
+      "stage": 12,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sn.png"
+      },
+      "answer": "Senegal",
+      "distractors": [
+        "Uruguay",
+        "Kuwait",
+        "Rwanda"
+      ],
+      "tags": [
+        "flag",
+        "sn"
+      ]
+    },
+    {
+      "id": "flag_012_04",
+      "mode": "flags",
+      "stage": 12,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tz.png"
+      },
+      "answer": "Tanzania",
+      "distractors": [
+        "Qatar",
+        "Uganda",
+        "Uruguay"
+      ],
+      "tags": [
+        "flag",
+        "tz"
+      ]
+    },
+    {
+      "id": "flag_012_05",
+      "mode": "flags",
+      "stage": 12,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ug.png"
+      },
+      "answer": "Uganda",
+      "distractors": [
+        "Qatar",
+        "Panama",
+        "Senegal"
+      ],
+      "tags": [
+        "flag",
+        "ug"
+      ]
+    },
+    {
+      "id": "flag_012_06",
+      "mode": "flags",
+      "stage": 12,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/rw.png"
+      },
+      "answer": "Rwanda",
+      "distractors": [
+        "Uganda",
+        "Iraq",
+        "Uruguay"
+      ],
+      "tags": [
+        "flag",
+        "rw"
+      ]
+    },
+    {
+      "id": "flag_013_01",
+      "mode": "flags",
+      "stage": 13,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bo.png"
+      },
+      "answer": "Bolivia",
+      "distractors": [
+        "Lithuania",
+        "Tanzania",
+        "Latvia"
+      ],
+      "tags": [
+        "flag",
+        "bo"
+      ]
+    },
+    {
+      "id": "flag_013_02",
+      "mode": "flags",
+      "stage": 13,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ec.png"
+      },
+      "answer": "Ecuador",
+      "distractors": [
+        "Slovakia",
+        "Panama",
+        "Bolivia"
+      ],
+      "tags": [
+        "flag",
+        "ec"
+      ]
+    },
+    {
+      "id": "flag_013_03",
+      "mode": "flags",
+      "stage": 13,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/uy.png"
+      },
+      "answer": "Uruguay",
+      "distractors": [
+        "Ethiopia",
+        "Paraguay",
+        "Rwanda"
+      ],
+      "tags": [
+        "flag",
+        "uy"
+      ]
+    },
+    {
+      "id": "flag_013_04",
+      "mode": "flags",
+      "stage": 13,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/py.png"
+      },
+      "answer": "Paraguay",
+      "distractors": [
+        "Rwanda",
+        "Uruguay",
+        "Ethiopia"
+      ],
+      "tags": [
+        "flag",
+        "py"
+      ]
+    },
+    {
+      "id": "flag_013_05",
+      "mode": "flags",
+      "stage": 13,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/pa.png"
+      },
+      "answer": "Panama",
+      "distractors": [
+        "Paraguay",
+        "Uganda",
+        "Slovakia"
+      ],
+      "tags": [
+        "flag",
+        "pa"
+      ]
+    },
+    {
+      "id": "flag_013_06",
+      "mode": "flags",
+      "stage": 13,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cr.png"
+      },
+      "answer": "Costa Rica",
+      "distractors": [
+        "Serbia",
+        "Tanzania",
+        "Lithuania"
+      ],
+      "tags": [
+        "flag",
+        "cr"
+      ]
+    },
+    {
+      "id": "flag_014_01",
+      "mode": "flags",
+      "stage": 14,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/rs.png"
+      },
+      "answer": "Serbia",
+      "distractors": [
+        "Ecuador",
+        "Malta",
+        "Bulgaria"
+      ],
+      "tags": [
+        "flag",
+        "rs"
+      ]
+    },
+    {
+      "id": "flag_014_02",
+      "mode": "flags",
+      "stage": 14,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sk.png"
+      },
+      "answer": "Slovakia",
+      "distractors": [
+        "Uruguay",
+        "Malta",
+        "Serbia"
+      ],
+      "tags": [
+        "flag",
+        "sk"
+      ]
+    },
+    {
+      "id": "flag_014_03",
+      "mode": "flags",
+      "stage": 14,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/si.png"
+      },
+      "answer": "Slovenia",
+      "distractors": [
+        "Latvia",
+        "Bulgaria",
+        "Serbia"
+      ],
+      "tags": [
+        "flag",
+        "si"
+      ]
+    },
+    {
+      "id": "flag_014_04",
+      "mode": "flags",
+      "stage": 14,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bg.png"
+      },
+      "answer": "Bulgaria",
+      "distractors": [
+        "Monaco",
+        "Ecuador",
+        "Latvia"
+      ],
+      "tags": [
+        "flag",
+        "bg"
+      ]
+    },
+    {
+      "id": "flag_014_05",
+      "mode": "flags",
+      "stage": 14,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/lt.png"
+      },
+      "answer": "Lithuania",
+      "distractors": [
+        "Paraguay",
+        "Monaco",
+        "Latvia"
+      ],
+      "tags": [
+        "flag",
+        "lt"
+      ]
+    },
+    {
+      "id": "flag_014_06",
+      "mode": "flags",
+      "stage": 14,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/lv.png"
+      },
+      "answer": "Latvia",
+      "distractors": [
+        "Luxembourg",
+        "Georgia",
+        "Malta"
+      ],
+      "tags": [
+        "flag",
+        "lv"
+      ]
+    },
+    {
+      "id": "flag_015_01",
+      "mode": "flags",
+      "stage": 15,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ee.png"
+      },
+      "answer": "Estonia",
+      "distractors": [
+        "Georgia",
+        "Cambodia",
+        "Luxembourg"
+      ],
+      "tags": [
+        "flag",
+        "ee"
+      ]
+    },
+    {
+      "id": "flag_015_02",
+      "mode": "flags",
+      "stage": 15,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/lu.png"
+      },
+      "answer": "Luxembourg",
+      "distractors": [
+        "Malta",
+        "Bangladesh",
+        "Slovenia"
+      ],
+      "tags": [
+        "flag",
+        "lu"
+      ]
+    },
+    {
+      "id": "flag_015_03",
+      "mode": "flags",
+      "stage": 15,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mc.png"
+      },
+      "answer": "Monaco",
+      "distractors": [
+        "Laos",
+        "Slovenia",
+        "Cambodia"
+      ],
+      "tags": [
+        "flag",
+        "mc"
+      ]
+    },
+    {
+      "id": "flag_015_04",
+      "mode": "flags",
+      "stage": 15,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mt.png"
+      },
+      "answer": "Malta",
+      "distractors": [
+        "Kazakhstan",
+        "Sri Lanka",
+        "Mongolia"
+      ],
+      "tags": [
+        "flag",
+        "mt"
+      ]
+    },
+    {
+      "id": "flag_015_05",
+      "mode": "flags",
+      "stage": 15,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ge.png"
+      },
+      "answer": "Georgia",
+      "distractors": [
+        "Bulgaria",
+        "Armenia",
+        "Slovenia"
+      ],
+      "tags": [
+        "flag",
+        "ge"
+      ]
+    },
+    {
+      "id": "flag_015_06",
+      "mode": "flags",
+      "stage": 15,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/am.png"
+      },
+      "answer": "Armenia",
+      "distractors": [
+        "Serbia",
+        "Monaco",
+        "Latvia"
+      ],
+      "tags": [
+        "flag",
+        "am"
+      ]
+    },
+    {
+      "id": "flag_016_01",
+      "mode": "flags",
+      "stage": 16,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mn.png"
+      },
+      "answer": "Mongolia",
+      "distractors": [
+        "Mozambique",
+        "Sudan",
+        "Algeria"
+      ],
+      "tags": [
+        "flag",
+        "mn"
+      ]
+    },
+    {
+      "id": "flag_016_02",
+      "mode": "flags",
+      "stage": 16,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/kz.png"
+      },
+      "answer": "Kazakhstan",
+      "distractors": [
+        "Armenia",
+        "Bangladesh",
+        "Mongolia"
+      ],
+      "tags": [
+        "flag",
+        "kz"
+      ]
+    },
+    {
+      "id": "flag_016_03",
+      "mode": "flags",
+      "stage": 16,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/lk.png"
+      },
+      "answer": "Sri Lanka",
+      "distractors": [
+        "Luxembourg",
+        "Armenia",
+        "Libya"
+      ],
+      "tags": [
+        "flag",
+        "lk"
+      ]
+    },
+    {
+      "id": "flag_016_04",
+      "mode": "flags",
+      "stage": 16,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bd.png"
+      },
+      "answer": "Bangladesh",
+      "distractors": [
+        "Armenia",
+        "Luxembourg",
+        "Laos"
+      ],
+      "tags": [
+        "flag",
+        "bd"
+      ]
+    },
+    {
+      "id": "flag_016_05",
+      "mode": "flags",
+      "stage": 16,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/kh.png"
+      },
+      "answer": "Cambodia",
+      "distractors": [
+        "Bangladesh",
+        "Luxembourg",
+        "Monaco"
+      ],
+      "tags": [
+        "flag",
+        "kh"
+      ]
+    },
+    {
+      "id": "flag_016_06",
+      "mode": "flags",
+      "stage": 16,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/la.png"
+      },
+      "answer": "Laos",
+      "distractors": [
+        "Tunisia",
+        "Monaco",
+        "Georgia"
+      ],
+      "tags": [
+        "flag",
+        "la"
+      ]
+    },
+    {
+      "id": "flag_017_01",
+      "mode": "flags",
+      "stage": 17,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/dz.png"
+      },
+      "answer": "Algeria",
+      "distractors": [
+        "Mozambique",
+        "Barbados",
+        "Tunisia"
+      ],
+      "tags": [
+        "flag",
+        "dz"
+      ]
+    },
+    {
+      "id": "flag_017_02",
+      "mode": "flags",
+      "stage": 17,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tn.png"
+      },
+      "answer": "Tunisia",
+      "distractors": [
+        "Barbados",
+        "Samoa",
+        "Sri Lanka"
+      ],
+      "tags": [
+        "flag",
+        "tn"
+      ]
+    },
+    {
+      "id": "flag_017_03",
+      "mode": "flags",
+      "stage": 17,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ly.png"
+      },
+      "answer": "Libya",
+      "distractors": [
+        "Madagascar",
+        "Samoa",
+        "Bangladesh"
+      ],
+      "tags": [
+        "flag",
+        "ly"
+      ]
+    },
+    {
+      "id": "flag_017_04",
+      "mode": "flags",
+      "stage": 17,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sd.png"
+      },
+      "answer": "Sudan",
+      "distractors": [
+        "Fiji",
+        "Madagascar",
+        "Cambodia"
+      ],
+      "tags": [
+        "flag",
+        "sd"
+      ]
+    },
+    {
+      "id": "flag_017_05",
+      "mode": "flags",
+      "stage": 17,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mg.png"
+      },
+      "answer": "Madagascar",
+      "distractors": [
+        "Barbados",
+        "Bangladesh",
+        "Samoa"
+      ],
+      "tags": [
+        "flag",
+        "mg"
+      ]
+    },
+    {
+      "id": "flag_017_06",
+      "mode": "flags",
+      "stage": 17,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mz.png"
+      },
+      "answer": "Mozambique",
+      "distractors": [
+        "Barbados",
+        "Tonga",
+        "Bahamas"
+      ],
+      "tags": [
+        "flag",
+        "mz"
+      ]
+    },
+    {
+      "id": "flag_018_01",
+      "mode": "flags",
+      "stage": 18,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/fj.png"
+      },
+      "answer": "Fiji",
+      "distractors": [
+        "Mozambique",
+        "Samoa",
+        "Bahamas"
+      ],
+      "tags": [
+        "flag",
+        "fj"
+      ]
+    },
+    {
+      "id": "flag_018_02",
+      "mode": "flags",
+      "stage": 18,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/pg.png"
+      },
+      "answer": "Papua New Guinea",
+      "distractors": [
+        "Tonga",
+        "Cameroon",
+        "Mali"
+      ],
+      "tags": [
+        "flag",
+        "pg"
+      ]
+    },
+    {
+      "id": "flag_018_03",
+      "mode": "flags",
+      "stage": 18,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ws.png"
+      },
+      "answer": "Samoa",
+      "distractors": [
+        "Madagascar",
+        "Bahamas",
+        "Tunisia"
+      ],
+      "tags": [
+        "flag",
+        "ws"
+      ]
+    },
+    {
+      "id": "flag_018_04",
+      "mode": "flags",
+      "stage": 18,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/to.png"
+      },
+      "answer": "Tonga",
+      "distractors": [
+        "Mali",
+        "Tunisia",
+        "Bahamas"
+      ],
+      "tags": [
+        "flag",
+        "to"
+      ]
+    },
+    {
+      "id": "flag_018_05",
+      "mode": "flags",
+      "stage": 18,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bb.png"
+      },
+      "answer": "Barbados",
+      "distractors": [
+        "Madagascar",
+        "Niger",
+        "Mozambique"
+      ],
+      "tags": [
+        "flag",
+        "bb"
+      ]
+    },
+    {
+      "id": "flag_018_06",
+      "mode": "flags",
+      "stage": 18,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bs.png"
+      },
+      "answer": "Bahamas",
+      "distractors": [
+        "Mali",
+        "Guinea",
+        "Algeria"
+      ],
+      "tags": [
+        "flag",
+        "bs"
+      ]
+    },
+    {
+      "id": "flag_019_01",
+      "mode": "flags",
+      "stage": 19,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/td.png"
+      },
+      "answer": "Chad",
+      "distractors": [
+        "Cameroon",
+        "Niger",
+        "Nicaragua"
+      ],
+      "tags": [
+        "flag",
+        "td"
+      ]
+    },
+    {
+      "id": "flag_019_02",
+      "mode": "flags",
+      "stage": 19,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ml.png"
+      },
+      "answer": "Mali",
+      "distractors": [
+        "Samoa",
+        "Fiji",
+        "Dominican Republic"
+      ],
+      "tags": [
+        "flag",
+        "ml"
+      ]
+    },
+    {
+      "id": "flag_019_03",
+      "mode": "flags",
+      "stage": 19,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ne.png"
+      },
+      "answer": "Niger",
+      "distractors": [
+        "Barbados",
+        "Guinea",
+        "Samoa"
+      ],
+      "tags": [
+        "flag",
+        "ne"
+      ]
+    },
+    {
+      "id": "flag_019_04",
+      "mode": "flags",
+      "stage": 19,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gn.png"
+      },
+      "answer": "Guinea",
+      "distractors": [
+        "Haiti",
+        "Honduras",
+        "Samoa"
+      ],
+      "tags": [
+        "flag",
+        "gn"
+      ]
+    },
+    {
+      "id": "flag_019_05",
+      "mode": "flags",
+      "stage": 19,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ci.png"
+      },
+      "answer": "Ivory Coast",
+      "distractors": [
+        "Nicaragua",
+        "Cameroon",
+        "Tonga"
+      ],
+      "tags": [
+        "flag",
+        "ci"
+      ]
+    },
+    {
+      "id": "flag_019_06",
+      "mode": "flags",
+      "stage": 19,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cm.png"
+      },
+      "answer": "Cameroon",
+      "distractors": [
+        "Nicaragua",
+        "Bahamas",
+        "Haiti"
+      ],
+      "tags": [
+        "flag",
+        "cm"
+      ]
+    },
+    {
+      "id": "flag_020_01",
+      "mode": "flags",
+      "stage": 20,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ht.png"
+      },
+      "answer": "Haiti",
+      "distractors": [
+        "Cameroon",
+        "Albania",
+        "Nicaragua"
+      ],
+      "tags": [
+        "flag",
+        "ht"
+      ]
+    },
+    {
+      "id": "flag_020_02",
+      "mode": "flags",
+      "stage": 20,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/do.png"
+      },
+      "answer": "Dominican Republic",
+      "distractors": [
+        "Chad",
+        "Albania",
+        "Nicaragua"
+      ],
+      "tags": [
+        "flag",
+        "do"
+      ]
+    },
+    {
+      "id": "flag_020_03",
+      "mode": "flags",
+      "stage": 20,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/hn.png"
+      },
+      "answer": "Honduras",
+      "distractors": [
+        "Chad",
+        "Montenegro",
+        "Bosnia and Herzegovina"
+      ],
+      "tags": [
+        "flag",
+        "hn"
+      ]
+    },
+    {
+      "id": "flag_020_04",
+      "mode": "flags",
+      "stage": 20,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gt.png"
+      },
+      "answer": "Guatemala",
+      "distractors": [
+        "Nicaragua",
+        "Dominican Republic",
+        "Bosnia and Herzegovina"
+      ],
+      "tags": [
+        "flag",
+        "gt"
+      ]
+    },
+    {
+      "id": "flag_020_05",
+      "mode": "flags",
+      "stage": 20,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sv.png"
+      },
+      "answer": "El Salvador",
+      "distractors": [
+        "Guinea",
+        "Mali",
+        "Ivory Coast"
+      ],
+      "tags": [
+        "flag",
+        "sv"
+      ]
+    },
+    {
+      "id": "flag_020_06",
+      "mode": "flags",
+      "stage": 20,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ni.png"
+      },
+      "answer": "Nicaragua",
+      "distractors": [
+        "Montenegro",
+        "Cameroon",
+        "Belarus"
+      ],
+      "tags": [
+        "flag",
+        "ni"
+      ]
+    },
+    {
+      "id": "flag_021_01",
+      "mode": "flags",
+      "stage": 21,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/al.png"
+      },
+      "answer": "Albania",
+      "distractors": [
+        "Moldova",
+        "Andorra",
+        "Kyrgyzstan"
+      ],
+      "tags": [
+        "flag",
+        "al"
+      ]
+    },
+    {
+      "id": "flag_021_02",
+      "mode": "flags",
+      "stage": 21,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/md.png"
+      },
+      "answer": "Moldova",
+      "distractors": [
+        "Dominican Republic",
+        "Nicaragua",
+        "Honduras"
+      ],
+      "tags": [
+        "flag",
+        "md"
+      ]
+    },
+    {
+      "id": "flag_021_03",
+      "mode": "flags",
+      "stage": 21,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/by.png"
+      },
+      "answer": "Belarus",
+      "distractors": [
+        "Dominican Republic",
+        "Moldova",
+        "Honduras"
+      ],
+      "tags": [
+        "flag",
+        "by"
+      ]
+    },
+    {
+      "id": "flag_021_04",
+      "mode": "flags",
+      "stage": 21,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ba.png"
+      },
+      "answer": "Bosnia and Herzegovina",
+      "distractors": [
+        "Kyrgyzstan",
+        "Andorra",
+        "North Macedonia"
+      ],
+      "tags": [
+        "flag",
+        "ba"
+      ]
+    },
+    {
+      "id": "flag_021_05",
+      "mode": "flags",
+      "stage": 21,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/me.png"
+      },
+      "answer": "Montenegro",
+      "distractors": [
+        "Belarus",
+        "Uzbekistan",
+        "Nicaragua"
+      ],
+      "tags": [
+        "flag",
+        "me"
+      ]
+    },
+    {
+      "id": "flag_021_06",
+      "mode": "flags",
+      "stage": 21,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mk.png"
+      },
+      "answer": "North Macedonia",
+      "distractors": [
+        "Uzbekistan",
+        "Haiti",
+        "Liechtenstein"
+      ],
+      "tags": [
+        "flag",
+        "mk"
+      ]
+    },
+    {
+      "id": "flag_022_01",
+      "mode": "flags",
+      "stage": 22,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ad.png"
+      },
+      "answer": "Andorra",
+      "distractors": [
+        "Albania",
+        "Montenegro",
+        "Afghanistan"
+      ],
+      "tags": [
+        "flag",
+        "ad"
+      ]
+    },
+    {
+      "id": "flag_022_02",
+      "mode": "flags",
+      "stage": 22,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/li.png"
+      },
+      "answer": "Liechtenstein",
+      "distractors": [
+        "Kyrgyzstan",
+        "San Marino",
+        "Bahrain"
+      ],
+      "tags": [
+        "flag",
+        "li"
+      ]
+    },
+    {
+      "id": "flag_022_03",
+      "mode": "flags",
+      "stage": 22,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sm.png"
+      },
+      "answer": "San Marino",
+      "distractors": [
+        "Kyrgyzstan",
+        "Uzbekistan",
+        "Tajikistan"
+      ],
+      "tags": [
+        "flag",
+        "sm"
+      ]
+    },
+    {
+      "id": "flag_022_04",
+      "mode": "flags",
+      "stage": 22,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/az.png"
+      },
+      "answer": "Azerbaijan",
+      "distractors": [
+        "Albania",
+        "Turkmenistan",
+        "San Marino"
+      ],
+      "tags": [
+        "flag",
+        "az"
+      ]
+    },
+    {
+      "id": "flag_022_05",
+      "mode": "flags",
+      "stage": 22,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/uz.png"
+      },
+      "answer": "Uzbekistan",
+      "distractors": [
+        "San Marino",
+        "Tajikistan",
+        "Albania"
+      ],
+      "tags": [
+        "flag",
+        "uz"
+      ]
+    },
+    {
+      "id": "flag_022_06",
+      "mode": "flags",
+      "stage": 22,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/kg.png"
+      },
+      "answer": "Kyrgyzstan",
+      "distractors": [
+        "Bosnia and Herzegovina",
+        "Azerbaijan",
+        "Moldova"
+      ],
+      "tags": [
+        "flag",
+        "kg"
+      ]
+    },
+    {
+      "id": "flag_023_01",
+      "mode": "flags",
+      "stage": 23,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tj.png"
+      },
+      "answer": "Tajikistan",
+      "distractors": [
+        "Oman",
+        "North Korea",
+        "Myanmar"
+      ],
+      "tags": [
+        "flag",
+        "tj"
+      ]
+    },
+    {
+      "id": "flag_023_02",
+      "mode": "flags",
+      "stage": 23,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tm.png"
+      },
+      "answer": "Turkmenistan",
+      "distractors": [
+        "Brunei",
+        "Kyrgyzstan",
+        "Afghanistan"
+      ],
+      "tags": [
+        "flag",
+        "tm"
+      ]
+    },
+    {
+      "id": "flag_023_03",
+      "mode": "flags",
+      "stage": 23,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/af.png"
+      },
+      "answer": "Afghanistan",
+      "distractors": [
+        "Turkmenistan",
+        "Oman",
+        "Tajikistan"
+      ],
+      "tags": [
+        "flag",
+        "af"
+      ]
+    },
+    {
+      "id": "flag_023_04",
+      "mode": "flags",
+      "stage": 23,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/om.png"
+      },
+      "answer": "Oman",
+      "distractors": [
+        "Maldives",
+        "Tajikistan",
+        "Azerbaijan"
+      ],
+      "tags": [
+        "flag",
+        "om"
+      ]
+    },
+    {
+      "id": "flag_023_05",
+      "mode": "flags",
+      "stage": 23,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bh.png"
+      },
+      "answer": "Bahrain",
+      "distractors": [
+        "Turkmenistan",
+        "Tajikistan",
+        "North Korea"
+      ],
+      "tags": [
+        "flag",
+        "bh"
+      ]
+    },
+    {
+      "id": "flag_023_06",
+      "mode": "flags",
+      "stage": 23,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ye.png"
+      },
+      "answer": "Yemen",
+      "distractors": [
+        "Kyrgyzstan",
+        "San Marino",
+        "Bahrain"
+      ],
+      "tags": [
+        "flag",
+        "ye"
+      ]
+    },
+    {
+      "id": "flag_024_01",
+      "mode": "flags",
+      "stage": 24,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sy.png"
+      },
+      "answer": "Syria",
+      "distractors": [
+        "North Korea",
+        "Maldives",
+        "Oman"
+      ],
+      "tags": [
+        "flag",
+        "sy"
+      ]
+    },
+    {
+      "id": "flag_024_02",
+      "mode": "flags",
+      "stage": 24,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/kp.png"
+      },
+      "answer": "North Korea",
+      "distractors": [
+        "Myanmar",
+        "Yemen",
+        "Botswana"
+      ],
+      "tags": [
+        "flag",
+        "kp"
+      ]
+    },
+    {
+      "id": "flag_024_03",
+      "mode": "flags",
+      "stage": 24,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mm.png"
+      },
+      "answer": "Myanmar",
+      "distractors": [
+        "Yemen",
+        "Afghanistan",
+        "Malawi"
+      ],
+      "tags": [
+        "flag",
+        "mm"
+      ]
+    },
+    {
+      "id": "flag_024_04",
+      "mode": "flags",
+      "stage": 24,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bn.png"
+      },
+      "answer": "Brunei",
+      "distractors": [
+        "Angola",
+        "Zimbabwe",
+        "North Korea"
+      ],
+      "tags": [
+        "flag",
+        "bn"
+      ]
+    },
+    {
+      "id": "flag_024_05",
+      "mode": "flags",
+      "stage": 24,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tl.png"
+      },
+      "answer": "Timor-Leste",
+      "distractors": [
+        "Brunei",
+        "Oman",
+        "Syria"
+      ],
+      "tags": [
+        "flag",
+        "tl"
+      ]
+    },
+    {
+      "id": "flag_024_06",
+      "mode": "flags",
+      "stage": 24,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mv.png"
+      },
+      "answer": "Maldives",
+      "distractors": [
+        "Afghanistan",
+        "Turkmenistan",
+        "Yemen"
+      ],
+      "tags": [
+        "flag",
+        "mv"
+      ]
+    },
+    {
+      "id": "flag_025_01",
+      "mode": "flags",
+      "stage": 25,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ao.png"
+      },
+      "answer": "Angola",
+      "distractors": [
+        "Eswatini",
+        "Syria",
+        "Maldives"
+      ],
+      "tags": [
+        "flag",
+        "ao"
+      ]
+    },
+    {
+      "id": "flag_025_02",
+      "mode": "flags",
+      "stage": 25,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/zm.png"
+      },
+      "answer": "Zambia",
+      "distractors": [
+        "Syria",
+        "Angola",
+        "Namibia"
+      ],
+      "tags": [
+        "flag",
+        "zm"
+      ]
+    },
+    {
+      "id": "flag_025_03",
+      "mode": "flags",
+      "stage": 25,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/zw.png"
+      },
+      "answer": "Zimbabwe",
+      "distractors": [
+        "Eswatini",
+        "Brunei",
+        "Lesotho"
+      ],
+      "tags": [
+        "flag",
+        "zw"
+      ]
+    },
+    {
+      "id": "flag_025_04",
+      "mode": "flags",
+      "stage": 25,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bw.png"
+      },
+      "answer": "Botswana",
+      "distractors": [
+        "Somalia",
+        "Angola",
+        "Myanmar"
+      ],
+      "tags": [
+        "flag",
+        "bw"
+      ]
+    },
+    {
+      "id": "flag_025_05",
+      "mode": "flags",
+      "stage": 25,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/na.png"
+      },
+      "answer": "Namibia",
+      "distractors": [
+        "Somalia",
+        "Zambia",
+        "North Korea"
+      ],
+      "tags": [
+        "flag",
+        "na"
+      ]
+    },
+    {
+      "id": "flag_025_06",
+      "mode": "flags",
+      "stage": 25,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mw.png"
+      },
+      "answer": "Malawi",
+      "distractors": [
+        "Myanmar",
+        "Maldives",
+        "Seychelles"
+      ],
+      "tags": [
+        "flag",
+        "mw"
+      ]
+    },
+    {
+      "id": "flag_026_01",
+      "mode": "flags",
+      "stage": 26,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ls.png"
+      },
+      "answer": "Lesotho",
+      "distractors": [
+        "Djibouti",
+        "DR Congo",
+        "Malawi"
+      ],
+      "tags": [
+        "flag",
+        "ls"
+      ]
+    },
+    {
+      "id": "flag_026_02",
+      "mode": "flags",
+      "stage": 26,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sz.png"
+      },
+      "answer": "Eswatini",
+      "distractors": [
+        "Eritrea",
+        "Seychelles",
+        "Republic of the Congo"
+      ],
+      "tags": [
+        "flag",
+        "sz"
+      ]
+    },
+    {
+      "id": "flag_026_03",
+      "mode": "flags",
+      "stage": 26,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mu.png"
+      },
+      "answer": "Mauritius",
+      "distractors": [
+        "Somalia",
+        "Zimbabwe",
+        "Botswana"
+      ],
+      "tags": [
+        "flag",
+        "mu"
+      ]
+    },
+    {
+      "id": "flag_026_04",
+      "mode": "flags",
+      "stage": 26,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sc.png"
+      },
+      "answer": "Seychelles",
+      "distractors": [
+        "Djibouti",
+        "South Sudan",
+        "Republic of the Congo"
+      ],
+      "tags": [
+        "flag",
+        "sc"
+      ]
+    },
+    {
+      "id": "flag_026_05",
+      "mode": "flags",
+      "stage": 26,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/km.png"
+      },
+      "answer": "Comoros",
+      "distractors": [
+        "Botswana",
+        "Republic of the Congo",
+        "Seychelles"
+      ],
+      "tags": [
+        "flag",
+        "km"
+      ]
+    },
+    {
+      "id": "flag_026_06",
+      "mode": "flags",
+      "stage": 26,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/so.png"
+      },
+      "answer": "Somalia",
+      "distractors": [
+        "Djibouti",
+        "Comoros",
+        "Seychelles"
+      ],
+      "tags": [
+        "flag",
+        "so"
+      ]
+    },
+    {
+      "id": "flag_027_01",
+      "mode": "flags",
+      "stage": 27,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/dj.png"
+      },
+      "answer": "Djibouti",
+      "distractors": [
+        "DR Congo",
+        "Mauritius",
+        "Seychelles"
+      ],
+      "tags": [
+        "flag",
+        "dj"
+      ]
+    },
+    {
+      "id": "flag_027_02",
+      "mode": "flags",
+      "stage": 27,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/er.png"
+      },
+      "answer": "Eritrea",
+      "distractors": [
+        "Somalia",
+        "Djibouti",
+        "DR Congo"
+      ],
+      "tags": [
+        "flag",
+        "er"
+      ]
+    },
+    {
+      "id": "flag_027_03",
+      "mode": "flags",
+      "stage": 27,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ss.png"
+      },
+      "answer": "South Sudan",
+      "distractors": [
+        "Lesotho",
+        "Guinea-Bissau",
+        "Djibouti"
+      ],
+      "tags": [
+        "flag",
+        "ss"
+      ]
+    },
+    {
+      "id": "flag_027_04",
+      "mode": "flags",
+      "stage": 27,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cf.png"
+      },
+      "answer": "Central African Republic",
+      "distractors": [
+        "Republic of the Congo",
+        "Equatorial Guinea",
+        "South Sudan"
+      ],
+      "tags": [
+        "flag",
+        "cf"
+      ]
+    },
+    {
+      "id": "flag_027_05",
+      "mode": "flags",
+      "stage": 27,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cd.png"
+      },
+      "answer": "DR Congo",
+      "distractors": [
+        "Comoros",
+        "Republic of the Congo",
+        "Guinea-Bissau"
+      ],
+      "tags": [
+        "flag",
+        "cd"
+      ]
+    },
+    {
+      "id": "flag_027_06",
+      "mode": "flags",
+      "stage": 27,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cg.png"
+      },
+      "answer": "Republic of the Congo",
+      "distractors": [
+        "Djibouti",
+        "Mauritius",
+        "Comoros"
+      ],
+      "tags": [
+        "flag",
+        "cg"
+      ]
+    },
+    {
+      "id": "flag_028_01",
+      "mode": "flags",
+      "stage": 28,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ga.png"
+      },
+      "answer": "Gabon",
+      "distractors": [
+        "Djibouti",
+        "Togo",
+        "Benin"
+      ],
+      "tags": [
+        "flag",
+        "ga"
+      ]
+    },
+    {
+      "id": "flag_028_02",
+      "mode": "flags",
+      "stage": 28,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gq.png"
+      },
+      "answer": "Equatorial Guinea",
+      "distractors": [
+        "Gambia",
+        "Gabon",
+        "Djibouti"
+      ],
+      "tags": [
+        "flag",
+        "gq"
+      ]
+    },
+    {
+      "id": "flag_028_03",
+      "mode": "flags",
+      "stage": 28,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/st.png"
+      },
+      "answer": "Sao Tome and Principe",
+      "distractors": [
+        "Gambia",
+        "Djibouti",
+        "DR Congo"
+      ],
+      "tags": [
+        "flag",
+        "st"
+      ]
+    },
+    {
+      "id": "flag_028_04",
+      "mode": "flags",
+      "stage": 28,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/cv.png"
+      },
+      "answer": "Cape Verde",
+      "distractors": [
+        "Republic of the Congo",
+        "Mauritania",
+        "Liberia"
+      ],
+      "tags": [
+        "flag",
+        "cv"
+      ]
+    },
+    {
+      "id": "flag_028_05",
+      "mode": "flags",
+      "stage": 28,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gw.png"
+      },
+      "answer": "Guinea-Bissau",
+      "distractors": [
+        "Benin",
+        "Cape Verde",
+        "Burkina Faso"
+      ],
+      "tags": [
+        "flag",
+        "gw"
+      ]
+    },
+    {
+      "id": "flag_028_06",
+      "mode": "flags",
+      "stage": 28,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gm.png"
+      },
+      "answer": "Gambia",
+      "distractors": [
+        "Togo",
+        "Sao Tome and Principe",
+        "Sierra Leone"
+      ],
+      "tags": [
+        "flag",
+        "gm"
+      ]
+    },
+    {
+      "id": "flag_029_01",
+      "mode": "flags",
+      "stage": 29,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sl.png"
+      },
+      "answer": "Sierra Leone",
+      "distractors": [
+        "Burundi",
+        "Grenada",
+        "Burkina Faso"
+      ],
+      "tags": [
+        "flag",
+        "sl"
+      ]
+    },
+    {
+      "id": "flag_029_02",
+      "mode": "flags",
+      "stage": 29,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/lr.png"
+      },
+      "answer": "Liberia",
+      "distractors": [
+        "Trinidad and Tobago",
+        "Guyana",
+        "Grenada"
+      ],
+      "tags": [
+        "flag",
+        "lr"
+      ]
+    },
+    {
+      "id": "flag_029_03",
+      "mode": "flags",
+      "stage": 29,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bf.png"
+      },
+      "answer": "Burkina Faso",
+      "distractors": [
+        "Cape Verde",
+        "Togo",
+        "Grenada"
+      ],
+      "tags": [
+        "flag",
+        "bf"
+      ]
+    },
+    {
+      "id": "flag_029_04",
+      "mode": "flags",
+      "stage": 29,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bj.png"
+      },
+      "answer": "Benin",
+      "distractors": [
+        "Gambia",
+        "Guyana",
+        "Gabon"
+      ],
+      "tags": [
+        "flag",
+        "bj"
+      ]
+    },
+    {
+      "id": "flag_029_05",
+      "mode": "flags",
+      "stage": 29,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tg.png"
+      },
+      "answer": "Togo",
+      "distractors": [
+        "Guinea-Bissau",
+        "Sierra Leone",
+        "Grenada"
+      ],
+      "tags": [
+        "flag",
+        "tg"
+      ]
+    },
+    {
+      "id": "flag_029_06",
+      "mode": "flags",
+      "stage": 29,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mr.png"
+      },
+      "answer": "Mauritania",
+      "distractors": [
+        "Belize",
+        "Sierra Leone",
+        "Gambia"
+      ],
+      "tags": [
+        "flag",
+        "mr"
+      ]
+    },
+    {
+      "id": "flag_030_01",
+      "mode": "flags",
+      "stage": 30,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bi.png"
+      },
+      "answer": "Burundi",
+      "distractors": [
+        "Burkina Faso",
+        "Liberia",
+        "Antigua and Barbuda"
+      ],
+      "tags": [
+        "flag",
+        "bi"
+      ]
+    },
+    {
+      "id": "flag_030_02",
+      "mode": "flags",
+      "stage": 30,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gy.png"
+      },
+      "answer": "Guyana",
+      "distractors": [
+        "Saint Vincent and the Grenadines",
+        "Burundi",
+        "Solomon Islands"
+      ],
+      "tags": [
+        "flag",
+        "gy"
+      ]
+    },
+    {
+      "id": "flag_030_03",
+      "mode": "flags",
+      "stage": 30,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sr.png"
+      },
+      "answer": "Suriname",
+      "distractors": [
+        "Dominica",
+        "Belize",
+        "Benin"
+      ],
+      "tags": [
+        "flag",
+        "sr"
+      ]
+    },
+    {
+      "id": "flag_030_04",
+      "mode": "flags",
+      "stage": 30,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/bz.png"
+      },
+      "answer": "Belize",
+      "distractors": [
+        "Grenada",
+        "Saint Lucia",
+        "Trinidad and Tobago"
+      ],
+      "tags": [
+        "flag",
+        "bz"
+      ]
+    },
+    {
+      "id": "flag_030_05",
+      "mode": "flags",
+      "stage": 30,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tt.png"
+      },
+      "answer": "Trinidad and Tobago",
+      "distractors": [
+        "Grenada",
+        "Liberia",
+        "Antigua and Barbuda"
+      ],
+      "tags": [
+        "flag",
+        "tt"
+      ]
+    },
+    {
+      "id": "flag_030_06",
+      "mode": "flags",
+      "stage": 30,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/gd.png"
+      },
+      "answer": "Grenada",
+      "distractors": [
+        "Trinidad and Tobago",
+        "Burkina Faso",
+        "Belize"
+      ],
+      "tags": [
+        "flag",
+        "gd"
+      ]
+    },
+    {
+      "id": "flag_031_01",
+      "mode": "flags",
+      "stage": 31,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/lc.png"
+      },
+      "answer": "Saint Lucia",
+      "distractors": [
+        "Dominica",
+        "Suriname",
+        "Tuvalu"
+      ],
+      "tags": [
+        "flag",
+        "lc"
+      ]
+    },
+    {
+      "id": "flag_031_02",
+      "mode": "flags",
+      "stage": 31,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/vc.png"
+      },
+      "answer": "Saint Vincent and the Grenadines",
+      "distractors": [
+        "Guyana",
+        "Tuvalu",
+        "Saint Lucia"
+      ],
+      "tags": [
+        "flag",
+        "vc"
+      ]
+    },
+    {
+      "id": "flag_031_03",
+      "mode": "flags",
+      "stage": 31,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/dm.png"
+      },
+      "answer": "Dominica",
+      "distractors": [
+        "Suriname",
+        "Tuvalu",
+        "Vanuatu"
+      ],
+      "tags": [
+        "flag",
+        "dm"
+      ]
+    },
+    {
+      "id": "flag_031_04",
+      "mode": "flags",
+      "stage": 31,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ag.png"
+      },
+      "answer": "Antigua and Barbuda",
+      "distractors": [
+        "Dominica",
+        "Belize",
+        "Kiribati"
+      ],
+      "tags": [
+        "flag",
+        "ag"
+      ]
+    },
+    {
+      "id": "flag_031_05",
+      "mode": "flags",
+      "stage": 31,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/kn.png"
+      },
+      "answer": "Saint Kitts and Nevis",
+      "distractors": [
+        "Marshall Islands",
+        "Saint Vincent and the Grenadines",
+        "Guyana"
+      ],
+      "tags": [
+        "flag",
+        "kn"
+      ]
+    },
+    {
+      "id": "flag_031_06",
+      "mode": "flags",
+      "stage": 31,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/sb.png"
+      },
+      "answer": "Solomon Islands",
+      "distractors": [
+        "Saint Kitts and Nevis",
+        "Grenada",
+        "Guyana"
+      ],
+      "tags": [
+        "flag",
+        "sb"
+      ]
+    },
+    {
+      "id": "flag_032_01",
+      "mode": "flags",
+      "stage": 32,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/vu.png"
+      },
+      "answer": "Vanuatu",
+      "distractors": [
+        "Kiribati",
+        "Saint Kitts and Nevis",
+        "Dominica"
+      ],
+      "tags": [
+        "flag",
+        "vu"
+      ]
+    },
+    {
+      "id": "flag_032_02",
+      "mode": "flags",
+      "stage": 32,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/ki.png"
+      },
+      "answer": "Kiribati",
+      "distractors": [
+        "Tuvalu",
+        "Nauru",
+        "Saint Vincent and the Grenadines"
+      ],
+      "tags": [
+        "flag",
+        "ki"
+      ]
+    },
+    {
+      "id": "flag_032_03",
+      "mode": "flags",
+      "stage": 32,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/tv.png"
+      },
+      "answer": "Tuvalu",
+      "distractors": [
+        "Antigua and Barbuda",
+        "Vanuatu",
+        "Dominica"
+      ],
+      "tags": [
+        "flag",
+        "tv"
+      ]
+    },
+    {
+      "id": "flag_032_04",
+      "mode": "flags",
+      "stage": 32,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/nr.png"
+      },
+      "answer": "Nauru",
+      "distractors": [
+        "Tuvalu",
+        "Marshall Islands",
+        "Solomon Islands"
+      ],
+      "tags": [
+        "flag",
+        "nr"
+      ]
+    },
+    {
+      "id": "flag_032_05",
+      "mode": "flags",
+      "stage": 32,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/pw.png"
+      },
+      "answer": "Palau",
+      "distractors": [
+        "Solomon Islands",
+        "Nauru",
+        "Kiribati"
+      ],
+      "tags": [
+        "flag",
+        "pw"
+      ]
+    },
+    {
+      "id": "flag_032_06",
+      "mode": "flags",
+      "stage": 32,
+      "challengeType": "picture_to_word",
+      "prompt": {
+        "text": "Which country's flag is this?",
+        "image": "images/flags/mh.png"
+      },
+      "answer": "Marshall Islands",
+      "distractors": [
+        "Saint Lucia",
+        "Vanuatu",
+        "Antigua and Barbuda"
+      ],
+      "tags": [
+        "flag",
+        "mh"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2725 @@
+{
+  "schemaVersion": 1,
+  "packId": "leaders_core_v1",
+  "title": "World Leaders",
+  "kind": "core",
+  "language": "en",
+  "version": 1,
+  "author": "Solve & Evolve",
+  "stages": [
+    {
+      "mode": "leaders",
+      "stage": 1,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 2,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 3,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 4,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 5,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 6,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 7,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 8,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 9,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 10,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 11,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 12,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 13,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 14,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 15,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 16,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 17,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 18,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 19,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 20,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 21,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 22,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 23,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "leaders",
+      "stage": 24,
+      "questionsRequired": 4
+    }
+  ],
+  "challenges": [
+    {
+      "id": "ldr_001_01",
+      "mode": "leaders",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first President of the United States?"
+      },
+      "answer": "George Washington",
+      "distractors": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_001_02",
+      "mode": "leaders",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first Prime Minister of Israel?"
+      },
+      "answer": "David Ben-Gurion",
+      "distractors": [
+        "Golda Meir",
+        "Menachem Begin",
+        "Yitzhak Rabin"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_001_03",
+      "mode": "leaders",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who dreamed of a Jewish state and started modern Zionism?"
+      },
+      "answer": "Theodor Herzl",
+      "distractors": [
+        "David Ben-Gurion",
+        "Chaim Weizmann",
+        "Golda Meir"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_001_04",
+      "mode": "leaders",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President ended slavery?"
+      },
+      "answer": "Abraham Lincoln",
+      "distractors": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Theodore Roosevelt"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_001_05",
+      "mode": "leaders",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led Britain in World War II?"
+      },
+      "answer": "Winston Churchill",
+      "distractors": [
+        "Queen Victoria",
+        "Margaret Thatcher",
+        "Tony Blair"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_001_06",
+      "mode": "leaders",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led India to freedom with peaceful protest?"
+      },
+      "answer": "Mahatma Gandhi",
+      "distractors": [
+        "Nelson Mandela",
+        "Jawaharlal Nehru",
+        "Martin Luther King Jr."
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_002_01",
+      "mode": "leaders",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Israel's first woman Prime Minister?"
+      },
+      "answer": "Golda Meir",
+      "distractors": [
+        "Margaret Thatcher",
+        "Indira Gandhi",
+        "Angela Merkel"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_002_02",
+      "mode": "leaders",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was in prison 27 years, then became President of South Africa?"
+      },
+      "answer": "Nelson Mandela",
+      "distractors": [
+        "Desmond Tutu",
+        "Mahatma Gandhi",
+        "Kofi Annan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_002_03",
+      "mode": "leaders",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who gave the famous \"I Have a Dream\" speech?"
+      },
+      "answer": "Martin Luther King Jr.",
+      "distractors": [
+        "Abraham Lincoln",
+        "Barack Obama",
+        "John F. Kennedy"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_002_04",
+      "mode": "leaders",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which queen ruled the United Kingdom for 70 years?"
+      },
+      "answer": "Queen Elizabeth II",
+      "distractors": [
+        "Queen Victoria",
+        "Queen Anne",
+        "Queen Mary"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_002_05",
+      "mode": "leaders",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which French general made himself emperor?"
+      },
+      "answer": "Napoleon Bonaparte",
+      "distractors": [
+        "Charles de Gaulle",
+        "Louis XIV",
+        "Julius Caesar"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_002_06",
+      "mode": "leaders",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was a famous general and leader of ancient Rome?"
+      },
+      "answer": "Julius Caesar",
+      "distractors": [
+        "Alexander the Great",
+        "Napoleon Bonaparte",
+        "Genghis Khan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_003_01",
+      "mode": "leaders",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli Prime Minister signed peace with Egypt?"
+      },
+      "answer": "Menachem Begin",
+      "distractors": [
+        "David Ben-Gurion",
+        "Golda Meir",
+        "Shimon Peres"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_003_02",
+      "mode": "leaders",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Egyptian president made peace with Israel?"
+      },
+      "answer": "Anwar Sadat",
+      "distractors": [
+        "Gamal Abdel Nasser",
+        "Hosni Mubarak",
+        "King Hussein"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_003_03",
+      "mode": "leaders",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli Prime Minister won the Nobel Peace Prize in 1994?"
+      },
+      "answer": "Yitzhak Rabin",
+      "distractors": [
+        "Menachem Begin",
+        "Ehud Barak",
+        "Ariel Sharon"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_003_04",
+      "mode": "leaders",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President set the goal of landing on the Moon?"
+      },
+      "answer": "John F. Kennedy",
+      "distractors": [
+        "Richard Nixon",
+        "Barack Obama",
+        "Ronald Reagan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_003_05",
+      "mode": "leaders",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first Black President of the United States?"
+      },
+      "answer": "Barack Obama",
+      "distractors": [
+        "Nelson Mandela",
+        "Martin Luther King Jr.",
+        "Colin Powell"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_003_06",
+      "mode": "leaders",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first woman Prime Minister of the United Kingdom?"
+      },
+      "answer": "Margaret Thatcher",
+      "distractors": [
+        "Queen Elizabeth II",
+        "Theresa May",
+        "Golda Meir"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_004_01",
+      "mode": "leaders",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which young Greek king built an empire all the way to India?"
+      },
+      "answer": "Alexander the Great",
+      "distractors": [
+        "Julius Caesar",
+        "Napoleon Bonaparte",
+        "Genghis Khan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_004_02",
+      "mode": "leaders",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who founded the huge Mongol Empire?"
+      },
+      "answer": "Genghis Khan",
+      "distractors": [
+        "Kublai Khan",
+        "Attila the Hun",
+        "Alexander the Great"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_004_03",
+      "mode": "leaders",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first Emperor of China?"
+      },
+      "answer": "Qin Shi Huang",
+      "distractors": [
+        "Genghis Khan",
+        "Kublai Khan",
+        "Confucius"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_004_04",
+      "mode": "leaders",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which pharaoh's golden tomb was found in 1922?"
+      },
+      "answer": "Tutankhamun",
+      "distractors": [
+        "Ramses II",
+        "Cleopatra",
+        "Khufu"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_004_05",
+      "mode": "leaders",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the last pharaoh of ancient Egypt?"
+      },
+      "answer": "Cleopatra",
+      "distractors": [
+        "Nefertiti",
+        "Tutankhamun",
+        "Hatshepsut"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_004_06",
+      "mode": "leaders",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Persian king let the Jews return to rebuild the Temple?"
+      },
+      "answer": "Cyrus the Great",
+      "distractors": [
+        "Nebuchadnezzar",
+        "Darius",
+        "Alexander the Great"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_005_01",
+      "mode": "leaders",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first President of the State of Israel?"
+      },
+      "answer": "Chaim Weizmann",
+      "distractors": [
+        "David Ben-Gurion",
+        "Yitzhak Ben-Zvi",
+        "Shimon Peres"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_005_02",
+      "mode": "leaders",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who read Israel's Declaration of Independence in 1948?"
+      },
+      "answer": "David Ben-Gurion",
+      "distractors": [
+        "Theodor Herzl",
+        "Golda Meir",
+        "Chaim Weizmann"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_005_03",
+      "mode": "leaders",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President wrote most of the Declaration of Independence?"
+      },
+      "answer": "Thomas Jefferson",
+      "distractors": [
+        "George Washington",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_005_04",
+      "mode": "leaders",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was US President during most of World War II?"
+      },
+      "answer": "Franklin D. Roosevelt",
+      "distractors": [
+        "Theodore Roosevelt",
+        "Harry Truman",
+        "Dwight Eisenhower"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_005_05",
+      "mode": "leaders",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is on Mount Rushmore with Washington, Jefferson and Theodore Roosevelt?"
+      },
+      "answer": "Abraham Lincoln",
+      "distractors": [
+        "John F. Kennedy",
+        "Franklin D. Roosevelt",
+        "Barack Obama"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_005_06",
+      "mode": "leaders",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was West Germany's first Chancellor after World War II?"
+      },
+      "answer": "Konrad Adenauer",
+      "distractors": [
+        "Helmut Kohl",
+        "Otto von Bismarck",
+        "Angela Merkel"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_006_01",
+      "mode": "leaders",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who united Germany in 1871?"
+      },
+      "answer": "Otto von Bismarck",
+      "distractors": [
+        "Konrad Adenauer",
+        "Napoleon Bonaparte",
+        "Frederick the Great"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_006_02",
+      "mode": "leaders",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Germany's first woman Chancellor?"
+      },
+      "answer": "Angela Merkel",
+      "distractors": [
+        "Margaret Thatcher",
+        "Golda Meir",
+        "Indira Gandhi"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_006_03",
+      "mode": "leaders",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was India's first Prime Minister?"
+      },
+      "answer": "Jawaharlal Nehru",
+      "distractors": [
+        "Mahatma Gandhi",
+        "Indira Gandhi",
+        "Narendra Modi"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_006_04",
+      "mode": "leaders",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led Venezuela and Colombia to freedom from Spain?"
+      },
+      "answer": "Simon Bolivar",
+      "distractors": [
+        "Che Guevara",
+        "Fidel Castro",
+        "Pedro II"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_006_05",
+      "mode": "leaders",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first President of Kenya?"
+      },
+      "answer": "Jomo Kenyatta",
+      "distractors": [
+        "Nelson Mandela",
+        "Kofi Annan",
+        "Julius Nyerere"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_006_06",
+      "mode": "leaders",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first Prime Minister of Canada?"
+      },
+      "answer": "John A. Macdonald",
+      "distractors": [
+        "Pierre Trudeau",
+        "Justin Trudeau",
+        "Winston Churchill"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_007_01",
+      "mode": "leaders",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "From which king did the American colonies declare independence?"
+      },
+      "answer": "King George III",
+      "distractors": [
+        "King Henry VIII",
+        "King Charles I",
+        "King Richard III"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_007_02",
+      "mode": "leaders",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which English king had six wives?"
+      },
+      "answer": "Henry VIII",
+      "distractors": [
+        "George III",
+        "Richard III",
+        "Charles II"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_007_03",
+      "mode": "leaders",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Russian ruler founded Saint Petersburg?"
+      },
+      "answer": "Peter the Great",
+      "distractors": [
+        "Ivan the Terrible",
+        "Catherine the Great",
+        "Vladimir Lenin"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_007_04",
+      "mode": "leaders",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which queen ruled Britain for most of the 1800s?"
+      },
+      "answer": "Queen Victoria",
+      "distractors": [
+        "Queen Elizabeth I",
+        "Queen Anne",
+        "Queen Elizabeth II"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_007_05",
+      "mode": "leaders",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Israel's Prime Minister in the Six-Day War (1967)?"
+      },
+      "answer": "Levi Eshkol",
+      "distractors": [
+        "Golda Meir",
+        "David Ben-Gurion",
+        "Menachem Begin"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_007_06",
+      "mode": "leaders",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Israel's Prime Minister in the Yom Kippur War (1973)?"
+      },
+      "answer": "Golda Meir",
+      "distractors": [
+        "Levi Eshkol",
+        "Yitzhak Rabin",
+        "Menachem Begin"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_008_01",
+      "mode": "leaders",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Israel's Defense Minister in the Six-Day War?"
+      },
+      "answer": "Moshe Dayan",
+      "distractors": [
+        "Yitzhak Rabin",
+        "Ariel Sharon",
+        "Ehud Barak"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_008_02",
+      "mode": "leaders",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who said \"Ask not what your country can do for you\"?"
+      },
+      "answer": "John F. Kennedy",
+      "distractors": [
+        "Abraham Lincoln",
+        "Winston Churchill",
+        "Barack Obama"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_008_03",
+      "mode": "leaders",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who shared the 1993 Nobel Peace Prize with Nelson Mandela?"
+      },
+      "answer": "F. W. de Klerk",
+      "distractors": [
+        "Desmond Tutu",
+        "Jacob Zuma",
+        "Kofi Annan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_008_04",
+      "mode": "leaders",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who gave the Gettysburg Address?"
+      },
+      "answer": "Abraham Lincoln",
+      "distractors": [
+        "George Washington",
+        "Thomas Jefferson",
+        "John F. Kennedy"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_008_05",
+      "mode": "leaders",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which UN Secretary-General came from Ghana?"
+      },
+      "answer": "Kofi Annan",
+      "distractors": [
+        "Ban Ki-moon",
+        "Boutros Boutros-Ghali",
+        "Nelson Mandela"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_008_06",
+      "mode": "leaders",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which emperor built the Taj Mahal?"
+      },
+      "answer": "Shah Jahan",
+      "distractors": [
+        "Akbar",
+        "Genghis Khan",
+        "Alexander the Great"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_009_01",
+      "mode": "leaders",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Israel's second President?"
+      },
+      "answer": "Yitzhak Ben-Zvi",
+      "distractors": [
+        "Chaim Weizmann",
+        "Shimon Peres",
+        "Zalman Shazar"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_009_02",
+      "mode": "leaders",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli was Prime Minister, then President, and won the Nobel Peace Prize?"
+      },
+      "answer": "Shimon Peres",
+      "distractors": [
+        "Golda Meir",
+        "David Ben-Gurion",
+        "Levi Eshkol"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_009_03",
+      "mode": "leaders",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which year was the State of Israel founded?"
+      },
+      "answer": "1948",
+      "distractors": [
+        "1967",
+        "1917",
+        "1973"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_009_04",
+      "mode": "leaders",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which city is Israel's parliament, the Knesset?"
+      },
+      "answer": "Jerusalem",
+      "distractors": [
+        "Tel Aviv",
+        "Haifa",
+        "Eilat"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_009_05",
+      "mode": "leaders",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "How many members does the Knesset have?"
+      },
+      "answer": "120",
+      "distractors": [
+        "100",
+        "70",
+        "150"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_009_06",
+      "mode": "leaders",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Prime Minister moved to kibbutz Sde Boker in the Negev?"
+      },
+      "answer": "David Ben-Gurion",
+      "distractors": [
+        "Golda Meir",
+        "Menachem Begin",
+        "Yitzhak Rabin"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_010_01",
+      "mode": "leaders",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was US President during the Civil War?"
+      },
+      "answer": "Abraham Lincoln",
+      "distractors": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Theodore Roosevelt"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_010_02",
+      "mode": "leaders",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The teddy bear is named after which US President?"
+      },
+      "answer": "Theodore Roosevelt",
+      "distractors": [
+        "Franklin D. Roosevelt",
+        "Abraham Lincoln",
+        "George Washington"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_010_03",
+      "mode": "leaders",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where does the US President live?"
+      },
+      "answer": "The White House",
+      "distractors": [
+        "Buckingham Palace",
+        "The Kremlin",
+        "The Louvre"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_010_04",
+      "mode": "leaders",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President bought Louisiana from France?"
+      },
+      "answer": "Thomas Jefferson",
+      "distractors": [
+        "George Washington",
+        "Abraham Lincoln",
+        "John Adams"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_010_05",
+      "mode": "leaders",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which World War II general became US President?"
+      },
+      "answer": "Dwight Eisenhower",
+      "distractors": [
+        "Harry Truman",
+        "George Patton",
+        "Douglas MacArthur"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_010_06",
+      "mode": "leaders",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President recognized Israel minutes after it was founded?"
+      },
+      "answer": "Harry Truman",
+      "distractors": [
+        "Franklin D. Roosevelt",
+        "Dwight Eisenhower",
+        "John F. Kennedy"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_011_01",
+      "mode": "leaders",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where does the British king live in London?"
+      },
+      "answer": "Buckingham Palace",
+      "distractors": [
+        "The White House",
+        "The Kremlin",
+        "Versailles"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_011_02",
+      "mode": "leaders",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which French king was called the Sun King?"
+      },
+      "answer": "Louis XIV",
+      "distractors": [
+        "Louis XVI",
+        "Napoleon Bonaparte",
+        "Charlemagne"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_011_03",
+      "mode": "leaders",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led Free France in World War II and later became its President?"
+      },
+      "answer": "Charles de Gaulle",
+      "distractors": [
+        "Napoleon Bonaparte",
+        "Louis XIV",
+        "Emmanuel Macron"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_011_04",
+      "mode": "leaders",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which queen ruled England when Shakespeare wrote his plays?"
+      },
+      "answer": "Queen Elizabeth I",
+      "distractors": [
+        "Queen Victoria",
+        "Queen Elizabeth II",
+        "Queen Anne"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_011_05",
+      "mode": "leaders",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king was crowned emperor in the year 800 and ruled much of Europe?"
+      },
+      "answer": "Charlemagne",
+      "distractors": [
+        "Louis XIV",
+        "Napoleon Bonaparte",
+        "Julius Caesar"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_011_06",
+      "mode": "leaders",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who became king after Queen Elizabeth II?"
+      },
+      "answer": "King Charles III",
+      "distractors": [
+        "King George VI",
+        "King William",
+        "King Henry VIII"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_012_01",
+      "mode": "leaders",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which pharaoh ruled Egypt for 66 years and built many temples?"
+      },
+      "answer": "Ramses II",
+      "distractors": [
+        "Tutankhamun",
+        "Cleopatra",
+        "Khufu"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_012_02",
+      "mode": "leaders",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which pharaoh built the Great Pyramid of Giza?"
+      },
+      "answer": "Khufu",
+      "distractors": [
+        "Ramses II",
+        "Tutankhamun",
+        "Cleopatra"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_012_03",
+      "mode": "leaders",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first Emperor of Rome?"
+      },
+      "answer": "Augustus",
+      "distractors": [
+        "Julius Caesar",
+        "Nero",
+        "Caligula"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_012_04",
+      "mode": "leaders",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which general crossed the Alps with elephants to fight Rome?"
+      },
+      "answer": "Hannibal",
+      "distractors": [
+        "Julius Caesar",
+        "Alexander the Great",
+        "Napoleon Bonaparte"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_012_05",
+      "mode": "leaders",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Babylonian king wrote one of the first sets of laws?"
+      },
+      "answer": "Hammurabi",
+      "distractors": [
+        "Nebuchadnezzar",
+        "Cyrus the Great",
+        "Darius"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_012_06",
+      "mode": "leaders",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which city was the capital of the Roman Empire?"
+      },
+      "answer": "Rome",
+      "distractors": [
+        "Athens",
+        "Jerusalem",
+        "Alexandria"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_013_01",
+      "mode": "leaders",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who fought for women's right to vote in the USA?"
+      },
+      "answer": "Susan B. Anthony",
+      "distractors": [
+        "Rosa Parks",
+        "Harriet Tubman",
+        "Eleanor Roosevelt"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_013_02",
+      "mode": "leaders",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who refused to give up her bus seat and became a civil rights hero?"
+      },
+      "answer": "Rosa Parks",
+      "distractors": [
+        "Susan B. Anthony",
+        "Harriet Tubman",
+        "Michelle Obama"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_013_03",
+      "mode": "leaders",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led enslaved people to freedom on the Underground Railroad?"
+      },
+      "answer": "Harriet Tubman",
+      "distractors": [
+        "Rosa Parks",
+        "Susan B. Anthony",
+        "Eleanor Roosevelt"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_013_04",
+      "mode": "leaders",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which girl from Pakistan won the Nobel Peace Prize for girls' education?"
+      },
+      "answer": "Malala Yousafzai",
+      "distractors": [
+        "Mother Teresa",
+        "Indira Gandhi",
+        "Benazir Bhutto"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_013_05",
+      "mode": "leaders",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which nun was famous for helping the poorest people in India?"
+      },
+      "answer": "Mother Teresa",
+      "distractors": [
+        "Malala Yousafzai",
+        "Indira Gandhi",
+        "Florence Nightingale"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_013_06",
+      "mode": "leaders",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led the famous peaceful Salt March in India?"
+      },
+      "answer": "Mahatma Gandhi",
+      "distractors": [
+        "Jawaharlal Nehru",
+        "Nelson Mandela",
+        "Indira Gandhi"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_014_01",
+      "mode": "leaders",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Chinese teacher's wise sayings are still read today?"
+      },
+      "answer": "Confucius",
+      "distractors": [
+        "Buddha",
+        "Genghis Khan",
+        "Kublai Khan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_014_02",
+      "mode": "leaders",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which grandson of Genghis Khan ruled China?"
+      },
+      "answer": "Kublai Khan",
+      "distractors": [
+        "Genghis Khan",
+        "Attila the Hun",
+        "Qin Shi Huang"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_014_03",
+      "mode": "leaders",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was India's first woman Prime Minister?"
+      },
+      "answer": "Indira Gandhi",
+      "distractors": [
+        "Mahatma Gandhi",
+        "Benazir Bhutto",
+        "Golda Meir"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_014_04",
+      "mode": "leaders",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which traveler from Venice visited Kublai Khan?"
+      },
+      "answer": "Marco Polo",
+      "distractors": [
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_014_05",
+      "mode": "leaders",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is the head of state of Japan?"
+      },
+      "answer": "The Emperor",
+      "distractors": [
+        "The Pharaoh",
+        "The Tsar",
+        "The Sultan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_014_06",
+      "mode": "leaders",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What was the ruler of Russia called before 1917?"
+      },
+      "answer": "The Tsar",
+      "distractors": [
+        "The Pharaoh",
+        "The Shogun",
+        "The Sultan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_015_01",
+      "mode": "leaders",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who sailed across the Atlantic to the Americas in 1492?"
+      },
+      "answer": "Christopher Columbus",
+      "distractors": [
+        "Ferdinand Magellan",
+        "Vasco da Gama",
+        "James Cook"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_015_02",
+      "mode": "leaders",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whose ships were the first to sail all the way around the world?"
+      },
+      "answer": "Ferdinand Magellan",
+      "distractors": [
+        "Christopher Columbus",
+        "Vasco da Gama",
+        "Marco Polo"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_015_03",
+      "mode": "leaders",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who first sailed from Europe around Africa to India?"
+      },
+      "answer": "Vasco da Gama",
+      "distractors": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "James Cook"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_015_04",
+      "mode": "leaders",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led the first team to reach the South Pole?"
+      },
+      "answer": "Roald Amundsen",
+      "distractors": [
+        "Robert Scott",
+        "Edmund Hillary",
+        "James Cook"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_015_05",
+      "mode": "leaders",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who were the first to climb Mount Everest?"
+      },
+      "answer": "Edmund Hillary and Tenzing Norgay",
+      "distractors": [
+        "Amundsen and Scott",
+        "Lewis and Clark",
+        "The Wright brothers"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_015_06",
+      "mode": "leaders",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which captain mapped the east coast of Australia and reached Hawaii?"
+      },
+      "answer": "James Cook",
+      "distractors": [
+        "Christopher Columbus",
+        "Ferdinand Magellan",
+        "Vasco da Gama"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_016_01",
+      "mode": "leaders",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led the revolt against the Greeks that we remember on Chanukah?"
+      },
+      "answer": "Judah Maccabee",
+      "distractors": [
+        "King David",
+        "Bar Kokhba",
+        "Moses"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_016_02",
+      "mode": "leaders",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led the Jewish revolt against Rome in the year 132?"
+      },
+      "answer": "Bar Kokhba",
+      "distractors": [
+        "Judah Maccabee",
+        "King Herod",
+        "Josephus"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_016_03",
+      "mode": "leaders",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king rebuilt the Second Temple, including the Western Wall?"
+      },
+      "answer": "King Herod",
+      "distractors": [
+        "King Solomon",
+        "King David",
+        "King Cyrus"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_016_04",
+      "mode": "leaders",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who put together the Mishnah?"
+      },
+      "answer": "Rabbi Judah HaNasi",
+      "distractors": [
+        "Rashi",
+        "Maimonides",
+        "Hillel"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_016_05",
+      "mode": "leaders",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who wrote the most famous commentary on the Torah and Talmud?"
+      },
+      "answer": "Rashi",
+      "distractors": [
+        "Maimonides",
+        "Rabbi Akiva",
+        "Hillel"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_016_06",
+      "mode": "leaders",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which sage said \"What is hateful to you, do not do to others\"?"
+      },
+      "answer": "Hillel",
+      "distractors": [
+        "Shammai",
+        "Rashi",
+        "Rabbi Akiva"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_017_01",
+      "mode": "leaders",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which British letter from 1917 supported a Jewish home in the Land of Israel?"
+      },
+      "answer": "The Balfour Declaration",
+      "distractors": [
+        "The Magna Carta",
+        "The Declaration of Independence",
+        "The Treaty of Versailles"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_017_02",
+      "mode": "leaders",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who wrote the song Jerusalem of Gold?"
+      },
+      "answer": "Naomi Shemer",
+      "distractors": [
+        "Golda Meir",
+        "Hannah Szenes",
+        "Chaim Nachman Bialik"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_017_03",
+      "mode": "leaders",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is called the father of modern Hebrew?"
+      },
+      "answer": "Eliezer Ben-Yehuda",
+      "distractors": [
+        "Theodor Herzl",
+        "David Ben-Gurion",
+        "Chaim Weizmann"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_017_04",
+      "mode": "leaders",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is called Israel's national poet?"
+      },
+      "answer": "Chaim Nachman Bialik",
+      "distractors": [
+        "Naomi Shemer",
+        "Eliezer Ben-Yehuda",
+        "Theodor Herzl"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_017_05",
+      "mode": "leaders",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which brave poet parachuted into Europe in World War II to help Jews?"
+      },
+      "answer": "Hannah Szenes",
+      "distractors": [
+        "Golda Meir",
+        "Naomi Shemer",
+        "Rachel the Poet"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_017_06",
+      "mode": "leaders",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which commander led the rescue at Entebbe and fell there?"
+      },
+      "answer": "Yoni Netanyahu",
+      "distractors": [
+        "Moshe Dayan",
+        "Yitzhak Rabin",
+        "Ariel Sharon"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_018_01",
+      "mode": "leaders",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which city are the headquarters of the United Nations?"
+      },
+      "answer": "New York",
+      "distractors": [
+        "Geneva",
+        "London",
+        "Jerusalem"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_018_02",
+      "mode": "leaders",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What do the letters UN stand for?"
+      },
+      "answer": "United Nations",
+      "distractors": [
+        "United Neighbors",
+        "Universal News",
+        "Under Navy"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_018_03",
+      "mode": "leaders",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first Secretary-General of the United Nations?"
+      },
+      "answer": "Trygve Lie",
+      "distractors": [
+        "Kofi Annan",
+        "Ban Ki-moon",
+        "Dag Hammarskjold"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_018_04",
+      "mode": "leaders",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The capital city of the USA is named after which leader?"
+      },
+      "answer": "George Washington",
+      "distractors": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_018_05",
+      "mode": "leaders",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is the head of the Catholic Church?"
+      },
+      "answer": "The Pope",
+      "distractors": [
+        "The Dalai Lama",
+        "The Chief Rabbi",
+        "The King of Spain"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_018_06",
+      "mode": "leaders",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is the spiritual leader of Tibetan Buddhism?"
+      },
+      "answer": "The Dalai Lama",
+      "distractors": [
+        "The Pope",
+        "Confucius",
+        "The Emperor of Japan"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_019_01",
+      "mode": "leaders",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first President of independent Ghana?"
+      },
+      "answer": "Kwame Nkrumah",
+      "distractors": [
+        "Jomo Kenyatta",
+        "Nelson Mandela",
+        "Julius Nyerere"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_019_02",
+      "mode": "leaders",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which emperor of Ethiopia was called the Lion of Judah?"
+      },
+      "answer": "Haile Selassie",
+      "distractors": [
+        "Kwame Nkrumah",
+        "Jomo Kenyatta",
+        "Mobutu"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_019_03",
+      "mode": "leaders",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who led Argentina, Chile and Peru toward independence?"
+      },
+      "answer": "Jose de San Martin",
+      "distractors": [
+        "Simon Bolivar",
+        "Che Guevara",
+        "Pedro II"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_019_04",
+      "mode": "leaders",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first President of Tanzania?"
+      },
+      "answer": "Julius Nyerere",
+      "distractors": [
+        "Jomo Kenyatta",
+        "Kwame Nkrumah",
+        "Nelson Mandela"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_019_05",
+      "mode": "leaders",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Aztec emperor met the Spanish explorer Cortes?"
+      },
+      "answer": "Montezuma",
+      "distractors": [
+        "Atahualpa",
+        "Pachacuti",
+        "Hiawatha"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_019_06",
+      "mode": "leaders",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Inca emperor was captured by the Spanish explorer Pizarro?"
+      },
+      "answer": "Atahualpa",
+      "distractors": [
+        "Montezuma",
+        "Pachacuti",
+        "Sitting Bull"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_020_01",
+      "mode": "leaders",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was Pakistan's first woman Prime Minister?"
+      },
+      "answer": "Benazir Bhutto",
+      "distractors": [
+        "Indira Gandhi",
+        "Golda Meir",
+        "Malala Yousafzai"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_020_02",
+      "mode": "leaders",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which queen of ancient Egypt ruled as pharaoh and wore a false beard?"
+      },
+      "answer": "Hatshepsut",
+      "distractors": [
+        "Cleopatra",
+        "Nefertiti",
+        "Nefertari"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_020_03",
+      "mode": "leaders",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Russian empress was called \"the Great\"?"
+      },
+      "answer": "Catherine the Great",
+      "distractors": [
+        "Queen Victoria",
+        "Anastasia",
+        "Maria Theresa"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_020_04",
+      "mode": "leaders",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the world's first woman Prime Minister, in Sri Lanka?"
+      },
+      "answer": "Sirimavo Bandaranaike",
+      "distractors": [
+        "Golda Meir",
+        "Indira Gandhi",
+        "Margaret Thatcher"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_020_05",
+      "mode": "leaders",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US First Lady helped write the Universal Declaration of Human Rights?"
+      },
+      "answer": "Eleanor Roosevelt",
+      "distractors": [
+        "Michelle Obama",
+        "Jacqueline Kennedy",
+        "Martha Washington"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_020_06",
+      "mode": "leaders",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Jewish queen saved her people, as we remember on Purim?"
+      },
+      "answer": "Queen Esther",
+      "distractors": [
+        "The Queen of Sheba",
+        "Queen Jezebel",
+        "Queen Vashti"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_021_01",
+      "mode": "leaders",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which war lasted from 1939 to 1945?"
+      },
+      "answer": "World War II",
+      "distractors": [
+        "World War I",
+        "The Six-Day War",
+        "The American Civil War"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_021_02",
+      "mode": "leaders",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which war did Israel win in six days in 1967?"
+      },
+      "answer": "The Six-Day War",
+      "distractors": [
+        "The Yom Kippur War",
+        "The War of Independence",
+        "World War II"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_021_03",
+      "mode": "leaders",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Israel signed a peace treaty with Jordan and which king?"
+      },
+      "answer": "King Hussein",
+      "distractors": [
+        "King Abdullah I",
+        "King Farouk",
+        "King Faisal"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_021_04",
+      "mode": "leaders",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which 2020 agreements made peace between Israel, the UAE and Bahrain?"
+      },
+      "answer": "The Abraham Accords",
+      "distractors": [
+        "The Camp David Accords",
+        "The Oslo Accords",
+        "The Balfour Declaration"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_021_05",
+      "mode": "leaders",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Where did Begin and Sadat agree on a plan for peace in 1978?"
+      },
+      "answer": "Camp David",
+      "distractors": [
+        "Oslo",
+        "Geneva",
+        "Paris"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_021_06",
+      "mode": "leaders",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which wall divided the city of Berlin until 1989?"
+      },
+      "answer": "The Berlin Wall",
+      "distractors": [
+        "The Great Wall",
+        "Hadrian's Wall",
+        "The Western Wall"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_022_01",
+      "mode": "leaders",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President is on the one-dollar bill?"
+      },
+      "answer": "George Washington",
+      "distractors": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_022_02",
+      "mode": "leaders",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which founding father is on the hundred-dollar bill?"
+      },
+      "answer": "Benjamin Franklin",
+      "distractors": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Alexander Hamilton"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_022_03",
+      "mode": "leaders",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President was a movie actor before?"
+      },
+      "answer": "Ronald Reagan",
+      "distractors": [
+        "Richard Nixon",
+        "Jimmy Carter",
+        "Gerald Ford"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_022_04",
+      "mode": "leaders",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President was once a peanut farmer?"
+      },
+      "answer": "Jimmy Carter",
+      "distractors": [
+        "Ronald Reagan",
+        "Bill Clinton",
+        "Gerald Ford"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_022_05",
+      "mode": "leaders",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President resigned after the Watergate scandal?"
+      },
+      "answer": "Richard Nixon",
+      "distractors": [
+        "Gerald Ford",
+        "Jimmy Carter",
+        "Lyndon Johnson"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_022_06",
+      "mode": "leaders",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which US President was elected four times?"
+      },
+      "answer": "Franklin D. Roosevelt",
+      "distractors": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Theodore Roosevelt"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_023_01",
+      "mode": "leaders",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which English king signed the Magna Carta?"
+      },
+      "answer": "King John",
+      "distractors": [
+        "King Henry VIII",
+        "King Richard III",
+        "King George III"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_023_02",
+      "mode": "leaders",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which English king was called the Lionheart?"
+      },
+      "answer": "Richard I",
+      "distractors": [
+        "King John",
+        "Henry VIII",
+        "Charles I"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_023_03",
+      "mode": "leaders",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Viking explorer reached North America around the year 1000?"
+      },
+      "answer": "Leif Erikson",
+      "distractors": [
+        "Erik the Red",
+        "Christopher Columbus",
+        "Harald Hardrada"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_023_04",
+      "mode": "leaders",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which king and queen of Spain sent Columbus on his voyage?"
+      },
+      "answer": "Ferdinand and Isabella",
+      "distractors": [
+        "Charles and Diana",
+        "William and Mary",
+        "Louis and Marie"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_023_05",
+      "mode": "leaders",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which queen of France lived at Versailles before the French Revolution?"
+      },
+      "answer": "Marie Antoinette",
+      "distractors": [
+        "Catherine the Great",
+        "Queen Victoria",
+        "Joan of Arc"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_023_06",
+      "mode": "leaders",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which French girl led an army and became a hero in the 1400s?"
+      },
+      "answer": "Joan of Arc",
+      "distractors": [
+        "Marie Antoinette",
+        "Florence Nightingale",
+        "Queen Isabella"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_024_01",
+      "mode": "leaders",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which ancient Greek city is famous for starting democracy?"
+      },
+      "answer": "Athens",
+      "distractors": [
+        "Sparta",
+        "Troy",
+        "Rome"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_024_02",
+      "mode": "leaders",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which ancient Greek city was famous for its fierce warriors?"
+      },
+      "answer": "Sparta",
+      "distractors": [
+        "Athens",
+        "Corinth",
+        "Olympia"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_024_03",
+      "mode": "leaders",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which country is the leader called the Chancellor?"
+      },
+      "answer": "Germany",
+      "distractors": [
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_024_04",
+      "mode": "leaders",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whose Prime Minister lives at 10 Downing Street?"
+      },
+      "answer": "The United Kingdom",
+      "distractors": [
+        "The USA",
+        "France",
+        "Israel"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_024_05",
+      "mode": "leaders",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is the title of the leader of the United States?"
+      },
+      "answer": "President",
+      "distractors": [
+        "King",
+        "Prime Minister",
+        "Chancellor"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    },
+    {
+      "id": "ldr_024_06",
+      "mode": "leaders",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which French leader was sent away to the island of Elba?"
+      },
+      "answer": "Napoleon Bonaparte",
+      "distractors": [
+        "Louis XIV",
+        "Charles de Gaulle",
+        "Julius Caesar"
+      ],
+      "tags": [
+        "leaders"
+      ]
+    }
+  ]
+}

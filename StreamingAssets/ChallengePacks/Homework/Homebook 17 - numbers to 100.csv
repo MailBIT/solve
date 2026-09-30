@@ -1,0 +1,15 @@
+prompt,answer,wrong1,wrong2,wrong3
+9 tens and 2 ones = ?,92,29,90,82
+3 tens and 5 ones = ?,35,53,38,45
+7 tens and 0 ones = ?,70,7,17,60
+Eleven = ?,11,10,12,21
+Thirty-three = ?,33,30,36,43
+Fifty-one = ?,51,15,50,61
+Ninety-six = ?,96,69,86,97
+Sixty-eight = ?,68,86,58,67
+"26, 27, ?, 29",28,30,26,38
+"52, 53, ?, 55",54,56,45,64
+"76, 77, ?, 79",78,87,80,68
+"97, 98, ?, 100",99,101,90,89
+What comes after 89?,90,80,88,99
+What comes before 60?,59,61,50,69

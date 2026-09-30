@@ -1,0 +1,2725 @@
+{
+  "schemaVersion": 1,
+  "packId": "scientists_core_v1",
+  "title": "Famous Scientists",
+  "kind": "core",
+  "language": "en",
+  "version": 1,
+  "author": "Solve & Evolve",
+  "stages": [
+    {
+      "mode": "scientists",
+      "stage": 1,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 2,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 3,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 4,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 5,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 6,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 7,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 8,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 9,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 10,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 11,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 12,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 13,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 14,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 15,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 16,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 17,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 18,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 19,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 20,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 21,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 22,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 23,
+      "questionsRequired": 4
+    },
+    {
+      "mode": "scientists",
+      "stage": 24,
+      "questionsRequired": 4
+    }
+  ],
+  "challenges": [
+    {
+      "id": "sct_001_01",
+      "mode": "scientists",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is famous for the law of gravity?"
+      },
+      "answer": "Isaac Newton",
+      "distractors": [
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Charles Darwin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_001_02",
+      "mode": "scientists",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is famous for the theory of relativity?"
+      },
+      "answer": "Albert Einstein",
+      "distractors": [
+        "Isaac Newton",
+        "Marie Curie",
+        "Thomas Edison"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_001_03",
+      "mode": "scientists",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which inventor is famous for the light bulb?"
+      },
+      "answer": "Thomas Edison",
+      "distractors": [
+        "Alexander Graham Bell",
+        "Isaac Newton",
+        "The Wright brothers"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_001_04",
+      "mode": "scientists",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the telephone?"
+      },
+      "answer": "Alexander Graham Bell",
+      "distractors": [
+        "Thomas Edison",
+        "Isaac Newton",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_001_05",
+      "mode": "scientists",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who made the first airplane flight?"
+      },
+      "answer": "The Wright brothers",
+      "distractors": [
+        "The Curie family",
+        "Newton and Galileo",
+        "Edison and Bell"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_001_06",
+      "mode": "scientists",
+      "stage": 1,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who studied how living things change over time (evolution)?"
+      },
+      "answer": "Charles Darwin",
+      "distractors": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Louis Pasteur"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_002_01",
+      "mode": "scientists",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first woman to win a Nobel Prize?"
+      },
+      "answer": "Marie Curie",
+      "distractors": [
+        "Rosalind Franklin",
+        "Ada Lovelace",
+        "Jane Goodall"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_002_02",
+      "mode": "scientists",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who used a telescope to find moons around Jupiter?"
+      },
+      "answer": "Galileo Galilei",
+      "distractors": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Nikola Tesla"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_002_03",
+      "mode": "scientists",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered penicillin, the first antibiotic?"
+      },
+      "answer": "Alexander Fleming",
+      "distractors": [
+        "Louis Pasteur",
+        "Marie Curie",
+        "Edward Jenner"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_002_04",
+      "mode": "scientists",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who made the first vaccine, against smallpox?"
+      },
+      "answer": "Edward Jenner",
+      "distractors": [
+        "Alexander Fleming",
+        "Isaac Newton",
+        "Charles Darwin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_002_05",
+      "mode": "scientists",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented pasteurization to keep milk safe?"
+      },
+      "answer": "Louis Pasteur",
+      "distractors": [
+        "Edward Jenner",
+        "Charles Darwin",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_002_06",
+      "mode": "scientists",
+      "stage": 2,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who studied chimpanzees in Africa for many years?"
+      },
+      "answer": "Jane Goodall",
+      "distractors": [
+        "Marie Curie",
+        "Ada Lovelace",
+        "Rosalind Franklin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_003_01",
+      "mode": "scientists",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who wrote one of the first computer programs?"
+      },
+      "answer": "Ada Lovelace",
+      "distractors": [
+        "Marie Curie",
+        "Jane Goodall",
+        "Florence Nightingale"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_003_02",
+      "mode": "scientists",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first person to walk on the Moon?"
+      },
+      "answer": "Neil Armstrong",
+      "distractors": [
+        "Yuri Gagarin",
+        "Buzz Aldrin",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_003_03",
+      "mode": "scientists",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first person to travel into space?"
+      },
+      "answer": "Yuri Gagarin",
+      "distractors": [
+        "Neil Armstrong",
+        "John Glenn",
+        "Buzz Aldrin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_003_04",
+      "mode": "scientists",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who arranged the elements into the periodic table?"
+      },
+      "answer": "Dmitri Mendeleev",
+      "distractors": [
+        "Marie Curie",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_003_05",
+      "mode": "scientists",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who said the Earth goes around the Sun?"
+      },
+      "answer": "Nicolaus Copernicus",
+      "distractors": [
+        "Aristotle",
+        "Ptolemy",
+        "Pythagoras"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_003_06",
+      "mode": "scientists",
+      "stage": 3,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who designed flying machines and painted the Mona Lisa?"
+      },
+      "answer": "Leonardo da Vinci",
+      "distractors": [
+        "Michelangelo",
+        "Galileo Galilei",
+        "Raphael"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_004_01",
+      "mode": "scientists",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Whose X-ray photo helped discover the shape of DNA?"
+      },
+      "answer": "Rosalind Franklin",
+      "distractors": [
+        "Marie Curie",
+        "Ada Lovelace",
+        "Jane Goodall"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_004_02",
+      "mode": "scientists",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the printing press in Europe?"
+      },
+      "answer": "Johannes Gutenberg",
+      "distractors": [
+        "Leonardo da Vinci",
+        "Isaac Newton",
+        "James Watt"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_004_03",
+      "mode": "scientists",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who greatly improved the steam engine?"
+      },
+      "answer": "James Watt",
+      "distractors": [
+        "Thomas Edison",
+        "Henry Ford",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_004_04",
+      "mode": "scientists",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who made cars cheaper with the assembly line?"
+      },
+      "answer": "Henry Ford",
+      "distractors": [
+        "James Watt",
+        "Karl Benz",
+        "Thomas Edison"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_004_05",
+      "mode": "scientists",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is famous for AC electricity and the Tesla coil?"
+      },
+      "answer": "Nikola Tesla",
+      "distractors": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_004_06",
+      "mode": "scientists",
+      "stage": 4,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which ancient Greek shouted \"Eureka!\" in the bath?"
+      },
+      "answer": "Archimedes",
+      "distractors": [
+        "Aristotle",
+        "Pythagoras",
+        "Plato"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_005_01",
+      "mode": "scientists",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Greek has a famous rule about right triangles?"
+      },
+      "answer": "Pythagoras",
+      "distractors": [
+        "Archimedes",
+        "Aristotle",
+        "Plato"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_005_02",
+      "mode": "scientists",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who first named \"cells\" after looking at cork?"
+      },
+      "answer": "Robert Hooke",
+      "distractors": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Charles Darwin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_005_03",
+      "mode": "scientists",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who found the rules of heredity with pea plants?"
+      },
+      "answer": "Gregor Mendel",
+      "distractors": [
+        "Charles Darwin",
+        "Louis Pasteur",
+        "Carl Linnaeus"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_005_04",
+      "mode": "scientists",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the World Wide Web?"
+      },
+      "answer": "Tim Berners-Lee",
+      "distractors": [
+        "Bill Gates",
+        "Steve Jobs",
+        "Alan Turing"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_005_05",
+      "mode": "scientists",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who cracked secret codes in World War II and helped invent computers?"
+      },
+      "answer": "Alan Turing",
+      "distractors": [
+        "Tim Berners-Lee",
+        "Ada Lovelace",
+        "Bill Gates"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_005_06",
+      "mode": "scientists",
+      "stage": 5,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who explained black holes and wrote A Brief History of Time?"
+      },
+      "answer": "Stephen Hawking",
+      "distractors": [
+        "Albert Einstein",
+        "Carl Sagan",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_006_01",
+      "mode": "scientists",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli won the Nobel Prize for discovering quasicrystals?"
+      },
+      "answer": "Dan Shechtman",
+      "distractors": [
+        "Ada Yonath",
+        "Albert Einstein",
+        "Chaim Weizmann"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_006_02",
+      "mode": "scientists",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli woman won a Nobel Prize for studying the ribosome?"
+      },
+      "answer": "Ada Yonath",
+      "distractors": [
+        "Golda Meir",
+        "Marie Curie",
+        "Rosalind Franklin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_006_03",
+      "mode": "scientists",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which chemist became Israel's first President?"
+      },
+      "answer": "Chaim Weizmann",
+      "distractors": [
+        "David Ben-Gurion",
+        "Albert Einstein",
+        "Theodor Herzl"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_006_04",
+      "mode": "scientists",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Albert Einstein was asked to become President of which country?"
+      },
+      "answer": "Israel",
+      "distractors": [
+        "Germany",
+        "USA",
+        "Switzerland"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_006_05",
+      "mode": "scientists",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who made the first polio vaccine?"
+      },
+      "answer": "Jonas Salk",
+      "distractors": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Alexander Fleming"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_006_06",
+      "mode": "scientists",
+      "stage": 6,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which doctor started psychoanalysis and studied dreams?"
+      },
+      "answer": "Sigmund Freud",
+      "distractors": [
+        "Albert Einstein",
+        "Jonas Salk",
+        "Louis Pasteur"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_007_01",
+      "mode": "scientists",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who sailed on the Beagle and studied finches?"
+      },
+      "answer": "Charles Darwin",
+      "distractors": [
+        "Christopher Columbus",
+        "James Cook",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_007_02",
+      "mode": "scientists",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who gave living things two-part Latin names?"
+      },
+      "answer": "Carl Linnaeus",
+      "distractors": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Aristotle"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_007_03",
+      "mode": "scientists",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered the planet Uranus?"
+      },
+      "answer": "William Herschel",
+      "distractors": [
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Johannes Kepler"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_007_04",
+      "mode": "scientists",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who found that planets move in ellipses?"
+      },
+      "answer": "Johannes Kepler",
+      "distractors": [
+        "Nicolaus Copernicus",
+        "Galileo Galilei",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_007_05",
+      "mode": "scientists",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which nurse used charts and cleanliness to save soldiers?"
+      },
+      "answer": "Florence Nightingale",
+      "distractors": [
+        "Marie Curie",
+        "Ada Lovelace",
+        "Jane Goodall"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_007_06",
+      "mode": "scientists",
+      "stage": 7,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented dynamite and started the Nobel Prizes?"
+      },
+      "answer": "Alfred Nobel",
+      "distractors": [
+        "Albert Einstein",
+        "Thomas Edison",
+        "Marie Curie"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_008_01",
+      "mode": "scientists",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Marie Curie won Nobel Prizes in which two sciences?"
+      },
+      "answer": "Physics and Chemistry",
+      "distractors": [
+        "Biology and Physics",
+        "Math and Chemistry",
+        "Medicine and Biology"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_008_02",
+      "mode": "scientists",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Galileo improve to study the sky?"
+      },
+      "answer": "The telescope",
+      "distractors": [
+        "The microscope",
+        "The compass",
+        "The clock"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_008_03",
+      "mode": "scientists",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is famous for the three laws of motion?"
+      },
+      "answer": "Isaac Newton",
+      "distractors": [
+        "Galileo Galilei",
+        "Albert Einstein",
+        "Archimedes"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_008_04",
+      "mode": "scientists",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered the electron?"
+      },
+      "answer": "J. J. Thomson",
+      "distractors": [
+        "Ernest Rutherford",
+        "Niels Bohr",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_008_05",
+      "mode": "scientists",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who found that atoms have a tiny nucleus?"
+      },
+      "answer": "Ernest Rutherford",
+      "distractors": [
+        "J. J. Thomson",
+        "Niels Bohr",
+        "John Dalton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_008_06",
+      "mode": "scientists",
+      "stage": 8,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who flew a kite in a storm to study electricity?"
+      },
+      "answer": "Benjamin Franklin",
+      "distractors": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_009_01",
+      "mode": "scientists",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What is Thomas Edison most famous for?"
+      },
+      "answer": "The light bulb",
+      "distractors": [
+        "The telephone",
+        "The airplane",
+        "Penicillin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_009_02",
+      "mode": "scientists",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Alexander Graham Bell invent?"
+      },
+      "answer": "The telephone",
+      "distractors": [
+        "The light bulb",
+        "The radio",
+        "The car"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_009_03",
+      "mode": "scientists",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Marie Curie study?"
+      },
+      "answer": "Radioactivity",
+      "distractors": [
+        "Dinosaurs",
+        "Plants",
+        "Volcanoes"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_009_04",
+      "mode": "scientists",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did the Wright brothers build?"
+      },
+      "answer": "The first airplane",
+      "distractors": [
+        "The first car",
+        "The first train",
+        "The first rocket"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_009_05",
+      "mode": "scientists",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Alexander Fleming discover?"
+      },
+      "answer": "Penicillin",
+      "distractors": [
+        "Gravity",
+        "Electricity",
+        "DNA"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_009_06",
+      "mode": "scientists",
+      "stage": 9,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "What did Charles Darwin write about?"
+      },
+      "answer": "Evolution",
+      "distractors": [
+        "Gravity",
+        "Electricity",
+        "Relativity"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_010_01",
+      "mode": "scientists",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who sent the first radio messages across the ocean?"
+      },
+      "answer": "Guglielmo Marconi",
+      "distractors": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_010_02",
+      "mode": "scientists",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who built the first car with a gasoline engine?"
+      },
+      "answer": "Karl Benz",
+      "distractors": [
+        "Henry Ford",
+        "James Watt",
+        "Rudolf Diesel"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_010_03",
+      "mode": "scientists",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the diesel engine?"
+      },
+      "answer": "Rudolf Diesel",
+      "distractors": [
+        "Karl Benz",
+        "James Watt",
+        "Henry Ford"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_010_04",
+      "mode": "scientists",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the phonograph, the first machine to record sound?"
+      },
+      "answer": "Thomas Edison",
+      "distractors": [
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_010_05",
+      "mode": "scientists",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who is called the father of modern chemistry?"
+      },
+      "answer": "Antoine Lavoisier",
+      "distractors": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_010_06",
+      "mode": "scientists",
+      "stage": 10,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented a way for blind people to read with their fingers?"
+      },
+      "answer": "Louis Braille",
+      "distractors": [
+        "Louis Pasteur",
+        "Helen Keller",
+        "Alexander Graham Bell"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_011_01",
+      "mode": "scientists",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first woman in space?"
+      },
+      "answer": "Valentina Tereshkova",
+      "distractors": [
+        "Sally Ride",
+        "Marie Curie",
+        "Mae Jemison"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_011_02",
+      "mode": "scientists",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the second person to walk on the Moon?"
+      },
+      "answer": "Buzz Aldrin",
+      "distractors": [
+        "Neil Armstrong",
+        "Yuri Gagarin",
+        "Michael Collins"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_011_03",
+      "mode": "scientists",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first Israeli astronaut?"
+      },
+      "answer": "Ilan Ramon",
+      "distractors": [
+        "Eytan Stibbe",
+        "Neil Armstrong",
+        "Yuri Gagarin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_011_04",
+      "mode": "scientists",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first American woman in space?"
+      },
+      "answer": "Sally Ride",
+      "distractors": [
+        "Valentina Tereshkova",
+        "Mae Jemison",
+        "Amelia Earhart"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_011_05",
+      "mode": "scientists",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which astronomer has a famous space telescope named after him?"
+      },
+      "answer": "Edwin Hubble",
+      "distractors": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Thomas Edison"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_011_06",
+      "mode": "scientists",
+      "stage": 11,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which American space agency sent people to the Moon?"
+      },
+      "answer": "NASA",
+      "distractors": [
+        "The Red Cross",
+        "UNESCO",
+        "FIFA"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_012_01",
+      "mode": "scientists",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which ancient Greek is called the father of medicine?"
+      },
+      "answer": "Hippocrates",
+      "distractors": [
+        "Aristotle",
+        "Plato",
+        "Archimedes"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_012_02",
+      "mode": "scientists",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who showed that germs cause disease and made a rabies vaccine?"
+      },
+      "answer": "Louis Pasteur",
+      "distractors": [
+        "Edward Jenner",
+        "Alexander Fleming",
+        "Jonas Salk"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_012_03",
+      "mode": "scientists",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered the different blood types?"
+      },
+      "answer": "Karl Landsteiner",
+      "distractors": [
+        "Louis Pasteur",
+        "Jonas Salk",
+        "Edward Jenner"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_012_04",
+      "mode": "scientists",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered X-rays?"
+      },
+      "answer": "Wilhelm Roentgen",
+      "distractors": [
+        "Marie Curie",
+        "Isaac Newton",
+        "Thomas Edison"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_012_05",
+      "mode": "scientists",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which doctor said washing hands stops infections?"
+      },
+      "answer": "Ignaz Semmelweis",
+      "distractors": [
+        "Sigmund Freud",
+        "Hippocrates",
+        "Jonas Salk"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_012_06",
+      "mode": "scientists",
+      "stage": 12,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which famous Jewish doctor and thinker is called the Rambam?"
+      },
+      "answer": "Maimonides",
+      "distractors": [
+        "Rashi",
+        "Hippocrates",
+        "Avicenna"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_013_01",
+      "mode": "scientists",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who wrote the famous geometry book called Elements?"
+      },
+      "answer": "Euclid",
+      "distractors": [
+        "Pythagoras",
+        "Archimedes",
+        "Aristotle"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_013_02",
+      "mode": "scientists",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Pi is about equal to..."
+      },
+      "answer": "3.14",
+      "distractors": [
+        "2.71",
+        "1.41",
+        "9.81"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_013_03",
+      "mode": "scientists",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented calculus, at the same time as Leibniz?"
+      },
+      "answer": "Isaac Newton",
+      "distractors": [
+        "Galileo Galilei",
+        "Albert Einstein",
+        "Euclid"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_013_04",
+      "mode": "scientists",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Our digits 0 to 9 first came from which country?"
+      },
+      "answer": "India",
+      "distractors": [
+        "Rome",
+        "Greece",
+        "Norway"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_013_05",
+      "mode": "scientists",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was a famous woman mathematician in ancient Alexandria?"
+      },
+      "answer": "Hypatia",
+      "distractors": [
+        "Cleopatra",
+        "Nefertiti",
+        "Ada Lovelace"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_013_06",
+      "mode": "scientists",
+      "stage": 13,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "A scientist who studies numbers and shapes is a..."
+      },
+      "answer": "Mathematician",
+      "distractors": [
+        "Biologist",
+        "Geologist",
+        "Astronaut"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_014_01",
+      "mode": "scientists",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Aaron Ciechanover and Avram Hershko won the Nobel Prize in..."
+      },
+      "answer": "Chemistry",
+      "distractors": [
+        "Literature",
+        "Peace",
+        "Music"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_014_02",
+      "mode": "scientists",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli won a Nobel Prize for studying how people make decisions?"
+      },
+      "answer": "Daniel Kahneman",
+      "distractors": [
+        "Shimon Peres",
+        "Dan Shechtman",
+        "Ada Yonath"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_014_03",
+      "mode": "scientists",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli Nobel Prize winner studied game theory?"
+      },
+      "answer": "Robert Aumann",
+      "distractors": [
+        "Daniel Kahneman",
+        "Dan Shechtman",
+        "Ada Yonath"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_014_04",
+      "mode": "scientists",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who said \"Imagination is more important than knowledge\"?"
+      },
+      "answer": "Albert Einstein",
+      "distractors": [
+        "Isaac Newton",
+        "Niels Bohr",
+        "Charles Darwin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_014_05",
+      "mode": "scientists",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Israeli invented the USB flash drive?"
+      },
+      "answer": "Dov Moran",
+      "distractors": [
+        "Dan Shechtman",
+        "Ada Yonath",
+        "Ilan Ramon"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_014_06",
+      "mode": "scientists",
+      "stage": 14,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "In which country was the Iron Dome defense system invented?"
+      },
+      "answer": "Israel",
+      "distractors": [
+        "Japan",
+        "Brazil",
+        "Canada"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_015_01",
+      "mode": "scientists",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who started Microsoft with Paul Allen?"
+      },
+      "answer": "Bill Gates",
+      "distractors": [
+        "Steve Jobs",
+        "Tim Berners-Lee",
+        "Elon Musk"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_015_02",
+      "mode": "scientists",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who started Apple with Steve Wozniak?"
+      },
+      "answer": "Steve Jobs",
+      "distractors": [
+        "Bill Gates",
+        "Mark Zuckerberg",
+        "Larry Page"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_015_03",
+      "mode": "scientists",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the electric battery?"
+      },
+      "answer": "Alessandro Volta",
+      "distractors": [
+        "Michael Faraday",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_015_04",
+      "mode": "scientists",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who built the first electric motor?"
+      },
+      "answer": "Michael Faraday",
+      "distractors": [
+        "Alessandro Volta",
+        "James Watt",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_015_05",
+      "mode": "scientists",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who showed one of the first working televisions?"
+      },
+      "answer": "John Logie Baird",
+      "distractors": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Henry Ford"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_015_06",
+      "mode": "scientists",
+      "stage": 15,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who designed the Difference Engine, an early computing machine?"
+      },
+      "answer": "Charles Babbage",
+      "distractors": [
+        "Alan Turing",
+        "Bill Gates",
+        "Blaise Pascal"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_016_01",
+      "mode": "scientists",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who studied mountain gorillas in Rwanda?"
+      },
+      "answer": "Dian Fossey",
+      "distractors": [
+        "Jane Goodall",
+        "Marie Curie",
+        "Rachel Carson"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_016_02",
+      "mode": "scientists",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who wrote Silent Spring, about protecting nature?"
+      },
+      "answer": "Rachel Carson",
+      "distractors": [
+        "Jane Goodall",
+        "Dian Fossey",
+        "Marie Curie"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_016_03",
+      "mode": "scientists",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who explored the oceans on the ship Calypso?"
+      },
+      "answer": "Jacques Cousteau",
+      "distractors": [
+        "Charles Darwin",
+        "James Cook",
+        "Neil Armstrong"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_016_04",
+      "mode": "scientists",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who made famous nature films like Planet Earth?"
+      },
+      "answer": "David Attenborough",
+      "distractors": [
+        "Jacques Cousteau",
+        "Charles Darwin",
+        "Steve Jobs"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_016_05",
+      "mode": "scientists",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who first saw bacteria, with a microscope he made himself?"
+      },
+      "answer": "Antonie van Leeuwenhoek",
+      "distractors": [
+        "Robert Hooke",
+        "Louis Pasteur",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_016_06",
+      "mode": "scientists",
+      "stage": 16,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered that bees dance to tell each other where food is?"
+      },
+      "answer": "Karl von Frisch",
+      "distractors": [
+        "Jane Goodall",
+        "Charles Darwin",
+        "Gregor Mendel"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_017_01",
+      "mode": "scientists",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who described electrons moving in orbits around the atom?"
+      },
+      "answer": "Niels Bohr",
+      "distractors": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_017_02",
+      "mode": "scientists",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered the neutron?"
+      },
+      "answer": "James Chadwick",
+      "distractors": [
+        "Ernest Rutherford",
+        "J. J. Thomson",
+        "Niels Bohr"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_017_03",
+      "mode": "scientists",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who came up with E = mc²?"
+      },
+      "answer": "Albert Einstein",
+      "distractors": [
+        "Isaac Newton",
+        "Nikola Tesla",
+        "Stephen Hawking"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_017_04",
+      "mode": "scientists",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who said that everything is made of atoms, in modern atomic theory?"
+      },
+      "answer": "John Dalton",
+      "distractors": [
+        "Isaac Newton",
+        "Charles Darwin",
+        "Louis Pasteur"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_017_05",
+      "mode": "scientists",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who showed that heavy and light objects fall at the same speed?"
+      },
+      "answer": "Galileo Galilei",
+      "distractors": [
+        "Isaac Newton",
+        "Archimedes",
+        "Aristotle"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_017_06",
+      "mode": "scientists",
+      "stage": 17,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which scientist gave his name to the temperature scale we use in Israel?"
+      },
+      "answer": "Anders Celsius",
+      "distractors": [
+        "Isaac Newton",
+        "James Watt",
+        "Alessandro Volta"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_018_01",
+      "mode": "scientists",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The watt, a unit of power, is named after..."
+      },
+      "answer": "James Watt",
+      "distractors": [
+        "Alessandro Volta",
+        "Andre-Marie Ampere",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_018_02",
+      "mode": "scientists",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The volt is named after..."
+      },
+      "answer": "Alessandro Volta",
+      "distractors": [
+        "James Watt",
+        "Nikola Tesla",
+        "Thomas Edison"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_018_03",
+      "mode": "scientists",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which unit of electric current is named after a French scientist?"
+      },
+      "answer": "Ampere",
+      "distractors": [
+        "Watt",
+        "Volt",
+        "Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_018_04",
+      "mode": "scientists",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which scientist gave his name to the unit of frequency?"
+      },
+      "answer": "Heinrich Hertz",
+      "distractors": [
+        "James Watt",
+        "Isaac Newton",
+        "Nikola Tesla"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_018_05",
+      "mode": "scientists",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The temperature scale that starts at absolute zero is named after..."
+      },
+      "answer": "Lord Kelvin",
+      "distractors": [
+        "Anders Celsius",
+        "Daniel Fahrenheit",
+        "Isaac Newton"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_018_06",
+      "mode": "scientists",
+      "stage": 18,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The temperature scale used in the USA is named after..."
+      },
+      "answer": "Daniel Fahrenheit",
+      "distractors": [
+        "Anders Celsius",
+        "Lord Kelvin",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_019_01",
+      "mode": "scientists",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which ancient Greek measured the size of the Earth using shadows?"
+      },
+      "answer": "Eratosthenes",
+      "distractors": [
+        "Archimedes",
+        "Pythagoras",
+        "Aristotle"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_019_02",
+      "mode": "scientists",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Greek philosopher was the teacher of Alexander the Great?"
+      },
+      "answer": "Aristotle",
+      "distractors": [
+        "Plato",
+        "Socrates",
+        "Archimedes"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_019_03",
+      "mode": "scientists",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who said that with a long enough lever he could move the world?"
+      },
+      "answer": "Archimedes",
+      "distractors": [
+        "Pythagoras",
+        "Euclid",
+        "Plato"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_019_04",
+      "mode": "scientists",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "The word algebra comes from the book of which scholar from Baghdad?"
+      },
+      "answer": "Al-Khwarizmi",
+      "distractors": [
+        "Avicenna",
+        "Archimedes",
+        "Euclid"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_019_05",
+      "mode": "scientists",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which invention from ancient China helped sailors find their way?"
+      },
+      "answer": "The compass",
+      "distractors": [
+        "The telescope",
+        "The airplane",
+        "The steam engine"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_019_06",
+      "mode": "scientists",
+      "stage": 19,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which ancient people built the pyramids of Giza?"
+      },
+      "answer": "The Egyptians",
+      "distractors": [
+        "The Vikings",
+        "The Celts",
+        "The Incas"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_020_01",
+      "mode": "scientists",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who made a polio vaccine that is swallowed instead of injected?"
+      },
+      "answer": "Albert Sabin",
+      "distractors": [
+        "Jonas Salk",
+        "Edward Jenner",
+        "Louis Pasteur"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_020_02",
+      "mode": "scientists",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which company, started by Elon Musk, builds rockets?"
+      },
+      "answer": "SpaceX",
+      "distractors": [
+        "NASA",
+        "Boeing",
+        "Microsoft"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_020_03",
+      "mode": "scientists",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who started Google?"
+      },
+      "answer": "Larry Page and Sergey Brin",
+      "distractors": [
+        "Bill Gates and Paul Allen",
+        "Steve Jobs and Steve Wozniak",
+        "The Wright brothers"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_020_04",
+      "mode": "scientists",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which scientist is famous for the Uncertainty Principle?"
+      },
+      "answer": "Werner Heisenberg",
+      "distractors": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Max Planck"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_020_05",
+      "mode": "scientists",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who described the double helix shape of DNA in 1953?"
+      },
+      "answer": "Watson and Crick",
+      "distractors": [
+        "Newton and Galileo",
+        "Curie and Pasteur",
+        "Darwin and Mendel"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_020_06",
+      "mode": "scientists",
+      "stage": 20,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who started quantum physics and has a famous constant named after him?"
+      },
+      "answer": "Max Planck",
+      "distractors": [
+        "Isaac Newton",
+        "Werner Heisenberg",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_021_01",
+      "mode": "scientists",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which NASA mathematician's story is told in the film Hidden Figures?"
+      },
+      "answer": "Katherine Johnson",
+      "distractors": [
+        "Rosalind Franklin",
+        "Sally Ride",
+        "Ada Lovelace"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_021_02",
+      "mode": "scientists",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who was the first woman to fly alone across the Atlantic Ocean?"
+      },
+      "answer": "Amelia Earhart",
+      "distractors": [
+        "Sally Ride",
+        "Valentina Tereshkova",
+        "Marie Curie"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_021_03",
+      "mode": "scientists",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which two elements did Marie Curie discover?"
+      },
+      "answer": "Polonium and radium",
+      "distractors": [
+        "Gold and silver",
+        "Iron and copper",
+        "Oxygen and hydrogen"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_021_04",
+      "mode": "scientists",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which daughter of Marie Curie also won a Nobel Prize?"
+      },
+      "answer": "Irene Joliot-Curie",
+      "distractors": [
+        "Rosalind Franklin",
+        "Lise Meitner",
+        "Ada Yonath"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_021_05",
+      "mode": "scientists",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which scientist helped discover nuclear fission and has element 109 named after her?"
+      },
+      "answer": "Lise Meitner",
+      "distractors": [
+        "Marie Curie",
+        "Ada Lovelace",
+        "Rosalind Franklin"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_021_06",
+      "mode": "scientists",
+      "stage": 21,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered that stars are made mostly of hydrogen and helium?"
+      },
+      "answer": "Cecilia Payne-Gaposchkin",
+      "distractors": [
+        "Marie Curie",
+        "Sally Ride",
+        "Jane Goodall"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_022_01",
+      "mode": "scientists",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who built the first working helicopter with one big rotor?"
+      },
+      "answer": "Igor Sikorsky",
+      "distractors": [
+        "The Wright brothers",
+        "Henry Ford",
+        "Leonardo da Vinci"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_022_02",
+      "mode": "scientists",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who built the famous early steam train called the Rocket?"
+      },
+      "answer": "George Stephenson",
+      "distractors": [
+        "James Watt",
+        "Henry Ford",
+        "Karl Benz"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_022_03",
+      "mode": "scientists",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented one of the first ways to take photographs?"
+      },
+      "answer": "Louis Daguerre",
+      "distractors": [
+        "Louis Braille",
+        "Louis Pasteur",
+        "Thomas Edison"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_022_04",
+      "mode": "scientists",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the stethoscope that doctors use?"
+      },
+      "answer": "Rene Laennec",
+      "distractors": [
+        "Louis Pasteur",
+        "Hippocrates",
+        "Edward Jenner"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_022_05",
+      "mode": "scientists",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented a code of dots and dashes for the telegraph?"
+      },
+      "answer": "Samuel Morse",
+      "distractors": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_022_06",
+      "mode": "scientists",
+      "stage": 22,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented the jet engine in Britain?"
+      },
+      "answer": "Frank Whittle",
+      "distractors": [
+        "The Wright brothers",
+        "Igor Sikorsky",
+        "Henry Ford"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_023_01",
+      "mode": "scientists",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered Pluto in 1930?"
+      },
+      "answer": "Clyde Tombaugh",
+      "distractors": [
+        "Galileo Galilei",
+        "Edwin Hubble",
+        "William Herschel"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_023_02",
+      "mode": "scientists",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered that the universe is expanding?"
+      },
+      "answer": "Edwin Hubble",
+      "distractors": [
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Nicolaus Copernicus"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_023_03",
+      "mode": "scientists",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who predicted when a famous comet would come back, so it is named after him?"
+      },
+      "answer": "Edmond Halley",
+      "distractors": [
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_023_04",
+      "mode": "scientists",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who first said that the continents slowly drift apart?"
+      },
+      "answer": "Alfred Wegener",
+      "distractors": [
+        "Charles Darwin",
+        "Isaac Newton",
+        "Galileo Galilei"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_023_05",
+      "mode": "scientists",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who invented a scale that measures how strong earthquakes are?"
+      },
+      "answer": "Charles Richter",
+      "distractors": [
+        "Alfred Wegener",
+        "Edwin Hubble",
+        "Anders Celsius"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_023_06",
+      "mode": "scientists",
+      "stage": 23,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Which Danish astronomer measured the stars very carefully, before telescopes?"
+      },
+      "answer": "Tycho Brahe",
+      "distractors": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Nicolaus Copernicus"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_024_01",
+      "mode": "scientists",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who discovered insulin, a medicine for diabetes?"
+      },
+      "answer": "Frederick Banting",
+      "distractors": [
+        "Alexander Fleming",
+        "Jonas Salk",
+        "Louis Pasteur"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_024_02",
+      "mode": "scientists",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who first showed that the heart pumps blood around the whole body?"
+      },
+      "answer": "William Harvey",
+      "distractors": [
+        "Hippocrates",
+        "William Herschel",
+        "Edward Jenner"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_024_03",
+      "mode": "scientists",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who used a prism to show that white light is made of many colors?"
+      },
+      "answer": "Isaac Newton",
+      "distractors": [
+        "Galileo Galilei",
+        "Thomas Edison",
+        "Albert Einstein"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_024_04",
+      "mode": "scientists",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who flew the first hot-air balloon?"
+      },
+      "answer": "The Montgolfier brothers",
+      "distractors": [
+        "The Wright brothers",
+        "The Grimm brothers",
+        "The Lumiere brothers"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_024_05",
+      "mode": "scientists",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who showed the first movies to an audience?"
+      },
+      "answer": "The Lumiere brothers",
+      "distractors": [
+        "The Montgolfier brothers",
+        "The Wright brothers",
+        "The Grimm brothers"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    },
+    {
+      "id": "sct_024_06",
+      "mode": "scientists",
+      "stage": 24,
+      "challengeType": "multiple_choice_text",
+      "prompt": {
+        "text": "Who wrote the equations of electricity and magnetism?"
+      },
+      "answer": "James Clerk Maxwell",
+      "distractors": [
+        "James Watt",
+        "James Chadwick",
+        "James Cook"
+      ],
+      "tags": [
+        "scientists"
+      ]
+    }
+  ]
+}

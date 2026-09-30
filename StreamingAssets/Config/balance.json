@@ -1,0 +1,17 @@
+{
+  "coinsPerCorrect": 10,
+  "xpPerCorrect": 10,
+  "starsPerCorrect": 1,
+  "stageClearCoins": 20,
+  "stageClearXp": 20,
+  "homeworkCoinsPerCorrect": 15,
+  "homeworkXpPerCorrect": 15,
+  "homeworkFinishCoins": 50,
+  "homeworkFinishXp": 50,
+  "defaultQuestionsPerStage": 4,
+  "skipAfterWrongAttempts": 3,
+  "levelBaseXp": 50,
+  "levelStepXp": 10,
+  "maxStage": 100,
+  "evolutionLevels": [10, 25]
+}
